@@ -1,4 +1,11 @@
-﻿namespace DrawDotsApp
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DrawDotsApp
 {
     public class Zone
     {
@@ -6,10 +13,10 @@
         private int my;
         private int delta_x;
         private int delta_y;
-        private int culoare;
+        private Pen  culoare;
 
         //constructor
-        public Zone(int x, int y, int deltax, int deltay, int cul)
+        public Zone(int x, int y, int deltax, int deltay, Pen cul)
         {
             mx = x;
             my = y;
@@ -34,7 +41,7 @@
         {
             return delta_y;
         }
-        public int getCuloare()
+        public Pen getCuloare()
         {
             return culoare;
         }
