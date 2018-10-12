@@ -12,21 +12,29 @@ namespace DrawDotsApp
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-            //get current x and y 
+            //set default x and y 
             int x = 0;
             int y = 0;
 
             //set zones 
             Zone z1 = new Zone(120, 30, 10, 5, Pens.Blue);
-            calculateNewCoordonate(z1.getX());
-            calculateNewCoordonate(z1.getY());
+            int z1x = calculateNewCoordonate(z1.getX());
+            int z1y = calculateNewCoordonate(z1.getY());
+
+            //chose 3 zones random out of 5
+
+            //calculate dispersion
 
             //draw points
             Graphics graphics = this.CreateGraphics();
-            graphics.DrawEllipse(Pens.Black, 0, 300, 300, 50);
+            graphics.DrawEllipse(z1.getCuloare(), z1x, z1y, 5, 5);
 
+            for (int i = 0; i < 1000; i++)
+            {
+                //draw 1000 different points 
+                // graphics.DrawEllipse(z1.getCuloare(), z1x, z1y, 5, 5);
+            }
 
-            graphics.DrawEllipse(z1.getCuloare(), z1.getX(), z1.getY(), 5, 5);
         }
 
         private int calculateNewCoordonate(int coordonate)
