@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -125,6 +126,72 @@ namespace DrawDotsApp
             SolidBrush transparencyColorBrush = new SolidBrush(transparencyColor);
             graphics.FillEllipse(transparencyColorBrush, mx - delta_x / 2, my - delta_y / 2, delta_x, delta_y);
             graphics.Dispose();
+        }
+
+        public void Zona_1()
+        {
+            CreateZone(54, 51, 119, ValueZ1());
+        }
+
+        public void Zona_2()
+        {
+            CreateZone(140, 190, 95, ValueZ2());
+        }
+
+        public void Zona_3()
+        {
+            CreateZone(199, 78, 144, ValueZ3());
+        }
+
+        public void Zona_4()
+        {
+            CreateZone(6, 67, 178, ValueZ4());
+        }
+
+        public void Zona_5()
+        {
+            CreateZone(212, 147, 106, ValueZ5());
+        }
+
+        //draw random points
+        public void DrawPoints(Zone zone, Pen pen)
+        {
+            float mx = zone.getX();
+            float my = zone.getY();
+            int delta_x = zone.getDeltaX();
+            int delta_y = zone.getDeltaY();
+
+            Random random = new Random();
+
+            //draw 1000 random points
+            for (int k = 0; k < 1000; k++)
+            {
+                float x, Gx, pa, y, Gy;
+                float xy_dim = 1;
+                do
+                {
+                    x = random.Next(-300, 300);
+                    x = CalculateNewX(x);
+                    Gx = (float)Math.Pow(Math.E, (-((mx - x) * (mx - x) / (2 * delta_x * delta_x))));
+
+                    pa = (float)random.NextDouble();
+                }
+                while (Gx < pa);
+                do
+                {
+                    y = random.Next(-300, 300);
+                    y = CalculateNewY(y);
+                    Gy = (float)Math.Pow(Math.E, (-((my - y) * (my - y) / (2 * delta_y * delta_y))));
+
+                    pa = (float)random.NextDouble();
+                }
+                while (Gy < pa);
+                Graphics graphics;
+                graphics = this.CreateGraphics();
+                graphics.DrawEllipse(pen, x, y, xy_dim, xy_dim);
+                graphics.Dispose();
+
+            }
         }
     }
 }
