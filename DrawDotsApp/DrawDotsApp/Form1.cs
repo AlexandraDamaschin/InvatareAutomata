@@ -12,6 +12,25 @@ namespace DrawDotsApp
             InitializeComponent();
         }
 
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            CreateLinesCoordonates();
+
+            //chose 3 zones random out of 5
+
+            //calculate dispersion
+
+            //draw points
+            Graphics graphics = this.CreateGraphics();
+            graphics.DrawEllipse(z1.getCuloare(), 0, 0, 5, 5);
+
+            for (int i = 0; i < 1000; i++)
+            {
+                //draw 1000 different points 
+                // graphics.DrawEllipse(z1.getCuloare(), z1x, z1y, 5, 5);
+            }
+
+        }
         //create lines coordonate
         public void CreateLinesCoordonates()
         {
@@ -37,26 +56,6 @@ namespace DrawDotsApp
             }
 
             oX_oY.Dispose();
-        }
-
-        private void Form1_Paint(object sender, PaintEventArgs e)
-        {
-            CreateLinesCoordonates();
-
-            //chose 3 zones random out of 5
-
-            //calculate dispersion
-
-            //draw points
-            Graphics graphics = this.CreateGraphics();
-            graphics.DrawEllipse(z1.getCuloare(), 0, 0, 5, 5);
-
-            for (int i = 0; i < 1000; i++)
-            {
-                //draw 1000 different points 
-                // graphics.DrawEllipse(z1.getCuloare(), z1x, z1y, 5, 5);
-            }
-
         }
 
         //calculate new x
