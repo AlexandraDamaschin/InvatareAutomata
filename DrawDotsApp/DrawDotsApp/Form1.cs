@@ -109,13 +109,22 @@ namespace DrawDotsApp
             return z5;
         }
 
-        //create zones
+        //create zones with custom colors
         public void CreateZone(int x, int y, int z, Zone zone)
         {
             float mx = zone.getX();
             float my = zone.getY();
             int delta_x = zone.getDeltaX();
             int delta_y = zone.getDeltaY();
+
+            Graphics graphics;
+            graphics = this.CreateGraphics();
+
+            Color customColor = Color.FromArgb(x, y, z);
+            Color transparencyColor = Color.FromArgb(90, customColor);
+            SolidBrush transparencyColorBrush = new SolidBrush(transparencyColor);
+            graphics.FillEllipse(transparencyColorBrush, mx - delta_x / 2, my - delta_y / 2, delta_x, delta_y);
+            graphics.Dispose();
         }
     }
 }
