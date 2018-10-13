@@ -9,14 +9,14 @@ namespace DrawDotsApp
 {
     public class Zone
     {
-        private int mx;
-        private int my;
+        private float mx;
+        private float my;
         private int delta_x;
         private int delta_y;
         private Pen  culoare;
 
         //constructor
-        public Zone(int x, int y, int deltax, int deltay, Pen cul)
+        public Zone(float x, float y, float deltax, int deltay, Pen cul)
         {
             mx = x;
             my = y;
@@ -25,11 +25,11 @@ namespace DrawDotsApp
             culoare = cul;
         }
 
-        public int getX()
+        public float getX()
         {
             return mx;
         }
-        public int getY()
+        public float getY()
         {
             return my;
         }

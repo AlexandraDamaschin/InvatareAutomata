@@ -1,4 +1,5 @@
-﻿using System.Drawing;
+﻿using System.Collections.Generic;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace DrawDotsApp
@@ -39,14 +40,7 @@ namespace DrawDotsApp
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-
             CreateLinesCoordonates();
-            //set default x and y 
-            int x = 0;
-            int y = 0;
-
-            //set zones 
-            Zone z1 = new Zone(120, 30, 10, 5, Pens.Blue);
 
             //chose 3 zones random out of 5
 
@@ -76,6 +70,52 @@ namespace DrawDotsApp
         {
             float newY = 300 - y;
             return newY;
+        }
+
+        //set zones
+        public Zone ValueZ1()
+        {
+            float newX = CalculateNewX(10);
+            float newY = CalculateNewY(-120);
+            Zone z1 = new Zone(newX, newY, 10, 10, Pens.Blue);
+            return z1;
+        }
+        public Zone ValueZ2()
+        {
+            float newX = CalculateNewX(260);
+            float newY = CalculateNewY(-20);
+            Zone z2 = new Zone(newX, newY, 5, 10, Pens.Blue);
+            return z2;
+        }
+        public Zone ValueZ3()
+        {
+            float newX = CalculateNewX(-160);
+            float newY = CalculateNewY(-210);
+            Zone z3 = new Zone(newX, newY, 55, 25, Pens.Blue);
+            return z3;
+        }
+        public Zone ValueZ4()
+        {
+            float newX = CalculateNewX(-120);
+            float newY = CalculateNewY(120);
+            Zone z4 = new Zone(newX, newY, 30, 35, Pens.Blue);
+            return z4;
+        }
+        public Zone ValueZ5()
+        {
+            float newX = CalculateNewX(160);
+            float newY = CalculateNewY(150);
+            Zone z5 = new Zone(newX, newY, 10, 15, Pens.Blue);
+            return z5;
+        }
+
+        //create zones
+        public void CreateZone(int x, int y, int z, Zone zone)
+        {
+            float mx = zone.getX();
+            float my = zone.getY();
+            int delta_x = zone.getDeltaX();
+            int delta_y = zone.getDeltaY();
         }
     }
 }
