@@ -10,8 +10,38 @@ namespace DrawDotsApp
             InitializeComponent();
         }
 
+        //create lines coordonate
+        public void CreateLinesCoordonates()
+        {
+            Graphics oX_oY;
+            oX_oY = this.CreateGraphics();
+
+            //create oX from 0 to 600
+            oX_oY.DrawLine(Pens.Black, 0, 300, 600, 300);
+
+            //create oY from 0 to 600
+            oX_oY.DrawLine(Pens.Black, 300, 0, 300, 600);
+
+            //Grade oX by 5
+            for (int x = 0; x <= 600; x = x + 5)
+            {
+                oX_oY.DrawLine(Pens.Black, x, 299, x, 302);
+            }
+
+            //Grade oY by 5
+            for (int y = 0; y <= 600; y = y + 5)
+            {
+                oX_oY.DrawLine(Pens.Black, 299, y, 302, y);
+            }
+
+            oX_oY.Dispose();
+        }
+
+
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
+
+            CreateLinesCoordonates();
             //set default x and y 
             int x = 0;
             int y = 0;
