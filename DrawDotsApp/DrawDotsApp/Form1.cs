@@ -181,6 +181,7 @@ namespace DrawDotsApp
             }
         }
 
+        //todo: here might be the error
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             CreateLinesCoordonates();
