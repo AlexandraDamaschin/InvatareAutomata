@@ -37,7 +37,6 @@ namespace DrawDotsApp
             oX_oY.Dispose();
         }
 
-
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -48,8 +47,6 @@ namespace DrawDotsApp
 
             //set zones 
             Zone z1 = new Zone(120, 30, 10, 5, Pens.Blue);
-            int z1x = calculateNewCoordonate(z1.getX());
-            int z1y = calculateNewCoordonate(z1.getY());
 
             //chose 3 zones random out of 5
 
@@ -57,7 +54,7 @@ namespace DrawDotsApp
 
             //draw points
             Graphics graphics = this.CreateGraphics();
-            graphics.DrawEllipse(z1.getCuloare(), z1x, z1y, 5, 5);
+            graphics.DrawEllipse(z1.getCuloare(), 0, 0, 5, 5);
 
             for (int i = 0; i < 1000; i++)
             {
@@ -67,10 +64,18 @@ namespace DrawDotsApp
 
         }
 
-        private int calculateNewCoordonate(int coordonate)
+        //calculate new x
+        public float CalculateNewX(float x)
         {
-            int newCoordonate = coordonate + 300;
-            return newCoordonate;
+            float newX = 300 + x;
+            return newX;
+        }
+
+        //calculate new y
+        public float CalculateNewY(float y)
+        {
+            float newY = 300 - y;
+            return newY;
         }
     }
 }
