@@ -182,6 +182,7 @@ namespace DrawDotsApp
         }
 
         //todo: here might be the error
+        //drawing just the first dot
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             CreateLinesCoordonates();
