@@ -12,6 +12,61 @@ namespace DrawDotsApp
             InitializeComponent();
         }
 
+        //draw points in the form
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            CreateLinesCoordonates();
+
+            //chose random zones
+            List<int> randomZone = new List<int>();
+            Random random = new Random();
+            for (int i = 1; i <= 5; i++)
+            {
+                int numberOfZone;
+                do numberOfZone = random.Next(1, 6); //chose a random number between 1 and 6
+                while (randomZone.Contains(numberOfZone));
+
+                switch (numberOfZone)
+                {
+                    case 1:
+                        Zona_1();
+                        Color colorZ1 = Color.FromArgb(54, 51, 119);
+                        Color.FromArgb(54, 51, 119);
+                        SolidBrush brushZ1 = new SolidBrush(colorZ1);
+                        Pen penColorZ1 = new Pen(brushZ1);
+                        DrawPoints(ValueZ1(), penColorZ1);
+                        break;
+                    case 2:
+                        Color colorZ2 = Color.FromArgb(140, 190, 95);
+                        SolidBrush brushZ2 = new SolidBrush(colorZ2);
+                        Pen penColorZ2 = new Pen(brushZ2);
+                        DrawPoints(ValueZ2(), penColorZ2);
+                        break;
+                    case 3:
+                        Zona_3();
+                        Color colorZ3 = Color.FromArgb(199, 78, 144);
+                        SolidBrush brushZ3 = new SolidBrush(colorZ3);
+                        Pen penColorZ3 = new Pen(brushZ3);
+                        DrawPoints(ValueZ3(), penColorZ3);
+                        break;
+                    case 4:
+                        Zona_4();
+                        Color colorZ4 = Color.FromArgb(6, 67, 178);
+                        SolidBrush brushZ4 = new SolidBrush(colorZ4);
+                        Pen penColorZ4 = new Pen(brushZ4);
+                        DrawPoints(ValueZ4(), penColorZ4);
+                        break;
+                    case 5:
+                        Zona_5();
+                        Color colorZ5 = Color.FromArgb(212, 147, 106);
+                        SolidBrush brushZ5 = new SolidBrush(colorZ5);
+                        Pen penColorZ5 = new Pen(brushZ5);
+                        DrawPoints(ValueZ5(), penColorZ5);
+                        break;
+                }
+                randomZone.Add(numberOfZone);
+            }
+        }
         //create lines coordonate
         public void CreateLinesCoordonates()
         {
@@ -120,7 +175,7 @@ namespace DrawDotsApp
             float my = zone[1];
             float delta_x = zone[2];
             float delta_y = zone[3];
-             
+
             Graphics graphics;
             graphics = this.CreateGraphics();
 
@@ -196,62 +251,6 @@ namespace DrawDotsApp
                 graph = this.CreateGraphics();
                 graph.DrawEllipse(pen, x, y, x_Y_dim, x_Y_dim);
                 graph.Dispose();
-            }
-        }
-
-        //draw points in the form
-        private void Form1_Paint(object sender, PaintEventArgs e)
-        {
-            CreateLinesCoordonates();
-
-            //chose random zones
-            List<int> randomZone = new List<int>();
-            Random random = new Random();
-            for (int i = 1; i <= 5; i++)
-            {
-                int numberOfZone;
-                do numberOfZone = random.Next(1, 6); //chose a random number between 1 and 6
-                while (randomZone.Contains(numberOfZone));
-
-                switch (numberOfZone)
-                {
-                    case 1:
-                        Zona_1();
-                        Color colorZ1 = Color.FromArgb(54, 51, 119);
-                        Color.FromArgb(54, 51, 119);
-                        SolidBrush brushZ1 = new SolidBrush(colorZ1);
-                        Pen penColorZ1 = new Pen(brushZ1);
-                        DrawPoints(ValueZ1(), penColorZ1);
-                        break;
-                    case 2:
-                        Color colorZ2 = Color.FromArgb(140, 190, 95);
-                        SolidBrush brushZ2 = new SolidBrush(colorZ2);
-                        Pen penColorZ2 = new Pen(brushZ2);
-                        DrawPoints(ValueZ2(), penColorZ2);
-                        break;
-                    case 3:
-                        Zona_3();
-                        Color colorZ3 = Color.FromArgb(199, 78, 144);
-                        SolidBrush brushZ3 = new SolidBrush(colorZ3);
-                        Pen penColorZ3 = new Pen(brushZ3);
-                        DrawPoints(ValueZ3(), penColorZ3);
-                        break;
-                    case 4:
-                        Zona_4();
-                        Color colorZ4 = Color.FromArgb(6, 67, 178);
-                        SolidBrush brushZ4 = new SolidBrush(colorZ4);
-                        Pen penColorZ4 = new Pen(brushZ4);
-                        DrawPoints(ValueZ4(), penColorZ4);
-                        break;
-                    case 5:
-                        Zona_5();
-                        Color colorZ5 = Color.FromArgb(212, 147, 106);
-                        SolidBrush brushZ5 = new SolidBrush(colorZ5);
-                        Pen penColorZ5 = new Pen(brushZ5);
-                        DrawPoints(ValueZ5(), penColorZ5);
-                        break;
-                }
-                randomZone.Add(numberOfZone);
             }
         }
     }
