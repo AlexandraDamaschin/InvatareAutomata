@@ -120,18 +120,17 @@ namespace DrawDotsApp
             float my = zone[1];
             float delta_x = zone[2];
             float delta_y = zone[3];
-
+             
             Graphics graphics;
             graphics = this.CreateGraphics();
 
-            Color customColor = Color.FromArgb(x, y, z);
-            Color transparencyColor = Color.FromArgb(90, customColor);
-            SolidBrush transparencyColorBrush = new SolidBrush(transparencyColor);
+            Color customColor = Color.FromArgb(x, y, z); //get color of zone
+            SolidBrush transparencyColorBrush = new SolidBrush(customColor); //set color as brush for inside ellipse
             graphics.FillEllipse(transparencyColorBrush, mx - delta_x / 2, my - delta_y / 2, delta_x, delta_y);
             graphics.Dispose();
         }
 
-        #region custom colors for zones
+        #region custom colors for each zone
         public void Zona_1()
         {
             CreateZone(191, 18, 246, ValueZ1()); //PURPLE
@@ -177,17 +176,19 @@ namespace DrawDotsApp
                 float x_Y_dim = 1;
                 do
                 {
+                    //draw points on x axis
                     x = random.Next(-300, 300);
                     x = CalculateNewX(x);
-                    G_X = (float)Math.Pow(Math.E, (-((mx - x) * (mx - x) / (2 * delta_x * delta_x))));
+                    G_X = (float)Math.Pow(Math.E, (-((mx - x) * (mx - x) / (2 * delta_x * delta_x)))); //formula
                     pa = (float)random.NextDouble();
                 }
                 while (G_X < pa);
                 do
                 {
+                    //draw points on y axis
                     y = random.Next(-300, 300);
                     y = CalculateNewY(y);
-                    G_Y = (float)Math.Pow(Math.E, (-((my - y) * (my - y) / (2 * delta_y * delta_y))));
+                    G_Y = (float)Math.Pow(Math.E, (-((my - y) * (my - y) / (2 * delta_y * delta_y)))); //formula
                     pa = (float)random.NextDouble();
                 }
                 while (G_Y < pa);
@@ -198,19 +199,18 @@ namespace DrawDotsApp
             }
         }
 
-        //todo: here might be the error
-        //drawing just the first dot
+        //draw points in the form
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             CreateLinesCoordonates();
 
-            //chose random zones out of 5
+            //chose random zones
             List<int> randomZone = new List<int>();
             Random random = new Random();
             for (int i = 1; i <= 5; i++)
             {
                 int numberOfZone;
-                do numberOfZone = random.Next(1, 6);
+                do numberOfZone = random.Next(1, 6); //chose a random number between 1 and 6
                 while (randomZone.Contains(numberOfZone));
 
                 switch (numberOfZone)
