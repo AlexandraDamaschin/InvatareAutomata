@@ -56,50 +56,70 @@ namespace DrawDotsApp
         #endregion
 
         #region  set zones
-        public Zone ValueZ1()
+        public List<float> ValueZ1()
         {
             float newX = CalculateNewX(10);
             float newY = CalculateNewY(-120);
-            Zone z1 = new Zone(newX, newY, 10, 10, Pens.Blue);
+            List<float> z1 = new List<float>();
+            z1.Add(newX);
+            z1.Add(newY);
+            z1.Add(10); //deltaX
+            z1.Add(10); //deltaY
             return z1;
         }
-        public Zone ValueZ2()
+        public List<float> ValueZ2()
         {
             float newX = CalculateNewX(260);
             float newY = CalculateNewY(-20);
-            Zone z2 = new Zone(newX, newY, 5, 10, Pens.Blue);
+            List<float> z2 = new List<float>();
+            z2.Add(newX);
+            z2.Add(newY);
+            z2.Add(5); //deltaX
+            z2.Add(10); //deltaY
             return z2;
         }
-        public Zone ValueZ3()
+        public List<float> ValueZ3()
         {
             float newX = CalculateNewX(-160);
             float newY = CalculateNewY(-210);
-            Zone z3 = new Zone(newX, newY, 55, 25, Pens.Blue);
+            List<float> z3 = new List<float>();
+            z3.Add(newX);
+            z3.Add(newY);
+            z3.Add(55); //deltaX
+            z3.Add(20); //deltaY
             return z3;
         }
-        public Zone ValueZ4()
+        public List<float> ValueZ4()
         {
             float newX = CalculateNewX(-120);
             float newY = CalculateNewY(120);
-            Zone z4 = new Zone(newX, newY, 30, 35, Pens.Blue);
+            List<float> z4 = new List<float>();
+            z4.Add(newX);
+            z4.Add(newY);
+            z4.Add(35); //deltaX
+            z4.Add(30); //deltaY
             return z4;
         }
-        public Zone ValueZ5()
+        public List<float> ValueZ5()
         {
             float newX = CalculateNewX(160);
             float newY = CalculateNewY(150);
-            Zone z5 = new Zone(newX, newY, 10, 15, Pens.Blue);
+            List<float> z5 = new List<float>();
+            z5.Add(newX);
+            z5.Add(newY);
+            z5.Add(15); //deltaX
+            z5.Add(10); //deltaY
             return z5;
         }
         #endregion
 
         //create zones with custom colors
-        public void CreateZone(int x, int y, int z, Zone zone)
+        public void CreateZone(int x, int y, int z, List<float> zone)
         {
-            float mx = zone.getX();
-            float my = zone.getY();
-            int delta_x = zone.getDeltaX();
-            int delta_y = zone.getDeltaY();
+            float mx = zone[0];
+            float my = zone[1];
+            float delta_x = zone[2];
+            float delta_y = zone[3];
 
             Graphics graphics;
             graphics = this.CreateGraphics();
@@ -139,24 +159,21 @@ namespace DrawDotsApp
         #endregion
 
         //draw random points
-        public void DrawPoints(Zone zone, Pen pen)
+        public void DrawPoints(List<float> zone, Pen pen)
         {
-            float mx = zone.getX();
-            float my = zone.getY();
-            int delta_x = zone.getDeltaX();
-            int delta_y = zone.getDeltaY();
+            float mx = zone[0];
+            float my = zone[1];
+            float delta_x = zone[2];
+            float delta_y = zone[3];
 
             Random random = new Random();
 
             //draw 1000 random points
             for (int k = 0; k < 1000; k++)
             {
-
-                float x;
-                float G_X;
+                float x, G_X;
                 float pa;
-                float y;
-                float G_Y;
+                float y, G_Y;
                 float x_Y_dim = 1;
                 do
                 {
