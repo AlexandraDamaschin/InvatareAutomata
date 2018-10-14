@@ -80,12 +80,12 @@ namespace DrawDotsApp
         }
         public List<float> ValueZ3()
         {
-            float newX = CalculateNewX(-160);
-            float newY = CalculateNewY(-210);
+            float newX = CalculateNewX(-100);
+            float newY = CalculateNewY(-150);
             List<float> z3 = new List<float>();
             z3.Add(newX);
             z3.Add(newY);
-            z3.Add(55); //deltaX
+            z3.Add(25); //deltaX
             z3.Add(20); //deltaY
             return z3;
         }
@@ -96,18 +96,18 @@ namespace DrawDotsApp
             List<float> z4 = new List<float>();
             z4.Add(newX);
             z4.Add(newY);
-            z4.Add(35); //deltaX
-            z4.Add(30); //deltaY
+            z4.Add(15); //deltaX
+            z4.Add(10); //deltaY
             return z4;
         }
         public List<float> ValueZ5()
         {
-            float newX = CalculateNewX(160);
-            float newY = CalculateNewY(150);
+            float newX = CalculateNewX(100);
+            float newY = CalculateNewY(130);
             List<float> z5 = new List<float>();
             z5.Add(newX);
             z5.Add(newY);
-            z5.Add(15); //deltaX
+            z5.Add(5); //deltaX
             z5.Add(10); //deltaY
             return z5;
         }
@@ -134,27 +134,27 @@ namespace DrawDotsApp
         #region custom colors for zones
         public void Zona_1()
         {
-            CreateZone(54, 51, 119, ValueZ1());
+            CreateZone(191, 18, 246, ValueZ1()); //PURPLE
         }
 
         public void Zona_2()
         {
-            CreateZone(140, 190, 95, ValueZ2());
+            CreateZone(140, 190, 95, ValueZ2()); //GREEN
         }
 
         public void Zona_3()
         {
-            CreateZone(199, 78, 144, ValueZ3());
+            CreateZone(199, 78, 144, ValueZ3());  //PINK
         }
 
         public void Zona_4()
         {
-            CreateZone(6, 67, 178, ValueZ4());
+            CreateZone(6, 67, 178, ValueZ4());  // DARK BLUE
         }
 
         public void Zona_5()
         {
-            CreateZone(212, 147, 106, ValueZ5());
+            CreateZone(212, 147, 106, ValueZ5());   // BEIGE
         }
         #endregion
 

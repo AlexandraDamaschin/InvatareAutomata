@@ -1,6 +1,7 @@
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\bin\Debug\DrawDotsApp.exe.config
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\bin\Debug\DrawDotsApp.exe
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\bin\Debug\DrawDotsApp.pdb
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\obj\Debug\DrawDotsApp.csprojAssemblyReference.cache
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\obj\Debug\DrawDotsApp.Form1.resources
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\obj\Debug\DrawDotsApp.Properties.Resources.resources
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\DrawDotsApp\DrawDotsApp\obj\Debug\DrawDotsApp.csproj.GenerateResource.cache
