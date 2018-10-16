@@ -29,35 +29,36 @@ namespace DrawDotsApp
                 switch (numberOfZone)
                 {
                     case 1:
-                        Zona_1();
-                        Color colorZ1 = Color.FromArgb(54, 51, 119);
+                        int x1Argb = 191, y1Argb = 18, z1Argb = 246; //purple
+                        Color colorZ1 = Color.FromArgb(x1Argb, y1Argb, z1Argb);
                         SolidBrush brushZ1 = new SolidBrush(colorZ1);
                         Pen penColorZ1 = new Pen(brushZ1);
                         DrawPoints(ValueZ1(), penColorZ1);
                         break;
                     case 2:
-                        Color colorZ2 = Color.FromArgb(140, 190, 95);
+                        int x2Argb = 140, y2Argb = 195, z2Argb = 120; //green
+                        Color colorZ2 = Color.FromArgb(x2Argb, y2Argb, z2Argb);
                         SolidBrush brushZ2 = new SolidBrush(colorZ2);
                         Pen penColorZ2 = new Pen(brushZ2);
                         DrawPoints(ValueZ2(), penColorZ2);
                         break;
                     case 3:
-                        Zona_3();
-                        Color colorZ3 = Color.FromArgb(199, 78, 144);
+                        int x3Argb = 200, y3Argb = 85, z3Argb = 170; //pink
+                        Color colorZ3 = Color.FromArgb(x3Argb, y3Argb, z3Argb);
                         SolidBrush brushZ3 = new SolidBrush(colorZ3);
                         Pen penColorZ3 = new Pen(brushZ3);
                         DrawPoints(ValueZ3(), penColorZ3);
                         break;
                     case 4:
-                        Zona_4();
-                        Color colorZ4 = Color.FromArgb(6, 67, 178);
+                        int x4Argb = 10, y4Argb = 54, z4Argb = 170; //blue
+                        Color colorZ4 = Color.FromArgb(x4Argb, y4Argb, z4Argb);
                         SolidBrush brushZ4 = new SolidBrush(colorZ4);
                         Pen penColorZ4 = new Pen(brushZ4);
                         DrawPoints(ValueZ4(), penColorZ4);
                         break;
                     case 5:
-                        Zona_5();
-                        Color colorZ5 = Color.FromArgb(212, 147, 106);
+                        int x5Argb = 200, y5Argb = 185, z5Argb = 170; //beige
+                        Color colorZ5 = Color.FromArgb(x5Argb, y5Argb, z5Argb);
                         SolidBrush brushZ5 = new SolidBrush(colorZ5);
                         Pen penColorZ5 = new Pen(brushZ5);
                         DrawPoints(ValueZ5(), penColorZ5);
@@ -183,33 +184,7 @@ namespace DrawDotsApp
             graphics.FillEllipse(transparencyColorBrush, mx - delta_x / 2, my - delta_y / 2, delta_x, delta_y);
             graphics.Dispose();
         }
-
-        #region custom colors for each zone
-        public void Zona_1()
-        {
-            CreateZone(191, 18, 246, ValueZ1()); //PURPLE
-        }
-
-        public void Zona_2()
-        {
-            CreateZone(140, 190, 95, ValueZ2()); //GREEN
-        }
-
-        public void Zona_3()
-        {
-            CreateZone(199, 78, 144, ValueZ3());  //PINK
-        }
-
-        public void Zona_4()
-        {
-            CreateZone(6, 67, 178, ValueZ4());  // DARK BLUE
-        }
-
-        public void Zona_5()
-        {
-            CreateZone(212, 147, 106, ValueZ5());   // BEIGE
-        }
-        #endregion
+        
 
         //draw random points
         public void DrawPoints(List<float> zone, Pen pen)
