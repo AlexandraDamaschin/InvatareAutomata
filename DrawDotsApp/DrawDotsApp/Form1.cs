@@ -168,7 +168,7 @@ namespace DrawDotsApp
             return z5;
         }
         #endregion
-        
+
         //draw random points
         public void DrawPoints(List<float> zone, Pen pen)
         {
@@ -200,15 +200,16 @@ namespace DrawDotsApp
                     //draw points on y axis
                     y = random.Next(-300, 300);
                     y = CalculateNewY(y);
+                    //todo: write x and y to a txt file
+                    using (StreamWriter writetext = new StreamWriter("xANDy.txt"))
+                    {
+                        writetext.WriteLine(y.ToString());
+                    }
+
                     G_Y = (float)Math.Pow(Math.E, (-((my - y) * (my - y) / (2 * delta_y * delta_y)))); //formula
                     pa = (float)random.NextDouble();
                 }
                 while (G_Y < pa);
-
-                using (StreamWriter writetext = new StreamWriter("write.txt"))
-                {
-                    writetext.WriteLine("writing in text file");
-                }
 
                 Graphics graph;
                 graph = this.CreateGraphics();
