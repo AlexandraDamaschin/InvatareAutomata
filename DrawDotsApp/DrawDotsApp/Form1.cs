@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Windows.Forms;
 
 namespace DrawDotsApp
@@ -203,6 +204,12 @@ namespace DrawDotsApp
                     pa = (float)random.NextDouble();
                 }
                 while (G_Y < pa);
+
+                using (StreamWriter writetext = new StreamWriter("write.txt"))
+                {
+                    writetext.WriteLine("writing in text file");
+                }
+
                 Graphics graph;
                 graph = this.CreateGraphics();
                 graph.DrawEllipse(pen, x, y, x_Y_dim, x_Y_dim);
