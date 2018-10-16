@@ -167,25 +167,7 @@ namespace DrawDotsApp
             return z5;
         }
         #endregion
-
-        //create zones with custom colors
-        public void CreateZone(int x, int y, int z, List<float> zone)
-        {
-            float mx = zone[0];
-            float my = zone[1];
-            float delta_x = zone[2];
-            float delta_y = zone[3];
-
-            Graphics graphics;
-            graphics = this.CreateGraphics();
-
-            Color customColor = Color.FromArgb(x, y, z); //get color of zone
-            SolidBrush transparencyColorBrush = new SolidBrush(customColor); //set color as brush for inside ellipse
-            graphics.FillEllipse(transparencyColorBrush, mx - delta_x / 2, my - delta_y / 2, delta_x, delta_y);
-            graphics.Dispose();
-        }
         
-
         //draw random points
         public void DrawPoints(List<float> zone, Pen pen)
         {
