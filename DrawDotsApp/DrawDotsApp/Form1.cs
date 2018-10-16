@@ -31,7 +31,6 @@ namespace DrawDotsApp
                     case 1:
                         Zona_1();
                         Color colorZ1 = Color.FromArgb(54, 51, 119);
-                        Color.FromArgb(54, 51, 119);
                         SolidBrush brushZ1 = new SolidBrush(colorZ1);
                         Pen penColorZ1 = new Pen(brushZ1);
                         DrawPoints(ValueZ1(), penColorZ1);
