@@ -21,6 +21,7 @@ namespace DrawDotsApp
             //chose random zones
             List<int> randomZone = new List<int>();
             Random random = new Random();
+
             for (int i = 1; i <= 5; i++)
             {
                 int numberOfZone;
@@ -30,35 +31,35 @@ namespace DrawDotsApp
                 switch (numberOfZone)
                 {
                     case 1:
-                        int x1Argb = 191, y1Argb = 18, z1Argb = 246; //purple
+                        int x1Argb = 255, y1Argb = 0, z1Argb = 0; //red
                         Color colorZ1 = Color.FromArgb(x1Argb, y1Argb, z1Argb);
                         SolidBrush brushZ1 = new SolidBrush(colorZ1);
                         Pen penColorZ1 = new Pen(brushZ1);
                         DrawPoints(ValueZ1(), penColorZ1);
                         break;
                     case 2:
-                        int x2Argb = 140, y2Argb = 195, z2Argb = 120; //green
+                        int x2Argb = 51, y2Argb = 255, z2Argb = 255; //blue
                         Color colorZ2 = Color.FromArgb(x2Argb, y2Argb, z2Argb);
                         SolidBrush brushZ2 = new SolidBrush(colorZ2);
                         Pen penColorZ2 = new Pen(brushZ2);
                         DrawPoints(ValueZ2(), penColorZ2);
                         break;
                     case 3:
-                        int x3Argb = 200, y3Argb = 85, z3Argb = 170; //pink
+                        int x3Argb = 196, y3Argb = 255, z3Argb = 15; //green
                         Color colorZ3 = Color.FromArgb(x3Argb, y3Argb, z3Argb);
                         SolidBrush brushZ3 = new SolidBrush(colorZ3);
                         Pen penColorZ3 = new Pen(brushZ3);
                         DrawPoints(ValueZ3(), penColorZ3);
                         break;
                     case 4:
-                        int x4Argb = 10, y4Argb = 54, z4Argb = 170; //blue
+                        int x4Argb = 150, y4Argb = 0, z4Argb = 232; //purple
                         Color colorZ4 = Color.FromArgb(x4Argb, y4Argb, z4Argb);
                         SolidBrush brushZ4 = new SolidBrush(colorZ4);
                         Pen penColorZ4 = new Pen(brushZ4);
                         DrawPoints(ValueZ4(), penColorZ4);
                         break;
                     case 5:
-                        int x5Argb = 200, y5Argb = 185, z5Argb = 170; //beige
+                        int x5Argb = 255, y5Argb = 255, z5Argb = 0; //yellow
                         Color colorZ5 = Color.FromArgb(x5Argb, y5Argb, z5Argb);
                         SolidBrush brushZ5 = new SolidBrush(colorZ5);
                         Pen penColorZ5 = new Pen(brushZ5);
@@ -172,8 +173,8 @@ namespace DrawDotsApp
         //draw random points
         public void DrawPoints(List<float> zone, Pen pen)
         {
-            float mx = zone[0];
-            float my = zone[1];
+            float mX = zone[0];
+            float mY = zone[1];
             float delta_x = zone[2];
             float delta_y = zone[3];
 
@@ -185,33 +186,33 @@ namespace DrawDotsApp
             for (int k = 0; k < 1000; k++)
             {
                 float x, G_X;
-                float pa;
+                float pas;
                 float y, G_Y;
-                float x_Y_dim = 1;
+                int max = 300, min = -300;
                 do
                 {
                     //draw points on x axis
-                    x = random.Next(-300, 300);
+                    x = random.Next(min, max);
                     x = CalculateNewX(x);
-                    G_X = (float)Math.Pow(Math.E, (-((mx - x) * (mx - x) / (2 * delta_x * delta_x)))); //formula
-                    pa = (float)random.NextDouble();
+                    G_X = (float)Math.Pow(Math.E, (-((mX - x) * (mX - x) / (2 * delta_x * delta_x)))); //formula
+                    pas = (float)random.NextDouble();
                 }
-                while (G_X < pa);
+                while (G_X < pas);
                 do
                 {
                     //draw points on y axis
-                    y = random.Next(-300, 300);
+                    y = random.Next(min, max);
                     y = CalculateNewY(y);
 
-                    G_Y = (float)Math.Pow(Math.E, (-((my - y) * (my - y) / (2 * delta_y * delta_y)))); //formula
-                    pa = (float)random.NextDouble();
+                    G_Y = (float)Math.Pow(Math.E, (-((mY - y) * (mY - y) / (2 * delta_y * delta_y)))); //formula
+                    pas = (float)random.NextDouble();
                 }
-                while (G_Y < pa);
-                writetext.WriteLine("Coordonates: " + x.ToString()+" "+ y.ToString() + "\n");
+                while (G_Y < pas);
+                writetext.WriteLine("Coordonates: " + x.ToString() + " " + y.ToString() + "\n");
 
                 Graphics graph;
                 graph = this.CreateGraphics();
-                graph.DrawEllipse(pen, x, y, x_Y_dim, x_Y_dim);
+                graph.DrawEllipse(pen, x, y, 1, 1);
                 graph.Dispose();
             }
 

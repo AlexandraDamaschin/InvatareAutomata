@@ -1,2000 +1,2000 @@
-Coordonates: 186 459
+Coordonates: 215 465
 
-Coordonates: 175 446
+Coordonates: 197 441
 
-Coordonates: 189 473
+Coordonates: 185 450
 
-Coordonates: 217 443
+Coordonates: 268 447
 
-Coordonates: 174 471
+Coordonates: 244 438
 
-Coordonates: 235 455
-
-Coordonates: 212 429
-
-Coordonates: 185 459
-
-Coordonates: 211 447
-
-Coordonates: 252 434
-
-Coordonates: 214 417
-
-Coordonates: 233 448
-
-Coordonates: 230 454
-
-Coordonates: 235 423
-
-Coordonates: 208 489
-
-Coordonates: 194 456
-
-Coordonates: 232 425
-
-Coordonates: 202 459
-
-Coordonates: 232 461
-
-Coordonates: 212 446
-
-Coordonates: 235 451
-
-Coordonates: 161 476
-
-Coordonates: 204 458
-
-Coordonates: 211 464
-
-Coordonates: 190 454
-
-Coordonates: 219 518
-
-Coordonates: 218 408
-
-Coordonates: 200 452
-
-Coordonates: 125 420
-
-Coordonates: 245 440
-
-Coordonates: 203 462
-
-Coordonates: 200 466
-
-Coordonates: 161 476
-
-Coordonates: 180 473
-
-Coordonates: 202 451
-
-Coordonates: 185 443
-
-Coordonates: 175 480
-
-Coordonates: 198 466
-
-Coordonates: 178 460
-
-Coordonates: 225 447
-
-Coordonates: 213 419
-
-Coordonates: 164 463
-
-Coordonates: 195 438
-
-Coordonates: 200 456
-
-Coordonates: 213 443
-
-Coordonates: 180 454
-
-Coordonates: 189 446
-
-Coordonates: 222 408
-
-Coordonates: 148 465
-
-Coordonates: 220 480
-
-Coordonates: 221 464
-
-Coordonates: 245 410
-
-Coordonates: 221 457
-
-Coordonates: 211 482
-
-Coordonates: 182 430
-
-Coordonates: 196 512
-
-Coordonates: 162 414
-
-Coordonates: 202 423
-
-Coordonates: 195 447
-
-Coordonates: 198 438
-
-Coordonates: 215 472
-
-Coordonates: 231 422
-
-Coordonates: 224 435
-
-Coordonates: 192 454
-
-Coordonates: 183 409
-
-Coordonates: 224 450
-
-Coordonates: 200 457
-
-Coordonates: 156 487
-
-Coordonates: 229 476
-
-Coordonates: 238 423
-
-Coordonates: 179 417
-
-Coordonates: 165 473
-
-Coordonates: 224 452
-
-Coordonates: 191 421
-
-Coordonates: 179 442
-
-Coordonates: 169 455
-
-Coordonates: 180 444
-
-Coordonates: 190 432
-
-Coordonates: 192 481
-
-Coordonates: 210 462
-
-Coordonates: 245 447
-
-Coordonates: 198 421
-
-Coordonates: 217 430
-
-Coordonates: 205 453
-
-Coordonates: 223 474
-
-Coordonates: 176 422
-
-Coordonates: 238 432
-
-Coordonates: 181 459
-
-Coordonates: 242 472
-
-Coordonates: 180 438
-
-Coordonates: 210 435
-
-Coordonates: 147 475
-
-Coordonates: 230 469
-
-Coordonates: 154 456
-
-Coordonates: 212 443
-
-Coordonates: 229 446
-
-Coordonates: 179 451
-
-Coordonates: 200 463
-
-Coordonates: 218 457
-
-Coordonates: 199 439
-
-Coordonates: 223 439
-
-Coordonates: 216 464
-
-Coordonates: 202 449
-
-Coordonates: 210 439
-
-Coordonates: 153 418
-
-Coordonates: 213 425
-
-Coordonates: 210 473
-
-Coordonates: 178 471
-
-Coordonates: 220 443
-
-Coordonates: 196 499
-
-Coordonates: 185 453
-
-Coordonates: 206 477
-
-Coordonates: 205 417
-
-Coordonates: 189 464
-
-Coordonates: 144 453
-
-Coordonates: 254 453
-
-Coordonates: 190 468
-
-Coordonates: 195 433
-
-Coordonates: 224 454
-
-Coordonates: 212 431
-
-Coordonates: 190 440
-
-Coordonates: 250 432
-
-Coordonates: 224 451
-
-Coordonates: 221 469
-
-Coordonates: 200 414
-
-Coordonates: 170 457
-
-Coordonates: 234 430
-
-Coordonates: 171 483
-
-Coordonates: 243 484
-
-Coordonates: 180 433
-
-Coordonates: 218 437
-
-Coordonates: 214 453
-
-Coordonates: 211 471
-
-Coordonates: 194 471
-
-Coordonates: 223 456
-
-Coordonates: 201 444
-
-Coordonates: 228 436
-
-Coordonates: 181 436
-
-Coordonates: 194 466
-
-Coordonates: 233 434
-
-Coordonates: 191 452
-
-Coordonates: 205 423
-
-Coordonates: 206 454
-
-Coordonates: 227 443
-
-Coordonates: 180 448
-
-Coordonates: 157 437
-
-Coordonates: 247 429
-
-Coordonates: 184 416
-
-Coordonates: 206 448
-
-Coordonates: 177 430
-
-Coordonates: 217 437
-
-Coordonates: 139 470
-
-Coordonates: 203 490
-
-Coordonates: 184 462
-
-Coordonates: 236 456
-
-Coordonates: 231 426
-
-Coordonates: 198 444
-
-Coordonates: 181 445
-
-Coordonates: 205 422
-
-Coordonates: 186 466
-
-Coordonates: 203 438
-
-Coordonates: 220 457
-
-Coordonates: 218 444
-
-Coordonates: 201 475
-
-Coordonates: 237 430
-
-Coordonates: 201 442
-
-Coordonates: 203 467
-
-Coordonates: 231 415
-
-Coordonates: 202 460
-
-Coordonates: 192 465
-
-Coordonates: 190 443
-
-Coordonates: 131 448
-
-Coordonates: 235 451
-
-Coordonates: 164 449
-
-Coordonates: 209 431
-
-Coordonates: 237 446
-
-Coordonates: 176 427
-
-Coordonates: 239 455
-
-Coordonates: 155 464
-
-Coordonates: 226 448
-
-Coordonates: 201 472
-
-Coordonates: 208 457
-
-Coordonates: 204 483
-
-Coordonates: 190 421
-
-Coordonates: 205 447
-
-Coordonates: 224 472
-
-Coordonates: 223 486
-
-Coordonates: 198 422
-
-Coordonates: 213 476
-
-Coordonates: 186 477
-
-Coordonates: 235 473
-
-Coordonates: 250 459
-
-Coordonates: 240 453
-
-Coordonates: 197 459
-
-Coordonates: 170 435
-
-Coordonates: 197 452
-
-Coordonates: 239 425
-
-Coordonates: 210 441
-
-Coordonates: 246 448
-
-Coordonates: 250 470
-
-Coordonates: 236 465
-
-Coordonates: 217 459
-
-Coordonates: 163 447
-
-Coordonates: 161 486
-
-Coordonates: 184 435
-
-Coordonates: 228 458
-
-Coordonates: 166 452
-
-Coordonates: 231 482
-
-Coordonates: 165 477
-
-Coordonates: 186 417
-
-Coordonates: 200 438
-
-Coordonates: 171 403
-
-Coordonates: 238 452
-
-Coordonates: 113 473
-
-Coordonates: 198 423
-
-Coordonates: 165 454
-
-Coordonates: 160 412
-
-Coordonates: 186 493
-
-Coordonates: 173 457
-
-Coordonates: 214 440
-
-Coordonates: 192 428
-
-Coordonates: 211 452
-
-Coordonates: 183 466
-
-Coordonates: 222 430
-
-Coordonates: 206 456
-
-Coordonates: 192 460
-
-Coordonates: 185 437
-
-Coordonates: 233 483
-
-Coordonates: 200 449
-
-Coordonates: 219 471
-
-Coordonates: 218 480
-
-Coordonates: 176 480
-
-Coordonates: 227 446
-
-Coordonates: 223 458
-
-Coordonates: 121 493
-
-Coordonates: 162 462
-
-Coordonates: 185 442
-
-Coordonates: 241 491
-
-Coordonates: 194 440
-
-Coordonates: 172 434
-
-Coordonates: 199 459
-
-Coordonates: 190 444
-
-Coordonates: 240 474
-
-Coordonates: 154 482
-
-Coordonates: 197 461
-
-Coordonates: 233 459
-
-Coordonates: 192 455
-
-Coordonates: 230 470
-
-Coordonates: 185 439
-
-Coordonates: 229 457
-
-Coordonates: 173 431
-
-Coordonates: 204 474
-
-Coordonates: 188 458
-
-Coordonates: 231 464
-
-Coordonates: 230 443
-
-Coordonates: 169 453
-
-Coordonates: 227 464
-
-Coordonates: 177 435
-
-Coordonates: 242 477
-
-Coordonates: 212 471
-
-Coordonates: 260 437
-
-Coordonates: 234 423
-
-Coordonates: 228 445
-
-Coordonates: 193 464
-
-Coordonates: 195 467
-
-Coordonates: 176 448
-
-Coordonates: 229 462
-
-Coordonates: 218 414
-
-Coordonates: 234 471
-
-Coordonates: 204 446
-
-Coordonates: 172 449
-
-Coordonates: 248 427
-
-Coordonates: 225 448
-
-Coordonates: 173 436
-
-Coordonates: 160 497
-
-Coordonates: 197 433
-
-Coordonates: 217 463
-
-Coordonates: 209 475
-
-Coordonates: 222 453
-
-Coordonates: 208 470
-
-Coordonates: 210 427
-
-Coordonates: 266 457
-
-Coordonates: 223 443
-
-Coordonates: 186 453
-
-Coordonates: 224 472
-
-Coordonates: 227 445
-
-Coordonates: 211 467
-
-Coordonates: 193 467
-
-Coordonates: 216 496
-
-Coordonates: 194 440
-
-Coordonates: 214 454
-
-Coordonates: 145 472
-
-Coordonates: 182 452
-
-Coordonates: 219 452
-
-Coordonates: 226 464
-
-Coordonates: 227 454
-
-Coordonates: 194 450
-
-Coordonates: 186 465
-
-Coordonates: 233 451
-
-Coordonates: 182 477
-
-Coordonates: 233 460
-
-Coordonates: 221 460
-
-Coordonates: 205 451
-
-Coordonates: 210 475
-
-Coordonates: 144 436
-
-Coordonates: 254 426
-
-Coordonates: 187 469
-
-Coordonates: 188 465
-
-Coordonates: 214 471
-
-Coordonates: 198 443
-
-Coordonates: 214 439
-
-Coordonates: 173 458
-
-Coordonates: 201 413
-
-Coordonates: 238 485
-
-Coordonates: 181 462
-
-Coordonates: 191 461
-
-Coordonates: 197 458
-
-Coordonates: 196 452
-
-Coordonates: 226 453
-
-Coordonates: 160 500
-
-Coordonates: 205 459
-
-Coordonates: 246 425
-
-Coordonates: 167 445
-
-Coordonates: 160 449
-
-Coordonates: 205 462
-
-Coordonates: 185 420
-
-Coordonates: 172 477
-
-Coordonates: 221 433
-
-Coordonates: 234 447
-
-Coordonates: 147 473
-
-Coordonates: 249 454
-
-Coordonates: 186 452
-
-Coordonates: 193 441
-
-Coordonates: 154 464
-
-Coordonates: 195 428
-
-Coordonates: 223 447
-
-Coordonates: 198 468
-
-Coordonates: 188 425
-
-Coordonates: 214 471
-
-Coordonates: 176 474
-
-Coordonates: 208 430
-
-Coordonates: 234 453
-
-Coordonates: 233 421
-
-Coordonates: 202 456
-
-Coordonates: 149 457
-
-Coordonates: 235 466
-
-Coordonates: 208 439
-
-Coordonates: 194 449
-
-Coordonates: 238 466
-
-Coordonates: 177 448
-
-Coordonates: 223 414
-
-Coordonates: 208 460
-
-Coordonates: 206 479
-
-Coordonates: 190 449
-
-Coordonates: 187 456
-
-Coordonates: 248 485
-
-Coordonates: 191 468
-
-Coordonates: 146 433
-
-Coordonates: 169 473
-
-Coordonates: 220 432
-
-Coordonates: 191 413
-
-Coordonates: 204 417
-
-Coordonates: 245 447
-
-Coordonates: 225 452
-
-Coordonates: 203 446
-
-Coordonates: 208 445
-
-Coordonates: 186 435
-
-Coordonates: 217 446
-
-Coordonates: 189 443
-
-Coordonates: 155 427
-
-Coordonates: 154 436
-
-Coordonates: 193 452
-
-Coordonates: 172 453
-
-Coordonates: 223 442
-
-Coordonates: 193 436
-
-Coordonates: 185 467
-
-Coordonates: 194 465
-
-Coordonates: 218 475
-
-Coordonates: 220 473
-
-Coordonates: 185 440
-
-Coordonates: 181 469
-
-Coordonates: 189 433
-
-Coordonates: 184 435
-
-Coordonates: 230 440
-
-Coordonates: 182 427
-
-Coordonates: 166 444
-
-Coordonates: 187 454
-
-Coordonates: 237 446
-
-Coordonates: 210 450
-
-Coordonates: 188 485
-
-Coordonates: 185 434
-
-Coordonates: 240 429
-
-Coordonates: 181 498
-
-Coordonates: 183 448
-
-Coordonates: 179 426
-
-Coordonates: 202 464
-
-Coordonates: 170 462
-
-Coordonates: 181 470
-
-Coordonates: 216 481
-
-Coordonates: 192 481
-
-Coordonates: 174 479
-
-Coordonates: 223 447
-
-Coordonates: 206 433
-
-Coordonates: 214 430
-
-Coordonates: 205 450
-
-Coordonates: 211 469
-
-Coordonates: 190 464
-
-Coordonates: 191 420
-
-Coordonates: 207 474
-
-Coordonates: 199 457
-
-Coordonates: 208 448
-
-Coordonates: 163 462
-
-Coordonates: 221 499
-
-Coordonates: 187 452
-
-Coordonates: 210 416
-
-Coordonates: 150 488
-
-Coordonates: 214 441
-
-Coordonates: 196 459
-
-Coordonates: 241 447
-
-Coordonates: 226 470
-
-Coordonates: 188 451
-
-Coordonates: 153 452
-
-Coordonates: 190 450
-
-Coordonates: 167 422
-
-Coordonates: 175 460
-
-Coordonates: 220 477
-
-Coordonates: 220 486
-
-Coordonates: 166 448
-
-Coordonates: 211 445
-
-Coordonates: 255 460
-
-Coordonates: 213 450
-
-Coordonates: 233 458
-
-Coordonates: 225 382
-
-Coordonates: 180 439
-
-Coordonates: 166 433
-
-Coordonates: 185 493
-
-Coordonates: 212 464
-
-Coordonates: 178 464
-
-Coordonates: 238 470
-
-Coordonates: 200 427
-
-Coordonates: 210 443
-
-Coordonates: 147 481
-
-Coordonates: 179 438
-
-Coordonates: 162 443
-
-Coordonates: 171 426
-
-Coordonates: 229 414
-
-Coordonates: 204 435
-
-Coordonates: 205 457
-
-Coordonates: 187 476
-
-Coordonates: 210 484
-
-Coordonates: 191 475
-
-Coordonates: 230 428
-
-Coordonates: 198 453
-
-Coordonates: 210 453
-
-Coordonates: 248 487
-
-Coordonates: 166 427
-
-Coordonates: 148 422
-
-Coordonates: 201 453
-
-Coordonates: 192 460
-
-Coordonates: 186 464
-
-Coordonates: 218 464
-
-Coordonates: 193 445
-
-Coordonates: 169 473
-
-Coordonates: 228 410
-
-Coordonates: 198 416
-
-Coordonates: 186 449
-
-Coordonates: 167 417
-
-Coordonates: 204 400
-
-Coordonates: 166 484
-
-Coordonates: 217 443
-
-Coordonates: 200 435
-
-Coordonates: 205 466
-
-Coordonates: 195 461
-
-Coordonates: 184 433
-
-Coordonates: 182 428
-
-Coordonates: 210 451
-
-Coordonates: 204 424
-
-Coordonates: 192 486
-
-Coordonates: 199 460
-
-Coordonates: 203 477
-
-Coordonates: 197 465
-
-Coordonates: 204 479
-
-Coordonates: 258 428
-
-Coordonates: 184 482
-
-Coordonates: 198 440
-
-Coordonates: 226 495
-
-Coordonates: 215 442
-
-Coordonates: 209 430
-
-Coordonates: 211 450
-
-Coordonates: 212 439
-
-Coordonates: 217 426
-
-Coordonates: 254 427
-
-Coordonates: 132 460
-
-Coordonates: 165 446
-
-Coordonates: 152 475
-
-Coordonates: 187 438
-
-Coordonates: 150 442
-
-Coordonates: 204 453
-
-Coordonates: 225 475
-
-Coordonates: 220 486
-
-Coordonates: 166 451
-
-Coordonates: 244 442
-
-Coordonates: 224 455
-
-Coordonates: 188 467
-
-Coordonates: 205 432
-
-Coordonates: 246 436
-
-Coordonates: 228 446
-
-Coordonates: 215 457
-
-Coordonates: 160 455
-
-Coordonates: 189 436
-
-Coordonates: 172 497
-
-Coordonates: 243 470
-
-Coordonates: 180 470
-
-Coordonates: 214 440
-
-Coordonates: 167 462
-
-Coordonates: 226 442
-
-Coordonates: 186 474
-
-Coordonates: 238 442
-
-Coordonates: 217 452
-
-Coordonates: 177 464
-
-Coordonates: 191 453
-
-Coordonates: 192 440
-
-Coordonates: 193 461
-
-Coordonates: 232 485
-
-Coordonates: 150 418
-
-Coordonates: 185 484
-
-Coordonates: 186 458
-
-Coordonates: 156 437
-
-Coordonates: 180 444
-
-Coordonates: 210 442
-
-Coordonates: 213 442
-
-Coordonates: 196 436
-
-Coordonates: 209 473
-
-Coordonates: 183 413
-
-Coordonates: 220 455
-
-Coordonates: 224 455
-
-Coordonates: 199 449
-
-Coordonates: 220 504
-
-Coordonates: 163 528
-
-Coordonates: 192 449
-
-Coordonates: 154 464
-
-Coordonates: 174 451
-
-Coordonates: 212 458
-
-Coordonates: 177 459
-
-Coordonates: 244 458
-
-Coordonates: 194 470
-
-Coordonates: 176 436
-
-Coordonates: 198 457
-
-Coordonates: 173 465
-
-Coordonates: 193 460
-
-Coordonates: 166 451
-
-Coordonates: 195 426
-
-Coordonates: 269 416
-
-Coordonates: 211 467
-
-Coordonates: 180 435
-
-Coordonates: 255 450
-
-Coordonates: 209 456
-
-Coordonates: 231 463
-
-Coordonates: 218 420
-
-Coordonates: 194 443
-
-Coordonates: 176 476
-
-Coordonates: 204 427
-
-Coordonates: 223 440
-
-Coordonates: 184 482
-
-Coordonates: 199 450
-
-Coordonates: 227 443
-
-Coordonates: 191 466
-
-Coordonates: 224 464
-
-Coordonates: 243 445
-
-Coordonates: 214 436
-
-Coordonates: 203 410
-
-Coordonates: 177 450
-
-Coordonates: 174 458
-
-Coordonates: 223 452
-
-Coordonates: 164 451
-
-Coordonates: 213 457
-
-Coordonates: 201 454
-
-Coordonates: 170 439
-
-Coordonates: 221 446
-
-Coordonates: 203 453
-
-Coordonates: 229 455
-
-Coordonates: 212 457
-
-Coordonates: 196 446
-
-Coordonates: 193 481
-
-Coordonates: 147 442
-
-Coordonates: 213 466
-
-Coordonates: 173 464
-
-Coordonates: 169 486
-
-Coordonates: 151 409
-
-Coordonates: 209 441
-
-Coordonates: 249 429
-
-Coordonates: 188 447
-
-Coordonates: 194 425
-
-Coordonates: 185 437
-
-Coordonates: 204 481
-
-Coordonates: 231 409
-
-Coordonates: 184 454
-
-Coordonates: 228 446
-
-Coordonates: 235 448
-
-Coordonates: 214 454
-
-Coordonates: 249 442
-
-Coordonates: 159 464
-
-Coordonates: 226 437
-
-Coordonates: 231 464
-
-Coordonates: 178 417
-
-Coordonates: 232 433
-
-Coordonates: 212 432
-
-Coordonates: 149 475
-
-Coordonates: 206 459
-
-Coordonates: 191 463
-
-Coordonates: 190 440
-
-Coordonates: 229 415
-
-Coordonates: 191 440
-
-Coordonates: 205 434
-
-Coordonates: 190 451
-
-Coordonates: 184 446
-
-Coordonates: 228 422
-
-Coordonates: 159 425
-
-Coordonates: 155 409
-
-Coordonates: 204 456
-
-Coordonates: 188 440
-
-Coordonates: 189 425
-
-Coordonates: 219 452
-
-Coordonates: 160 424
-
-Coordonates: 211 410
-
-Coordonates: 188 445
-
-Coordonates: 193 467
+Coordonates: 218 483
 
 Coordonates: 209 450
 
-Coordonates: 216 453
+Coordonates: 138 451
 
-Coordonates: 227 453
+Coordonates: 215 456
 
-Coordonates: 218 418
+Coordonates: 177 421
 
-Coordonates: 153 433
+Coordonates: 161 408
 
-Coordonates: 206 470
+Coordonates: 183 471
 
-Coordonates: 176 485
+Coordonates: 214 427
 
-Coordonates: 202 439
+Coordonates: 197 454
 
-Coordonates: 232 415
+Coordonates: 221 435
 
-Coordonates: 190 409
+Coordonates: 268 448
 
-Coordonates: 161 477
+Coordonates: 224 455
 
-Coordonates: 210 465
+Coordonates: 189 449
 
-Coordonates: 234 444
-
-Coordonates: 170 459
-
-Coordonates: 220 462
-
-Coordonates: 172 441
-
-Coordonates: 209 470
-
-Coordonates: 215 448
-
-Coordonates: 191 493
-
-Coordonates: 188 457
-
-Coordonates: 169 468
-
-Coordonates: 215 443
-
-Coordonates: 211 451
-
-Coordonates: 168 469
-
-Coordonates: 171 433
-
-Coordonates: 181 427
-
-Coordonates: 187 422
-
-Coordonates: 214 434
-
-Coordonates: 183 461
-
-Coordonates: 205 444
-
-Coordonates: 235 464
-
-Coordonates: 189 454
-
-Coordonates: 199 455
-
-Coordonates: 202 446
-
-Coordonates: 197 448
-
-Coordonates: 203 442
-
-Coordonates: 210 471
-
-Coordonates: 209 441
-
-Coordonates: 219 452
-
-Coordonates: 216 464
-
-Coordonates: 206 449
-
-Coordonates: 167 470
-
-Coordonates: 223 441
-
-Coordonates: 184 441
-
-Coordonates: 185 419
-
-Coordonates: 190 430
-
-Coordonates: 207 451
-
-Coordonates: 221 441
-
-Coordonates: 189 477
-
-Coordonates: 195 494
-
-Coordonates: 193 456
-
-Coordonates: 222 420
-
-Coordonates: 160 418
-
-Coordonates: 169 439
-
-Coordonates: 148 466
-
-Coordonates: 146 446
-
-Coordonates: 193 442
-
-Coordonates: 192 437
-
-Coordonates: 236 476
-
-Coordonates: 212 454
-
-Coordonates: 193 436
-
-Coordonates: 207 490
-
-Coordonates: 215 474
-
-Coordonates: 208 436
-
-Coordonates: 186 467
-
-Coordonates: 203 458
-
-Coordonates: 198 452
-
-Coordonates: 212 450
-
-Coordonates: 239 428
-
-Coordonates: 185 437
-
-Coordonates: 217 457
-
-Coordonates: 217 432
-
-Coordonates: 188 430
-
-Coordonates: 208 436
-
-Coordonates: 235 439
-
-Coordonates: 171 415
-
-Coordonates: 213 465
-
-Coordonates: 202 461
-
-Coordonates: 170 468
-
-Coordonates: 208 459
-
-Coordonates: 223 482
-
-Coordonates: 219 405
-
-Coordonates: 164 435
-
-Coordonates: 195 466
-
-Coordonates: 225 455
-
-Coordonates: 187 441
-
-Coordonates: 204 478
-
-Coordonates: 161 456
-
-Coordonates: 227 435
-
-Coordonates: 199 477
-
-Coordonates: 187 478
-
-Coordonates: 211 477
-
-Coordonates: 165 446
-
-Coordonates: 197 499
-
-Coordonates: 200 486
-
-Coordonates: 172 519
-
-Coordonates: 203 446
-
-Coordonates: 214 424
-
-Coordonates: 185 439
-
-Coordonates: 234 449
-
-Coordonates: 183 465
-
-Coordonates: 217 492
-
-Coordonates: 145 448
-
-Coordonates: 241 473
-
-Coordonates: 172 471
-
-Coordonates: 191 455
-
-Coordonates: 191 464
-
-Coordonates: 190 453
-
-Coordonates: 229 447
-
-Coordonates: 249 482
-
-Coordonates: 160 462
-
-Coordonates: 171 449
-
-Coordonates: 200 447
-
-Coordonates: 227 445
-
-Coordonates: 207 463
-
-Coordonates: 202 469
-
-Coordonates: 196 467
-
-Coordonates: 184 426
-
-Coordonates: 213 453
-
-Coordonates: 188 465
-
-Coordonates: 161 478
-
-Coordonates: 195 415
-
-Coordonates: 183 460
-
-Coordonates: 147 446
-
-Coordonates: 215 395
-
-Coordonates: 201 471
-
-Coordonates: 229 456
-
-Coordonates: 199 459
-
-Coordonates: 197 437
-
-Coordonates: 212 451
-
-Coordonates: 198 463
-
-Coordonates: 245 466
-
-Coordonates: 189 448
-
-Coordonates: 178 417
-
-Coordonates: 188 410
-
-Coordonates: 186 443
-
-Coordonates: 233 418
-
-Coordonates: 238 457
-
-Coordonates: 247 478
-
-Coordonates: 218 441
-
-Coordonates: 195 504
-
-Coordonates: 236 460
-
-Coordonates: 221 452
-
-Coordonates: 208 451
-
-Coordonates: 197 422
-
-Coordonates: 210 441
-
-Coordonates: 236 436
-
-Coordonates: 195 449
-
-Coordonates: 207 425
-
-Coordonates: 173 440
-
-Coordonates: 140 425
-
-Coordonates: 225 442
-
-Coordonates: 236 452
-
-Coordonates: 190 471
-
-Coordonates: 196 459
-
-Coordonates: 203 470
-
-Coordonates: 187 463
-
-Coordonates: 190 420
-
-Coordonates: 195 446
-
-Coordonates: 185 452
-
-Coordonates: 185 484
-
-Coordonates: 195 454
-
-Coordonates: 228 438
-
-Coordonates: 217 458
-
-Coordonates: 158 477
-
-Coordonates: 165 441
-
-Coordonates: 218 450
-
-Coordonates: 210 452
-
-Coordonates: 217 436
-
-Coordonates: 201 502
-
-Coordonates: 206 467
-
-Coordonates: 191 497
-
-Coordonates: 227 502
-
-Coordonates: 186 467
-
-Coordonates: 174 450
-
-Coordonates: 165 478
-
-Coordonates: 184 424
-
-Coordonates: 202 415
-
-Coordonates: 164 471
-
-Coordonates: 169 453
-
-Coordonates: 240 466
-
-Coordonates: 221 452
-
-Coordonates: 214 467
-
-Coordonates: 238 424
-
-Coordonates: 200 448
-
-Coordonates: 187 479
-
-Coordonates: 203 444
-
-Coordonates: 192 450
-
-Coordonates: 190 461
-
-Coordonates: 197 445
-
-Coordonates: 183 429
-
-Coordonates: 198 407
-
-Coordonates: 189 456
-
-Coordonates: 199 416
-
-Coordonates: 183 454
-
-Coordonates: 217 425
-
-Coordonates: 203 432
-
-Coordonates: 241 500
-
-Coordonates: 206 472
-
-Coordonates: 243 412
-
-Coordonates: 199 440
-
-Coordonates: 192 511
-
-Coordonates: 222 441
-
-Coordonates: 197 484
-
-Coordonates: 190 457
-
-Coordonates: 196 480
-
-Coordonates: 194 442
-
-Coordonates: 229 462
-
-Coordonates: 165 450
-
-Coordonates: 204 446
-
-Coordonates: 171 446
-
-Coordonates: 154 461
-
-Coordonates: 258 448
-
-Coordonates: 192 447
-
-Coordonates: 241 413
-
-Coordonates: 205 429
-
-Coordonates: 234 456
-
-Coordonates: 131 459
-
-Coordonates: 155 422
-
-Coordonates: 229 446
-
-Coordonates: 205 480
-
-Coordonates: 184 425
-
-Coordonates: 180 463
-
-Coordonates: 199 466
-
-Coordonates: 236 458
-
-Coordonates: 168 443
-
-Coordonates: 211 419
-
-Coordonates: 209 453
-
-Coordonates: 169 441
-
-Coordonates: 217 438
-
-Coordonates: 199 456
-
-Coordonates: 170 442
-
-Coordonates: 195 446
-
-Coordonates: 193 487
-
-Coordonates: 171 464
-
-Coordonates: 151 465
-
-Coordonates: 212 448
-
-Coordonates: 225 437
-
-Coordonates: 182 413
-
-Coordonates: 148 487
-
-Coordonates: 221 450
-
-Coordonates: 232 399
-
-Coordonates: 172 451
-
-Coordonates: 245 451
-
-Coordonates: 201 442
-
-Coordonates: 218 476
-
-Coordonates: 169 436
-
-Coordonates: 194 427
-
-Coordonates: 153 481
-
-Coordonates: 176 439
-
-Coordonates: 203 480
-
-Coordonates: 181 458
-
-Coordonates: 185 460
-
-Coordonates: 201 451
-
-Coordonates: 233 467
-
-Coordonates: 139 438
-
-Coordonates: 193 457
-
-Coordonates: 211 448
-
-Coordonates: 162 443
-
-Coordonates: 232 469
-
-Coordonates: 176 426
-
-Coordonates: 221 424
-
-Coordonates: 182 448
+Coordonates: 237 450
 
 Coordonates: 205 438
 
-Coordonates: 176 436
+Coordonates: 209 448
 
-Coordonates: 212 467
+Coordonates: 183 415
 
-Coordonates: 205 457
+Coordonates: 189 468
 
-Coordonates: 186 440
+Coordonates: 206 437
 
-Coordonates: 252 473
+Coordonates: 188 437
 
-Coordonates: 206 477
+Coordonates: 204 454
 
-Coordonates: 181 454
+Coordonates: 184 484
 
-Coordonates: 229 458
+Coordonates: 175 461
 
-Coordonates: 233 482
+Coordonates: 233 467
 
-Coordonates: 214 443
+Coordonates: 213 460
 
-Coordonates: 183 474
+Coordonates: 233 448
 
-Coordonates: 200 449
+Coordonates: 159 466
 
-Coordonates: 171 428
+Coordonates: 203 478
 
-Coordonates: 199 482
+Coordonates: 186 446
 
-Coordonates: 252 450
+Coordonates: 242 450
 
-Coordonates: 199 441
+Coordonates: 211 475
 
-Coordonates: 170 463
+Coordonates: 142 478
 
-Coordonates: 168 470
+Coordonates: 267 460
 
-Coordonates: 214 416
+Coordonates: 151 453
 
-Coordonates: 204 468
-
-Coordonates: 188 431
-
-Coordonates: 198 422
-
-Coordonates: 194 492
-
-Coordonates: 234 466
-
-Coordonates: 208 463
-
-Coordonates: 184 492
-
-Coordonates: 257 471
-
-Coordonates: 188 476
-
-Coordonates: 201 439
-
-Coordonates: 214 453
-
-Coordonates: 229 449
-
-Coordonates: 180 459
-
-Coordonates: 210 419
-
-Coordonates: 192 500
-
-Coordonates: 211 444
-
-Coordonates: 193 420
-
-Coordonates: 200 465
-
-Coordonates: 191 439
-
-Coordonates: 190 447
-
-Coordonates: 206 433
-
-Coordonates: 217 420
-
-Coordonates: 171 450
-
-Coordonates: 214 455
-
-Coordonates: 188 441
-
-Coordonates: 200 455
-
-Coordonates: 179 460
-
-Coordonates: 194 435
-
-Coordonates: 176 431
-
-Coordonates: 178 445
-
-Coordonates: 201 456
-
-Coordonates: 231 416
-
-Coordonates: 183 420
-
-Coordonates: 213 438
-
-Coordonates: 223 416
-
-Coordonates: 219 436
-
-Coordonates: 198 428
-
-Coordonates: 166 464
-
-Coordonates: 250 462
-
-Coordonates: 204 443
-
-Coordonates: 213 476
-
-Coordonates: 173 452
-
-Coordonates: 215 489
-
-Coordonates: 209 464
-
-Coordonates: 220 451
-
-Coordonates: 153 485
-
-Coordonates: 170 431
-
-Coordonates: 254 416
-
-Coordonates: 208 472
-
-Coordonates: 226 452
-
-Coordonates: 182 444
-
-Coordonates: 191 451
-
-Coordonates: 166 444
-
-Coordonates: 251 448
+Coordonates: 204 467
 
 Coordonates: 203 458
 
-Coordonates: 176 480
+Coordonates: 249 434
 
-Coordonates: 183 460
+Coordonates: 176 441
 
-Coordonates: 214 474
+Coordonates: 199 456
 
-Coordonates: 199 455
+Coordonates: 194 439
 
-Coordonates: 238 461
+Coordonates: 184 463
 
-Coordonates: 220 445
+Coordonates: 209 472
 
-Coordonates: 182 467
+Coordonates: 176 434
 
-Coordonates: 221 476
+Coordonates: 210 445
 
-Coordonates: 201 409
+Coordonates: 248 444
 
-Coordonates: 218 451
+Coordonates: 178 471
 
-Coordonates: 192 463
+Coordonates: 194 437
 
-Coordonates: 215 420
+Coordonates: 239 454
 
-Coordonates: 206 445
+Coordonates: 206 439
 
-Coordonates: 208 453
+Coordonates: 171 453
 
-Coordonates: 231 442
+Coordonates: 212 468
 
-Coordonates: 220 450
+Coordonates: 185 415
 
-Coordonates: 227 429
+Coordonates: 210 452
 
-Coordonates: 212 449
+Coordonates: 194 489
 
-Coordonates: 161 470
+Coordonates: 166 420
 
-Coordonates: 208 438
+Coordonates: 181 426
 
-Coordonates: 218 429
+Coordonates: 233 425
 
-Coordonates: 228 466
+Coordonates: 229 452
 
-Coordonates: 201 510
+Coordonates: 240 444
 
-Coordonates: 198 417
+Coordonates: 225 464
 
-Coordonates: 199 405
+Coordonates: 156 453
 
-Coordonates: 187 474
+Coordonates: 220 474
 
-Coordonates: 194 433
+Coordonates: 192 422
 
-Coordonates: 140 438
+Coordonates: 212 460
 
-Coordonates: 245 431
+Coordonates: 227 446
+
+Coordonates: 187 459
+
+Coordonates: 200 458
+
+Coordonates: 182 453
+
+Coordonates: 192 446
+
+Coordonates: 159 450
+
+Coordonates: 233 433
+
+Coordonates: 175 463
+
+Coordonates: 224 450
+
+Coordonates: 209 452
+
+Coordonates: 201 455
+
+Coordonates: 211 419
+
+Coordonates: 229 443
+
+Coordonates: 261 440
+
+Coordonates: 197 446
+
+Coordonates: 235 416
+
+Coordonates: 199 432
+
+Coordonates: 213 433
+
+Coordonates: 194 429
+
+Coordonates: 155 498
+
+Coordonates: 219 444
+
+Coordonates: 194 408
+
+Coordonates: 203 474
+
+Coordonates: 206 466
+
+Coordonates: 216 428
+
+Coordonates: 217 435
+
+Coordonates: 242 455
+
+Coordonates: 165 455
+
+Coordonates: 230 427
+
+Coordonates: 187 450
+
+Coordonates: 159 461
+
+Coordonates: 200 470
+
+Coordonates: 189 437
+
+Coordonates: 200 463
+
+Coordonates: 217 458
+
+Coordonates: 195 457
+
+Coordonates: 187 439
+
+Coordonates: 218 395
+
+Coordonates: 167 455
+
+Coordonates: 226 461
+
+Coordonates: 183 455
+
+Coordonates: 202 426
+
+Coordonates: 202 472
+
+Coordonates: 188 437
+
+Coordonates: 171 490
+
+Coordonates: 218 464
+
+Coordonates: 226 421
+
+Coordonates: 217 434
+
+Coordonates: 230 464
+
+Coordonates: 197 452
+
+Coordonates: 227 406
+
+Coordonates: 237 437
+
+Coordonates: 219 479
+
+Coordonates: 232 446
+
+Coordonates: 185 457
+
+Coordonates: 210 434
+
+Coordonates: 227 442
+
+Coordonates: 190 492
+
+Coordonates: 190 452
+
+Coordonates: 175 465
+
+Coordonates: 201 460
+
+Coordonates: 244 471
+
+Coordonates: 189 442
+
+Coordonates: 248 437
+
+Coordonates: 161 468
+
+Coordonates: 205 472
+
+Coordonates: 234 413
+
+Coordonates: 192 462
+
+Coordonates: 162 475
+
+Coordonates: 180 473
+
+Coordonates: 204 458
+
+Coordonates: 195 451
+
+Coordonates: 169 404
+
+Coordonates: 199 458
+
+Coordonates: 185 456
+
+Coordonates: 229 434
+
+Coordonates: 205 444
+
+Coordonates: 188 451
+
+Coordonates: 177 467
+
+Coordonates: 190 476
 
 Coordonates: 209 429
 
-Coordonates: 224 393
+Coordonates: 178 443
+
+Coordonates: 206 438
+
+Coordonates: 196 479
+
+Coordonates: 218 441
+
+Coordonates: 174 432
+
+Coordonates: 215 438
+
+Coordonates: 198 488
+
+Coordonates: 192 412
+
+Coordonates: 184 444
+
+Coordonates: 215 511
+
+Coordonates: 195 440
+
+Coordonates: 177 436
+
+Coordonates: 193 439
+
+Coordonates: 203 461
+
+Coordonates: 199 438
+
+Coordonates: 218 482
+
+Coordonates: 212 446
+
+Coordonates: 236 477
+
+Coordonates: 174 441
+
+Coordonates: 187 470
+
+Coordonates: 183 451
+
+Coordonates: 173 439
+
+Coordonates: 223 435
+
+Coordonates: 213 426
+
+Coordonates: 196 470
+
+Coordonates: 174 443
+
+Coordonates: 185 436
+
+Coordonates: 227 451
+
+Coordonates: 193 408
+
+Coordonates: 182 455
+
+Coordonates: 204 447
+
+Coordonates: 206 465
+
+Coordonates: 223 487
+
+Coordonates: 166 430
+
+Coordonates: 190 440
+
+Coordonates: 218 437
+
+Coordonates: 232 464
+
+Coordonates: 161 446
+
+Coordonates: 215 469
+
+Coordonates: 217 463
+
+Coordonates: 201 434
+
+Coordonates: 201 448
+
+Coordonates: 203 446
+
+Coordonates: 214 453
+
+Coordonates: 173 466
+
+Coordonates: 227 401
+
+Coordonates: 231 462
+
+Coordonates: 187 461
+
+Coordonates: 242 444
+
+Coordonates: 172 464
+
+Coordonates: 182 422
+
+Coordonates: 168 445
+
+Coordonates: 198 437
+
+Coordonates: 201 442
+
+Coordonates: 208 427
+
+Coordonates: 199 456
+
+Coordonates: 217 471
+
+Coordonates: 147 444
+
+Coordonates: 206 436
+
+Coordonates: 205 470
+
+Coordonates: 219 462
+
+Coordonates: 208 438
+
+Coordonates: 231 406
+
+Coordonates: 208 431
+
+Coordonates: 230 427
+
+Coordonates: 236 446
+
+Coordonates: 246 454
+
+Coordonates: 200 457
+
+Coordonates: 192 482
+
+Coordonates: 196 452
+
+Coordonates: 224 476
+
+Coordonates: 218 432
+
+Coordonates: 184 440
+
+Coordonates: 213 485
+
+Coordonates: 174 447
+
+Coordonates: 190 459
+
+Coordonates: 202 448
+
+Coordonates: 236 433
+
+Coordonates: 193 475
+
+Coordonates: 167 451
+
+Coordonates: 197 424
+
+Coordonates: 181 448
+
+Coordonates: 206 454
+
+Coordonates: 175 457
+
+Coordonates: 197 429
+
+Coordonates: 203 402
+
+Coordonates: 208 467
+
+Coordonates: 206 439
+
+Coordonates: 152 470
+
+Coordonates: 197 415
+
+Coordonates: 237 428
+
+Coordonates: 190 460
+
+Coordonates: 153 450
+
+Coordonates: 241 442
+
+Coordonates: 192 412
+
+Coordonates: 211 458
+
+Coordonates: 200 448
+
+Coordonates: 227 432
+
+Coordonates: 200 460
+
+Coordonates: 198 446
+
+Coordonates: 205 463
+
+Coordonates: 194 458
 
 Coordonates: 228 463
 
-Coordonates: 214 483
+Coordonates: 204 458
 
-Coordonates: 212 463
+Coordonates: 206 459
 
-Coordonates: 212 450
+Coordonates: 186 428
+
+Coordonates: 238 423
+
+Coordonates: 189 420
+
+Coordonates: 191 445
+
+Coordonates: 209 426
+
+Coordonates: 220 464
+
+Coordonates: 214 449
+
+Coordonates: 234 418
+
+Coordonates: 219 418
+
+Coordonates: 183 445
+
+Coordonates: 193 436
+
+Coordonates: 206 455
+
+Coordonates: 190 458
+
+Coordonates: 207 466
+
+Coordonates: 192 469
+
+Coordonates: 218 446
+
+Coordonates: 249 454
+
+Coordonates: 178 433
+
+Coordonates: 187 454
+
+Coordonates: 208 457
+
+Coordonates: 252 444
+
+Coordonates: 226 452
+
+Coordonates: 180 449
+
+Coordonates: 185 440
+
+Coordonates: 202 418
+
+Coordonates: 206 437
+
+Coordonates: 165 456
+
+Coordonates: 222 456
+
+Coordonates: 217 424
+
+Coordonates: 208 424
+
+Coordonates: 189 470
+
+Coordonates: 170 469
+
+Coordonates: 184 489
+
+Coordonates: 194 434
+
+Coordonates: 197 443
+
+Coordonates: 159 454
+
+Coordonates: 228 457
+
+Coordonates: 172 445
+
+Coordonates: 171 439
+
+Coordonates: 200 434
+
+Coordonates: 233 448
+
+Coordonates: 162 452
+
+Coordonates: 232 449
+
+Coordonates: 199 435
+
+Coordonates: 263 440
+
+Coordonates: 235 478
+
+Coordonates: 202 480
+
+Coordonates: 183 436
+
+Coordonates: 192 469
+
+Coordonates: 189 412
+
+Coordonates: 186 419
+
+Coordonates: 212 467
+
+Coordonates: 246 441
+
+Coordonates: 261 425
+
+Coordonates: 227 445
+
+Coordonates: 169 436
+
+Coordonates: 202 436
+
+Coordonates: 215 453
+
+Coordonates: 173 433
+
+Coordonates: 202 474
+
+Coordonates: 186 418
+
+Coordonates: 259 434
+
+Coordonates: 195 404
+
+Coordonates: 201 415
+
+Coordonates: 206 469
+
+Coordonates: 172 450
+
+Coordonates: 151 499
+
+Coordonates: 197 417
+
+Coordonates: 203 434
+
+Coordonates: 199 465
+
+Coordonates: 207 403
+
+Coordonates: 189 495
+
+Coordonates: 181 470
+
+Coordonates: 183 468
+
+Coordonates: 211 456
+
+Coordonates: 167 479
+
+Coordonates: 175 438
+
+Coordonates: 190 455
+
+Coordonates: 222 462
+
+Coordonates: 223 447
+
+Coordonates: 130 422
+
+Coordonates: 199 447
+
+Coordonates: 181 455
+
+Coordonates: 187 441
+
+Coordonates: 207 433
+
+Coordonates: 235 487
+
+Coordonates: 196 446
+
+Coordonates: 200 421
+
+Coordonates: 165 434
+
+Coordonates: 205 427
+
+Coordonates: 232 466
+
+Coordonates: 210 450
+
+Coordonates: 198 434
+
+Coordonates: 185 477
+
+Coordonates: 224 409
+
+Coordonates: 182 449
+
+Coordonates: 162 455
+
+Coordonates: 169 465
+
+Coordonates: 217 401
+
+Coordonates: 197 469
+
+Coordonates: 220 453
+
+Coordonates: 176 451
+
+Coordonates: 174 454
+
+Coordonates: 159 460
+
+Coordonates: 224 450
+
+Coordonates: 189 448
+
+Coordonates: 186 443
+
+Coordonates: 184 426
+
+Coordonates: 215 453
+
+Coordonates: 188 427
+
+Coordonates: 230 409
+
+Coordonates: 209 459
+
+Coordonates: 179 462
+
+Coordonates: 200 467
+
+Coordonates: 228 488
+
+Coordonates: 195 461
+
+Coordonates: 210 456
+
+Coordonates: 197 433
+
+Coordonates: 170 426
+
+Coordonates: 205 441
+
+Coordonates: 226 445
+
+Coordonates: 191 417
+
+Coordonates: 201 449
+
+Coordonates: 196 423
+
+Coordonates: 179 429
+
+Coordonates: 185 468
+
+Coordonates: 167 421
+
+Coordonates: 175 467
+
+Coordonates: 164 456
+
+Coordonates: 215 464
+
+Coordonates: 207 442
+
+Coordonates: 220 447
+
+Coordonates: 187 444
+
+Coordonates: 193 421
+
+Coordonates: 195 432
+
+Coordonates: 179 449
+
+Coordonates: 195 453
+
+Coordonates: 216 467
+
+Coordonates: 234 436
+
+Coordonates: 209 456
+
+Coordonates: 165 451
+
+Coordonates: 180 432
+
+Coordonates: 217 454
+
+Coordonates: 199 446
+
+Coordonates: 163 463
+
+Coordonates: 219 430
+
+Coordonates: 204 423
+
+Coordonates: 192 468
+
+Coordonates: 242 476
+
+Coordonates: 236 432
+
+Coordonates: 224 459
+
+Coordonates: 223 465
+
+Coordonates: 191 450
+
+Coordonates: 177 472
+
+Coordonates: 179 451
+
+Coordonates: 209 476
+
+Coordonates: 214 450
+
+Coordonates: 247 465
+
+Coordonates: 167 410
+
+Coordonates: 160 445
+
+Coordonates: 211 447
+
+Coordonates: 204 463
+
+Coordonates: 198 452
+
+Coordonates: 170 449
+
+Coordonates: 166 441
+
+Coordonates: 184 446
+
+Coordonates: 173 476
+
+Coordonates: 196 448
+
+Coordonates: 229 464
+
+Coordonates: 215 483
+
+Coordonates: 194 445
+
+Coordonates: 222 448
+
+Coordonates: 207 455
+
+Coordonates: 170 409
+
+Coordonates: 205 465
+
+Coordonates: 187 458
+
+Coordonates: 158 483
+
+Coordonates: 241 455
+
+Coordonates: 201 442
+
+Coordonates: 233 434
+
+Coordonates: 195 448
+
+Coordonates: 276 446
+
+Coordonates: 237 460
+
+Coordonates: 196 472
+
+Coordonates: 169 447
+
+Coordonates: 213 440
+
+Coordonates: 192 411
+
+Coordonates: 220 428
+
+Coordonates: 209 445
+
+Coordonates: 213 452
+
+Coordonates: 190 395
+
+Coordonates: 211 448
+
+Coordonates: 217 457
+
+Coordonates: 172 422
+
+Coordonates: 219 445
+
+Coordonates: 219 467
+
+Coordonates: 182 465
+
+Coordonates: 223 440
+
+Coordonates: 183 429
+
+Coordonates: 221 486
+
+Coordonates: 212 468
+
+Coordonates: 181 439
+
+Coordonates: 179 446
+
+Coordonates: 161 448
+
+Coordonates: 169 460
+
+Coordonates: 205 472
+
+Coordonates: 172 459
+
+Coordonates: 209 452
+
+Coordonates: 216 434
+
+Coordonates: 207 464
+
+Coordonates: 215 443
+
+Coordonates: 241 472
+
+Coordonates: 254 481
+
+Coordonates: 219 460
+
+Coordonates: 208 452
+
+Coordonates: 157 414
+
+Coordonates: 194 435
+
+Coordonates: 182 463
+
+Coordonates: 181 470
+
+Coordonates: 181 436
+
+Coordonates: 163 478
+
+Coordonates: 159 505
+
+Coordonates: 179 470
+
+Coordonates: 192 456
+
+Coordonates: 185 471
+
+Coordonates: 196 460
+
+Coordonates: 154 459
+
+Coordonates: 208 452
+
+Coordonates: 222 448
+
+Coordonates: 185 468
+
+Coordonates: 234 443
+
+Coordonates: 228 456
+
+Coordonates: 204 446
+
+Coordonates: 237 470
+
+Coordonates: 176 489
+
+Coordonates: 215 434
+
+Coordonates: 155 474
+
+Coordonates: 213 473
+
+Coordonates: 206 463
+
+Coordonates: 154 390
+
+Coordonates: 206 457
+
+Coordonates: 193 452
+
+Coordonates: 217 426
+
+Coordonates: 176 456
+
+Coordonates: 200 455
+
+Coordonates: 181 450
+
+Coordonates: 158 439
+
+Coordonates: 197 461
+
+Coordonates: 201 454
+
+Coordonates: 228 461
+
+Coordonates: 202 435
+
+Coordonates: 210 447
+
+Coordonates: 197 434
+
+Coordonates: 154 446
+
+Coordonates: 216 450
+
+Coordonates: 160 485
+
+Coordonates: 238 411
+
+Coordonates: 193 435
+
+Coordonates: 211 421
+
+Coordonates: 205 488
+
+Coordonates: 198 410
+
+Coordonates: 182 442
+
+Coordonates: 157 422
+
+Coordonates: 194 448
+
+Coordonates: 252 455
+
+Coordonates: 206 486
+
+Coordonates: 213 467
+
+Coordonates: 174 446
+
+Coordonates: 222 439
+
+Coordonates: 247 463
+
+Coordonates: 213 459
+
+Coordonates: 194 447
+
+Coordonates: 209 454
+
+Coordonates: 224 458
+
+Coordonates: 212 462
+
+Coordonates: 190 431
+
+Coordonates: 216 468
+
+Coordonates: 181 433
+
+Coordonates: 173 451
+
+Coordonates: 176 455
+
+Coordonates: 224 436
+
+Coordonates: 152 470
+
+Coordonates: 204 407
+
+Coordonates: 152 440
+
+Coordonates: 209 448
+
+Coordonates: 223 450
+
+Coordonates: 230 428
+
+Coordonates: 184 466
+
+Coordonates: 234 454
+
+Coordonates: 195 450
+
+Coordonates: 161 462
+
+Coordonates: 218 448
+
+Coordonates: 169 419
+
+Coordonates: 239 480
+
+Coordonates: 152 451
+
+Coordonates: 211 450
+
+Coordonates: 141 450
+
+Coordonates: 215 428
+
+Coordonates: 243 438
+
+Coordonates: 185 461
+
+Coordonates: 216 442
+
+Coordonates: 201 426
+
+Coordonates: 201 439
+
+Coordonates: 242 467
+
+Coordonates: 188 489
+
+Coordonates: 138 420
+
+Coordonates: 204 432
+
+Coordonates: 230 438
+
+Coordonates: 210 478
+
+Coordonates: 183 480
+
+Coordonates: 188 451
+
+Coordonates: 231 469
+
+Coordonates: 207 469
+
+Coordonates: 164 447
+
+Coordonates: 199 458
+
+Coordonates: 185 445
+
+Coordonates: 216 445
+
+Coordonates: 241 426
+
+Coordonates: 207 476
+
+Coordonates: 204 438
+
+Coordonates: 175 470
+
+Coordonates: 178 447
+
+Coordonates: 232 459
+
+Coordonates: 225 483
+
+Coordonates: 201 454
+
+Coordonates: 223 454
+
+Coordonates: 190 442
+
+Coordonates: 158 436
+
+Coordonates: 191 438
+
+Coordonates: 232 451
+
+Coordonates: 193 495
+
+Coordonates: 200 417
+
+Coordonates: 180 457
+
+Coordonates: 170 424
+
+Coordonates: 211 450
+
+Coordonates: 156 455
+
+Coordonates: 162 464
+
+Coordonates: 227 490
+
+Coordonates: 226 422
+
+Coordonates: 184 472
+
+Coordonates: 187 434
+
+Coordonates: 225 480
+
+Coordonates: 240 419
+
+Coordonates: 248 493
+
+Coordonates: 184 412
+
+Coordonates: 234 434
+
+Coordonates: 195 472
+
+Coordonates: 194 430
+
+Coordonates: 251 399
+
+Coordonates: 183 477
+
+Coordonates: 183 416
+
+Coordonates: 192 440
+
+Coordonates: 179 464
+
+Coordonates: 203 423
+
+Coordonates: 251 461
+
+Coordonates: 203 479
+
+Coordonates: 158 461
+
+Coordonates: 197 451
+
+Coordonates: 189 452
+
+Coordonates: 218 432
+
+Coordonates: 189 434
+
+Coordonates: 161 481
+
+Coordonates: 199 468
+
+Coordonates: 170 482
+
+Coordonates: 220 433
+
+Coordonates: 223 459
+
+Coordonates: 209 449
+
+Coordonates: 226 419
+
+Coordonates: 189 431
+
+Coordonates: 216 477
+
+Coordonates: 212 444
+
+Coordonates: 208 473
+
+Coordonates: 227 483
+
+Coordonates: 208 490
+
+Coordonates: 252 426
+
+Coordonates: 220 443
+
+Coordonates: 217 441
+
+Coordonates: 187 411
+
+Coordonates: 204 451
+
+Coordonates: 218 479
+
+Coordonates: 211 448
+
+Coordonates: 212 441
+
+Coordonates: 222 473
+
+Coordonates: 207 450
+
+Coordonates: 189 425
+
+Coordonates: 183 472
+
+Coordonates: 207 442
+
+Coordonates: 186 499
+
+Coordonates: 202 443
+
+Coordonates: 193 428
+
+Coordonates: 214 485
+
+Coordonates: 236 439
+
+Coordonates: 171 433
+
+Coordonates: 222 461
+
+Coordonates: 237 465
+
+Coordonates: 231 436
+
+Coordonates: 195 468
+
+Coordonates: 186 476
+
+Coordonates: 262 439
+
+Coordonates: 220 438
+
+Coordonates: 212 453
+
+Coordonates: 162 443
+
+Coordonates: 188 456
+
+Coordonates: 206 415
+
+Coordonates: 193 419
+
+Coordonates: 217 465
+
+Coordonates: 180 464
+
+Coordonates: 205 433
+
+Coordonates: 205 447
+
+Coordonates: 159 436
+
+Coordonates: 213 490
+
+Coordonates: 192 448
+
+Coordonates: 183 468
+
+Coordonates: 219 478
+
+Coordonates: 181 471
+
+Coordonates: 191 442
+
+Coordonates: 175 460
+
+Coordonates: 226 425
+
+Coordonates: 163 439
+
+Coordonates: 218 453
+
+Coordonates: 205 479
+
+Coordonates: 225 447
+
+Coordonates: 199 443
+
+Coordonates: 169 455
+
+Coordonates: 227 429
+
+Coordonates: 184 453
+
+Coordonates: 201 461
+
+Coordonates: 259 481
+
+Coordonates: 213 473
+
+Coordonates: 195 448
+
+Coordonates: 173 440
+
+Coordonates: 234 456
+
+Coordonates: 152 445
+
+Coordonates: 182 466
+
+Coordonates: 230 457
+
+Coordonates: 177 460
+
+Coordonates: 235 439
+
+Coordonates: 222 447
+
+Coordonates: 167 471
+
+Coordonates: 177 436
+
+Coordonates: 175 421
+
+Coordonates: 203 440
+
+Coordonates: 164 439
+
+Coordonates: 212 460
+
+Coordonates: 169 463
+
+Coordonates: 152 454
+
+Coordonates: 207 428
+
+Coordonates: 168 455
+
+Coordonates: 176 435
+
+Coordonates: 228 424
+
+Coordonates: 193 424
+
+Coordonates: 237 434
+
+Coordonates: 220 466
+
+Coordonates: 232 468
+
+Coordonates: 215 395
+
+Coordonates: 190 452
+
+Coordonates: 166 450
+
+Coordonates: 194 396
+
+Coordonates: 221 442
+
+Coordonates: 224 433
+
+Coordonates: 246 437
+
+Coordonates: 173 465
+
+Coordonates: 169 467
+
+Coordonates: 181 439
+
+Coordonates: 223 430
+
+Coordonates: 196 447
+
+Coordonates: 225 454
+
+Coordonates: 233 483
+
+Coordonates: 245 430
+
+Coordonates: 228 424
+
+Coordonates: 161 437
+
+Coordonates: 183 453
+
+Coordonates: 188 435
+
+Coordonates: 239 433
+
+Coordonates: 211 449
+
+Coordonates: 177 461
+
+Coordonates: 250 474
+
+Coordonates: 201 430
+
+Coordonates: 188 457
+
+Coordonates: 178 435
+
+Coordonates: 199 474
+
+Coordonates: 207 457
+
+Coordonates: 200 439
+
+Coordonates: 213 487
+
+Coordonates: 217 454
+
+Coordonates: 193 455
+
+Coordonates: 195 472
+
+Coordonates: 221 465
+
+Coordonates: 218 462
+
+Coordonates: 182 437
+
+Coordonates: 173 476
+
+Coordonates: 252 465
+
+Coordonates: 193 444
+
+Coordonates: 217 445
+
+Coordonates: 202 434
+
+Coordonates: 178 486
+
+Coordonates: 216 466
+
+Coordonates: 232 438
+
+Coordonates: 205 412
+
+Coordonates: 143 436
+
+Coordonates: 207 438
+
+Coordonates: 205 449
+
+Coordonates: 189 448
+
+Coordonates: 228 461
+
+Coordonates: 207 429
+
+Coordonates: 190 466
+
+Coordonates: 195 450
+
+Coordonates: 221 464
+
+Coordonates: 210 444
+
+Coordonates: 217 416
+
+Coordonates: 176 460
+
+Coordonates: 205 437
+
+Coordonates: 219 465
+
+Coordonates: 167 490
+
+Coordonates: 240 470
+
+Coordonates: 165 421
+
+Coordonates: 253 450
+
+Coordonates: 216 468
+
+Coordonates: 214 451
+
+Coordonates: 223 464
+
+Coordonates: 172 473
+
+Coordonates: 164 427
+
+Coordonates: 196 429
+
+Coordonates: 202 440
+
+Coordonates: 197 471
+
+Coordonates: 178 460
+
+Coordonates: 160 473
+
+Coordonates: 194 438
+
+Coordonates: 213 499
+
+Coordonates: 205 434
+
+Coordonates: 193 420
+
+Coordonates: 195 452
+
+Coordonates: 160 445
+
+Coordonates: 252 454
+
+Coordonates: 194 482
+
+Coordonates: 173 452
+
+Coordonates: 184 462
+
+Coordonates: 219 467
+
+Coordonates: 145 423
+
+Coordonates: 186 474
+
+Coordonates: 197 444
+
+Coordonates: 213 476
+
+Coordonates: 145 451
+
+Coordonates: 238 441
+
+Coordonates: 210 443
+
+Coordonates: 192 447
+
+Coordonates: 194 433
+
+Coordonates: 179 419
+
+Coordonates: 204 435
+
+Coordonates: 207 453
+
+Coordonates: 191 418
+
+Coordonates: 202 440
+
+Coordonates: 187 447
+
+Coordonates: 188 470
+
+Coordonates: 213 457
+
+Coordonates: 211 437
+
+Coordonates: 192 450
+
+Coordonates: 185 441
+
+Coordonates: 162 493
+
+Coordonates: 235 446
+
+Coordonates: 194 468
+
+Coordonates: 186 439
+
+Coordonates: 173 419
+
+Coordonates: 212 471
+
+Coordonates: 173 478
+
+Coordonates: 202 504
+
+Coordonates: 199 447
+
+Coordonates: 209 465
+
+Coordonates: 218 441
+
+Coordonates: 171 455
+
+Coordonates: 182 441
+
+Coordonates: 184 443
+
+Coordonates: 220 435
+
+Coordonates: 181 469
+
+Coordonates: 186 455
+
+Coordonates: 199 454
+
+Coordonates: 218 439
+
+Coordonates: 220 469
+
+Coordonates: 218 406
+
+Coordonates: 254 437
+
+Coordonates: 211 458
+
+Coordonates: 173 446
+
+Coordonates: 172 459
+
+Coordonates: 189 432
+
+Coordonates: 217 433
+
+Coordonates: 176 455
+
+Coordonates: 239 423
+
+Coordonates: 187 470
+
+Coordonates: 242 448
+
+Coordonates: 207 448
+
+Coordonates: 202 468
+
+Coordonates: 246 457
+
+Coordonates: 206 489
+
+Coordonates: 200 470
+
+Coordonates: 214 444
+
+Coordonates: 189 447
+
+Coordonates: 222 434
+
+Coordonates: 208 442
+
+Coordonates: 206 435
+
+Coordonates: 177 464
+
+Coordonates: 194 438
+
+Coordonates: 182 477
+
+Coordonates: 241 458
+
+Coordonates: 238 442
+
+Coordonates: 211 463
+
+Coordonates: 207 457
+
+Coordonates: 222 491
+
+Coordonates: 181 471
+
+Coordonates: 193 438
+
+Coordonates: 171 454
+
+Coordonates: 187 430
+
+Coordonates: 194 478
+
+Coordonates: 268 432
+
+Coordonates: 195 441
+
+Coordonates: 213 418
+
+Coordonates: 203 428
+
+Coordonates: 192 462
+
+Coordonates: 210 467
+
+Coordonates: 169 454
+
+Coordonates: 224 425
+
+Coordonates: 166 460
+
+Coordonates: 211 451
+
+Coordonates: 182 455
+
+Coordonates: 198 445
+
+Coordonates: 222 452
+
+Coordonates: 252 451
+
+Coordonates: 212 430
+
+Coordonates: 208 477
+
+Coordonates: 171 443
+
+Coordonates: 204 469
+
+Coordonates: 182 433
+
+Coordonates: 203 445
+
+Coordonates: 241 445
+
+Coordonates: 224 420
+
+Coordonates: 197 430
+
+Coordonates: 229 434
+
+Coordonates: 223 435
+
+Coordonates: 206 456
+
+Coordonates: 218 506
+
+Coordonates: 221 439
+
+Coordonates: 214 452
+
+Coordonates: 136 461
+
+Coordonates: 172 493
+
+Coordonates: 185 465
+
+Coordonates: 198 437
+
+Coordonates: 210 447
+
+Coordonates: 205 426
+
+Coordonates: 191 449
+
+Coordonates: 248 426
+
+Coordonates: 240 457
+
+Coordonates: 139 436
+
+Coordonates: 218 458
+
+Coordonates: 210 448
+
+Coordonates: 244 482
+
+Coordonates: 205 428
+
+Coordonates: 159 456
+
+Coordonates: 175 443
+
+Coordonates: 226 447
+
+Coordonates: 184 426
+
+Coordonates: 212 462
+
+Coordonates: 186 433
+
+Coordonates: 180 426
+
+Coordonates: 203 445
+
+Coordonates: 263 460
+
+Coordonates: 193 466
+
+Coordonates: 189 443
+
+Coordonates: 188 457
+
+Coordonates: 154 471
+
+Coordonates: 227 429
+
+Coordonates: 190 451
+
+Coordonates: 183 470
+
+Coordonates: 165 402
+
+Coordonates: 149 432
+
+Coordonates: 140 437
+
+Coordonates: 199 439
+
+Coordonates: 203 435
+
+Coordonates: 177 453
+
+Coordonates: 167 500
+
+Coordonates: 220 478
+
+Coordonates: 176 430
+
+Coordonates: 205 445
+
+Coordonates: 187 442
+
+Coordonates: 182 440
+
+Coordonates: 179 444
+
+Coordonates: 181 481
+
+Coordonates: 204 445
+
+Coordonates: 226 438
+
+Coordonates: 204 456
+
+Coordonates: 186 464
+
+Coordonates: 185 442
+
+Coordonates: 186 452
+
+Coordonates: 184 475
+
+Coordonates: 199 460
+
+Coordonates: 189 475
+
+Coordonates: 227 434
+
+Coordonates: 134 476
+
+Coordonates: 239 435
+
+Coordonates: 231 424
+
+Coordonates: 235 478
+
+Coordonates: 201 448
+
+Coordonates: 204 441
+
+Coordonates: 189 470
+
+Coordonates: 188 430
+
+Coordonates: 161 491
+
+Coordonates: 164 412
+
+Coordonates: 194 488
+
+Coordonates: 193 416
+
+Coordonates: 199 460
+
+Coordonates: 208 421
+
+Coordonates: 197 461
+
+Coordonates: 174 467
+
+Coordonates: 203 471
+
+Coordonates: 226 472
+
+Coordonates: 214 450
+
+Coordonates: 152 458
+
+Coordonates: 202 450
+
+Coordonates: 187 450
+
+Coordonates: 240 437
+
+Coordonates: 200 434
+
+Coordonates: 206 431
+
+Coordonates: 184 438
+
+Coordonates: 180 472
+
+Coordonates: 232 477
+
+Coordonates: 187 438
+
+Coordonates: 204 438
+
+Coordonates: 220 444
+
+Coordonates: 217 439
+
+Coordonates: 172 462
+
+Coordonates: 164 432
+
+Coordonates: 236 437
+
+Coordonates: 193 422
+
+Coordonates: 216 476
+
+Coordonates: 168 437
+
+Coordonates: 189 426
+
+Coordonates: 225 468
+
+Coordonates: 245 460
+
+Coordonates: 198 469
+
+Coordonates: 159 474
+
+Coordonates: 230 440
+
+Coordonates: 186 463
+
+Coordonates: 243 471
+
+Coordonates: 195 433
+
+Coordonates: 208 457
+
+Coordonates: 166 434
+
+Coordonates: 199 417
 
