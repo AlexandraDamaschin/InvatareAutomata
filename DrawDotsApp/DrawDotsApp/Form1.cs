@@ -179,6 +179,8 @@ namespace DrawDotsApp
 
             Random random = new Random();
 
+            StreamWriter writetext = new StreamWriter("xyCoordonates.txt");
+
             //draw 1000 random points
             for (int k = 0; k < 1000; k++)
             {
@@ -200,22 +202,20 @@ namespace DrawDotsApp
                     //draw points on y axis
                     y = random.Next(-300, 300);
                     y = CalculateNewY(y);
-                    //todo: write x and y to a txt file
-                    using (StreamWriter writetext = new StreamWriter("xANDy.txt"))
-                    {
-                        writetext.WriteLine(y.ToString());
-                    }
 
                     G_Y = (float)Math.Pow(Math.E, (-((my - y) * (my - y) / (2 * delta_y * delta_y)))); //formula
                     pa = (float)random.NextDouble();
                 }
                 while (G_Y < pa);
+                writetext.WriteLine("Coordonates: " + x.ToString()+" "+ y.ToString() + "\n");
 
                 Graphics graph;
                 graph = this.CreateGraphics();
                 graph.DrawEllipse(pen, x, y, x_Y_dim, x_Y_dim);
                 graph.Dispose();
             }
+
+            writetext.Close();
         }
     }
 }
