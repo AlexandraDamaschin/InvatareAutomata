@@ -69,6 +69,7 @@ namespace DrawDotsApp
                 randomZone.Add(numberOfZone);
             }
         }
+
         //create lines coordonate
         public void CreateLinesCoordonates()
         {
@@ -82,16 +83,16 @@ namespace DrawDotsApp
             oX_oY.DrawLine(Pens.Black, 300, 0, 300, 600);
 
             //Grade oX by 5
-            for (int x = 0; x <= 600; x = x + 5)
-            {
-                oX_oY.DrawLine(Pens.Black, x, 299, x, 302);
-            }
+            //for (int x = 0; x <= 600; x = x + 5)
+            //{
+            //    oX_oY.DrawLine(Pens.Black, x, 299, x, 302);
+            //}
 
-            //Grade oY by 5
-            for (int y = 0; y <= 600; y = y + 5)
-            {
-                oX_oY.DrawLine(Pens.Black, 299, y, 302, y);
-            }
+            ////Grade oY by 5
+            //for (int y = 0; y <= 600; y = y + 5)
+            //{
+            //    oX_oY.DrawLine(Pens.Black, 299, y, 302, y);
+            //}
 
             oX_oY.Dispose();
         }
@@ -215,7 +216,7 @@ namespace DrawDotsApp
                 graph.DrawEllipse(pen, x, y, 1, 1);
                 graph.Dispose();
             }
-
+            //close wroten file 
             writetext.Close();
         }
     }
