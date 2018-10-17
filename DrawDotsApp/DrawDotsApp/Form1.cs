@@ -116,30 +116,30 @@ namespace DrawDotsApp
         #region  set zones
         public List<float> ValueZ1()
         {
-            float newX = CalculateNewX(10);
+            float newX = CalculateNewX(27);
             float newY = CalculateNewY(-120);
             List<float> z1 = new List<float>();
             z1.Add(newX);
             z1.Add(newY);
-            z1.Add(10); //deltaX
+            z1.Add(12); //deltaX
             z1.Add(10); //deltaY
             return z1;
         }
         public List<float> ValueZ2()
         {
-            float newX = CalculateNewX(260);
+            float newX = CalculateNewX(232);
             float newY = CalculateNewY(-20);
             List<float> z2 = new List<float>();
             z2.Add(newX);
             z2.Add(newY);
-            z2.Add(5); //deltaX
+            z2.Add(14); //deltaX
             z2.Add(10); //deltaY
             return z2;
         }
         public List<float> ValueZ3()
         {
-            float newX = CalculateNewX(-100);
-            float newY = CalculateNewY(-150);
+            float newX = CalculateNewX(-98);
+            float newY = CalculateNewY(-120);
             List<float> z3 = new List<float>();
             z3.Add(newX);
             z3.Add(newY);
@@ -149,24 +149,24 @@ namespace DrawDotsApp
         }
         public List<float> ValueZ4()
         {
-            float newX = CalculateNewX(-120);
-            float newY = CalculateNewY(120);
+            float newX = CalculateNewX(-127);
+            float newY = CalculateNewY(134);
             List<float> z4 = new List<float>();
             z4.Add(newX);
             z4.Add(newY);
             z4.Add(15); //deltaX
-            z4.Add(10); //deltaY
+            z4.Add(13); //deltaY
             return z4;
         }
         public List<float> ValueZ5()
         {
-            float newX = CalculateNewX(100);
-            float newY = CalculateNewY(130);
+            float newX = CalculateNewX(89);
+            float newY = CalculateNewY(127);
             List<float> z5 = new List<float>();
             z5.Add(newX);
             z5.Add(newY);
-            z5.Add(5); //deltaX
-            z5.Add(10); //deltaY
+            z5.Add(25); //deltaX
+            z5.Add(20); //deltaY
             return z5;
         }
         #endregion
