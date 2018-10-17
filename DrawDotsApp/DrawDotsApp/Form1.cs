@@ -172,7 +172,7 @@ namespace DrawDotsApp
         #endregion
 
         //draw random points
-        public void DrawPoints(List<float> zone, Pen pen)
+        public void DrawPoints(List<float> zone, Pen pointsPen)
         {
             float mX = zone[0];
             float mY = zone[1];
@@ -186,34 +186,34 @@ namespace DrawDotsApp
             //draw 1000 random points
             for (int k = 0; k < 1000; k++)
             {
-                float x, G_X;
+                float x, Gx;
                 float pas;
-                float y, G_Y;
+                float y, Gy;
                 int max = 300, min = -300;
                 do
                 {
                     //draw points on x axis
                     x = random.Next(min, max);
                     x = CalculateNewX(x);
-                    G_X = (float)Math.Pow(Math.E, (-((mX - x) * (mX - x) / (2 * delta_x * delta_x)))); //formula
+                    Gx = (float)Math.Pow(Math.E, (-((mX - x) * (mX - x) / (2 * delta_x * delta_x)))); //formula
                     pas = (float)random.NextDouble();
                 }
-                while (G_X < pas);
+                while (Gx < pas);
                 do
                 {
                     //draw points on y axis
                     y = random.Next(min, max);
                     y = CalculateNewY(y);
 
-                    G_Y = (float)Math.Pow(Math.E, (-((mY - y) * (mY - y) / (2 * delta_y * delta_y)))); //formula
+                    Gy = (float)Math.Pow(Math.E, (-((mY - y) * (mY - y) / (2 * delta_y * delta_y)))); //formula
                     pas = (float)random.NextDouble();
                 }
-                while (G_Y < pas);
+                while (Gy < pas);
                 writetext.WriteLine("Coordonates: " + x.ToString() + " " + y.ToString() + "\n");
 
                 Graphics graph;
                 graph = this.CreateGraphics();
-                graph.DrawEllipse(pen, x, y, 1, 1);
+                graph.DrawEllipse(pointsPen, x, y, 1, 1);
                 graph.Dispose();
             }
             //close wroten file 
