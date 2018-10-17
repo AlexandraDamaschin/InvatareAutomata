@@ -190,6 +190,7 @@ namespace DrawDotsApp
                 float pas;
                 float y, Gy;
                 int max = 300, min = -300;
+
                 do
                 {
                     //draw points on x axis
@@ -209,7 +210,7 @@ namespace DrawDotsApp
                     pas = (float)random.NextDouble();
                 }
                 while (Gy < pas);
-                writetext.WriteLine("Coordonates: " + x.ToString() + " " + y.ToString() + "\n");
+                writetext.WriteLine("Coordonates: " + "x="+x.ToString() + " y=" + y.ToString() + "\n");
 
                 Graphics graph;
                 graph = this.CreateGraphics();

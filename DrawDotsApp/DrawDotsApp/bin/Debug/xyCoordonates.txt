@@ -1,2000 +1,2000 @@
-Coordonates: 528 331
-
-Coordonates: 527 321
-
-Coordonates: 544 309
-
-Coordonates: 541 329
-
-Coordonates: 553 308
-
-Coordonates: 520 322
-
-Coordonates: 527 323
-
-Coordonates: 525 316
-
-Coordonates: 537 310
-
-Coordonates: 531 308
-
-Coordonates: 510 304
-
-Coordonates: 560 309
-
-Coordonates: 524 322
-
-Coordonates: 531 319
-
-Coordonates: 524 312
-
-Coordonates: 527 335
-
-Coordonates: 543 329
-
-Coordonates: 516 314
-
-Coordonates: 499 317
-
-Coordonates: 556 323
-
-Coordonates: 542 309
-
-Coordonates: 514 330
-
-Coordonates: 541 325
-
-Coordonates: 538 318
-
-Coordonates: 537 318
-
-Coordonates: 522 311
-
-Coordonates: 544 325
-
-Coordonates: 533 335
-
-Coordonates: 553 323
-
-Coordonates: 520 314
-
-Coordonates: 515 309
-
-Coordonates: 535 317
-
-Coordonates: 518 316
-
-Coordonates: 531 311
-
-Coordonates: 528 321
-
-Coordonates: 534 320
-
-Coordonates: 519 321
-
-Coordonates: 537 325
-
-Coordonates: 497 311
-
-Coordonates: 523 308
-
-Coordonates: 529 320
-
-Coordonates: 545 337
-
-Coordonates: 519 318
-
-Coordonates: 551 340
-
-Coordonates: 526 317
-
-Coordonates: 519 315
-
-Coordonates: 537 327
-
-Coordonates: 524 306
-
-Coordonates: 538 332
-
-Coordonates: 532 321
-
-Coordonates: 531 325
-
-Coordonates: 541 308
-
-Coordonates: 543 306
-
-Coordonates: 546 320
-
-Coordonates: 518 321
-
-Coordonates: 543 325
-
-Coordonates: 540 321
-
-Coordonates: 541 294
-
-Coordonates: 533 347
-
-Coordonates: 530 327
-
-Coordonates: 521 316
-
-Coordonates: 511 313
-
-Coordonates: 539 307
-
-Coordonates: 515 323
-
-Coordonates: 500 323
-
-Coordonates: 526 339
-
-Coordonates: 535 313
-
-Coordonates: 526 304
-
-Coordonates: 537 315
-
-Coordonates: 556 330
-
-Coordonates: 551 313
-
-Coordonates: 533 323
-
-Coordonates: 525 313
-
-Coordonates: 539 326
-
-Coordonates: 532 313
-
-Coordonates: 528 319
-
-Coordonates: 514 325
-
-Coordonates: 534 337
-
-Coordonates: 540 317
-
-Coordonates: 532 314
-
-Coordonates: 520 324
-
-Coordonates: 570 334
-
-Coordonates: 538 326
-
-Coordonates: 537 311
-
-Coordonates: 532 316
-
-Coordonates: 522 311
-
-Coordonates: 541 319
-
-Coordonates: 531 327
-
-Coordonates: 494 312
-
-Coordonates: 520 323
-
-Coordonates: 549 303
-
-Coordonates: 539 309
-
-Coordonates: 544 320
-
-Coordonates: 531 331
-
-Coordonates: 503 334
-
-Coordonates: 524 322
-
-Coordonates: 535 321
-
-Coordonates: 542 301
-
-Coordonates: 526 309
-
-Coordonates: 529 319
-
-Coordonates: 538 319
-
-Coordonates: 542 318
-
-Coordonates: 529 297
-
-Coordonates: 505 313
-
-Coordonates: 533 312
-
-Coordonates: 538 311
-
-Coordonates: 540 328
-
-Coordonates: 530 335
-
-Coordonates: 532 306
-
-Coordonates: 539 321
-
-Coordonates: 529 322
-
-Coordonates: 523 322
-
-Coordonates: 535 302
-
-Coordonates: 532 334
-
-Coordonates: 521 330
-
-Coordonates: 543 312
-
-Coordonates: 536 306
-
-Coordonates: 540 324
-
-Coordonates: 538 327
-
-Coordonates: 532 307
-
-Coordonates: 531 309
-
-Coordonates: 529 324
-
-Coordonates: 554 331
-
-Coordonates: 510 316
-
-Coordonates: 526 331
-
-Coordonates: 542 326
-
-Coordonates: 528 306
-
-Coordonates: 535 328
-
-Coordonates: 557 309
-
-Coordonates: 536 317
-
-Coordonates: 549 322
-
-Coordonates: 505 320
-
-Coordonates: 532 295
-
-Coordonates: 521 328
-
-Coordonates: 530 332
-
-Coordonates: 540 317
-
-Coordonates: 535 326
-
-Coordonates: 553 335
-
-Coordonates: 531 333
-
-Coordonates: 523 329
-
-Coordonates: 515 319
-
-Coordonates: 518 324
-
-Coordonates: 514 333
-
-Coordonates: 546 326
-
-Coordonates: 560 322
-
-Coordonates: 513 315
-
-Coordonates: 533 319
-
-Coordonates: 549 297
-
-Coordonates: 546 323
-
-Coordonates: 538 322
-
-Coordonates: 547 299
-
-Coordonates: 545 324
-
-Coordonates: 571 316
-
-Coordonates: 526 331
-
-Coordonates: 515 319
-
-Coordonates: 489 308
-
-Coordonates: 516 331
-
-Coordonates: 530 308
-
-Coordonates: 528 326
-
-Coordonates: 528 306
-
-Coordonates: 514 308
-
-Coordonates: 544 320
-
-Coordonates: 537 306
-
-Coordonates: 529 323
-
-Coordonates: 528 327
-
-Coordonates: 537 344
-
-Coordonates: 519 320
-
-Coordonates: 539 318
-
-Coordonates: 556 328
-
-Coordonates: 514 316
-
-Coordonates: 539 302
-
-Coordonates: 512 314
-
-Coordonates: 524 336
-
-Coordonates: 528 337
-
-Coordonates: 526 323
-
-Coordonates: 533 316
-
-Coordonates: 529 322
-
-Coordonates: 525 332
-
-Coordonates: 525 321
-
-Coordonates: 522 328
-
-Coordonates: 519 313
-
-Coordonates: 544 322
-
-Coordonates: 540 325
-
-Coordonates: 532 318
-
-Coordonates: 553 318
-
-Coordonates: 521 320
-
-Coordonates: 547 332
-
-Coordonates: 537 318
-
-Coordonates: 546 320
-
-Coordonates: 547 316
-
-Coordonates: 522 329
-
-Coordonates: 525 344
-
-Coordonates: 539 307
-
-Coordonates: 533 328
-
-Coordonates: 530 332
-
-Coordonates: 542 321
-
-Coordonates: 535 331
-
-Coordonates: 543 325
-
-Coordonates: 535 326
-
-Coordonates: 517 341
-
-Coordonates: 522 309
-
-Coordonates: 541 333
-
-Coordonates: 547 309
-
-Coordonates: 553 295
-
-Coordonates: 531 309
-
-Coordonates: 547 321
-
-Coordonates: 542 320
-
-Coordonates: 546 321
-
-Coordonates: 552 315
-
-Coordonates: 531 331
-
-Coordonates: 525 325
-
-Coordonates: 529 344
-
-Coordonates: 511 311
-
-Coordonates: 540 316
-
-Coordonates: 552 307
-
-Coordonates: 518 322
-
-Coordonates: 521 332
-
-Coordonates: 522 338
-
-Coordonates: 516 316
-
-Coordonates: 514 332
-
-Coordonates: 516 326
-
-Coordonates: 543 330
-
-Coordonates: 535 337
-
-Coordonates: 543 333
-
-Coordonates: 558 341
-
-Coordonates: 542 326
-
-Coordonates: 533 313
-
-Coordonates: 509 328
-
-Coordonates: 533 319
-
-Coordonates: 522 311
-
-Coordonates: 519 323
-
-Coordonates: 505 301
-
-Coordonates: 530 334
-
-Coordonates: 525 320
-
-Coordonates: 538 309
-
-Coordonates: 518 305
-
-Coordonates: 550 298
-
-Coordonates: 535 323
-
-Coordonates: 547 318
-
-Coordonates: 530 312
-
-Coordonates: 530 307
-
-Coordonates: 531 328
-
-Coordonates: 533 330
-
-Coordonates: 548 316
-
-Coordonates: 535 318
-
-Coordonates: 544 335
-
-Coordonates: 528 323
-
-Coordonates: 520 331
-
-Coordonates: 514 306
-
-Coordonates: 525 314
-
-Coordonates: 542 327
-
-Coordonates: 511 323
-
-Coordonates: 542 331
-
-Coordonates: 524 315
-
-Coordonates: 527 321
-
-Coordonates: 531 319
-
-Coordonates: 526 311
-
-Coordonates: 500 315
-
-Coordonates: 534 319
-
-Coordonates: 538 327
-
-Coordonates: 524 341
-
-Coordonates: 517 314
-
-Coordonates: 534 319
-
-Coordonates: 525 334
-
-Coordonates: 555 316
-
-Coordonates: 554 331
-
-Coordonates: 548 326
-
-Coordonates: 521 316
-
-Coordonates: 513 332
-
-Coordonates: 532 314
-
-Coordonates: 535 317
-
-Coordonates: 537 329
-
-Coordonates: 509 318
-
-Coordonates: 542 323
-
-Coordonates: 527 317
-
-Coordonates: 544 317
-
-Coordonates: 517 340
-
-Coordonates: 572 333
-
-Coordonates: 515 310
-
-Coordonates: 535 302
-
-Coordonates: 543 317
-
-Coordonates: 546 302
-
-Coordonates: 501 323
-
-Coordonates: 508 323
-
-Coordonates: 505 309
-
-Coordonates: 508 328
-
-Coordonates: 548 317
-
-Coordonates: 524 309
-
-Coordonates: 548 311
-
-Coordonates: 547 329
-
-Coordonates: 529 324
-
-Coordonates: 518 310
-
-Coordonates: 525 337
-
-Coordonates: 540 330
-
-Coordonates: 516 317
-
-Coordonates: 535 322
-
-Coordonates: 532 333
-
-Coordonates: 522 322
-
-Coordonates: 534 318
-
-Coordonates: 524 312
-
-Coordonates: 549 310
-
-Coordonates: 544 309
-
-Coordonates: 511 327
-
-Coordonates: 526 327
-
-Coordonates: 502 313
-
-Coordonates: 547 322
-
-Coordonates: 532 326
-
-Coordonates: 512 321
-
-Coordonates: 549 311
-
-Coordonates: 515 312
-
-Coordonates: 534 318
-
-Coordonates: 504 311
-
-Coordonates: 553 342
-
-Coordonates: 528 318
-
-Coordonates: 538 329
-
-Coordonates: 542 327
-
-Coordonates: 556 322
-
-Coordonates: 552 326
-
-Coordonates: 512 314
-
-Coordonates: 540 313
-
-Coordonates: 519 315
-
-Coordonates: 546 327
-
-Coordonates: 526 304
-
-Coordonates: 529 315
-
-Coordonates: 502 318
-
-Coordonates: 533 332
-
-Coordonates: 550 336
-
-Coordonates: 531 319
-
-Coordonates: 541 321
-
-Coordonates: 515 322
-
-Coordonates: 527 315
-
-Coordonates: 524 319
-
-Coordonates: 543 312
-
-Coordonates: 531 308
-
-Coordonates: 516 332
-
-Coordonates: 540 307
-
-Coordonates: 512 329
-
-Coordonates: 543 307
-
-Coordonates: 527 323
-
-Coordonates: 518 317
-
-Coordonates: 536 324
-
-Coordonates: 533 317
-
-Coordonates: 538 320
-
-Coordonates: 514 320
-
-Coordonates: 545 311
-
-Coordonates: 539 331
-
-Coordonates: 536 317
-
-Coordonates: 554 332
-
-Coordonates: 540 330
-
-Coordonates: 532 330
-
-Coordonates: 506 326
-
-Coordonates: 544 310
-
-Coordonates: 531 311
-
-Coordonates: 533 338
-
-Coordonates: 548 316
-
-Coordonates: 533 319
-
-Coordonates: 533 307
-
-Coordonates: 516 334
-
-Coordonates: 524 307
-
-Coordonates: 524 326
-
-Coordonates: 503 328
-
-Coordonates: 533 330
-
-Coordonates: 535 321
-
-Coordonates: 529 302
-
-Coordonates: 525 343
-
-Coordonates: 517 321
-
-Coordonates: 519 309
-
-Coordonates: 512 299
-
-Coordonates: 516 306
-
-Coordonates: 539 337
-
-Coordonates: 531 328
-
-Coordonates: 525 305
-
-Coordonates: 550 320
-
-Coordonates: 550 323
-
-Coordonates: 503 322
-
-Coordonates: 547 322
-
-Coordonates: 540 309
-
-Coordonates: 543 323
-
-Coordonates: 512 337
-
-Coordonates: 524 338
-
-Coordonates: 529 328
-
-Coordonates: 495 317
-
-Coordonates: 555 344
-
-Coordonates: 512 334
-
-Coordonates: 530 334
-
-Coordonates: 529 346
-
-Coordonates: 538 319
-
-Coordonates: 544 315
-
-Coordonates: 563 329
-
-Coordonates: 525 322
-
-Coordonates: 517 321
-
-Coordonates: 516 316
-
-Coordonates: 515 316
-
-Coordonates: 545 312
-
-Coordonates: 516 314
-
-Coordonates: 521 325
-
-Coordonates: 533 326
-
-Coordonates: 523 322
-
-Coordonates: 509 332
-
-Coordonates: 539 329
-
-Coordonates: 521 329
-
-Coordonates: 527 325
-
-Coordonates: 531 319
-
-Coordonates: 537 303
-
-Coordonates: 538 339
-
-Coordonates: 549 314
-
-Coordonates: 540 304
-
-Coordonates: 549 329
-
-Coordonates: 543 319
-
-Coordonates: 537 316
-
-Coordonates: 532 336
-
-Coordonates: 548 326
-
-Coordonates: 515 311
-
-Coordonates: 533 315
-
-Coordonates: 539 308
-
-Coordonates: 523 322
-
-Coordonates: 519 309
-
-Coordonates: 539 321
-
-Coordonates: 540 316
-
-Coordonates: 522 333
-
-Coordonates: 530 314
-
-Coordonates: 554 313
-
-Coordonates: 537 335
-
-Coordonates: 518 305
-
-Coordonates: 534 322
-
-Coordonates: 513 297
-
-Coordonates: 525 333
-
-Coordonates: 513 308
-
-Coordonates: 524 332
-
-Coordonates: 532 327
-
-Coordonates: 530 320
-
-Coordonates: 530 314
-
-Coordonates: 531 332
-
-Coordonates: 514 321
-
-Coordonates: 525 327
-
-Coordonates: 544 314
-
-Coordonates: 537 312
-
-Coordonates: 554 331
-
-Coordonates: 520 315
-
-Coordonates: 530 345
-
-Coordonates: 528 326
-
-Coordonates: 545 325
-
-Coordonates: 530 320
-
-Coordonates: 524 328
-
-Coordonates: 534 310
-
-Coordonates: 512 324
-
-Coordonates: 524 315
-
-Coordonates: 519 325
-
-Coordonates: 546 337
-
-Coordonates: 527 329
-
-Coordonates: 558 306
-
-Coordonates: 525 314
-
-Coordonates: 530 325
-
-Coordonates: 552 323
-
-Coordonates: 537 316
-
-Coordonates: 526 318
-
-Coordonates: 541 337
-
-Coordonates: 521 311
-
-Coordonates: 527 323
-
-Coordonates: 514 308
-
-Coordonates: 510 328
-
-Coordonates: 530 315
-
-Coordonates: 541 328
-
-Coordonates: 531 305
-
-Coordonates: 534 335
-
-Coordonates: 520 325
-
-Coordonates: 532 330
-
-Coordonates: 529 305
-
-Coordonates: 538 338
-
-Coordonates: 528 321
-
-Coordonates: 520 330
-
-Coordonates: 518 314
-
-Coordonates: 542 312
-
-Coordonates: 520 320
-
-Coordonates: 529 307
-
-Coordonates: 534 339
-
-Coordonates: 529 310
-
-Coordonates: 553 304
-
-Coordonates: 539 328
-
-Coordonates: 530 337
-
-Coordonates: 532 320
-
-Coordonates: 542 313
-
-Coordonates: 514 302
-
-Coordonates: 524 306
-
-Coordonates: 547 318
-
-Coordonates: 549 305
-
-Coordonates: 553 330
-
-Coordonates: 544 335
-
-Coordonates: 530 329
-
-Coordonates: 516 323
-
-Coordonates: 545 309
-
-Coordonates: 540 303
-
-Coordonates: 512 319
-
-Coordonates: 538 315
-
-Coordonates: 552 320
-
-Coordonates: 511 318
-
-Coordonates: 561 324
-
-Coordonates: 574 328
-
-Coordonates: 531 321
-
-Coordonates: 553 331
-
-Coordonates: 523 336
-
-Coordonates: 543 341
-
-Coordonates: 539 343
-
-Coordonates: 537 339
-
-Coordonates: 525 317
-
-Coordonates: 519 312
-
-Coordonates: 521 322
-
-Coordonates: 546 321
-
-Coordonates: 547 322
-
-Coordonates: 528 317
-
-Coordonates: 532 338
-
-Coordonates: 548 322
-
-Coordonates: 539 319
-
-Coordonates: 522 310
-
-Coordonates: 550 336
-
-Coordonates: 543 345
-
-Coordonates: 526 311
-
-Coordonates: 550 314
-
-Coordonates: 548 310
-
-Coordonates: 537 331
-
-Coordonates: 547 317
-
-Coordonates: 515 314
-
-Coordonates: 542 320
-
-Coordonates: 546 324
-
-Coordonates: 534 309
-
-Coordonates: 527 329
-
-Coordonates: 539 308
-
-Coordonates: 547 316
-
-Coordonates: 534 325
-
-Coordonates: 554 322
-
-Coordonates: 541 330
-
-Coordonates: 543 308
-
-Coordonates: 563 312
-
-Coordonates: 526 320
-
-Coordonates: 540 314
-
-Coordonates: 533 314
-
-Coordonates: 550 303
-
-Coordonates: 507 328
-
-Coordonates: 540 307
-
-Coordonates: 521 317
-
-Coordonates: 526 325
-
-Coordonates: 511 312
-
-Coordonates: 520 301
-
-Coordonates: 520 308
-
-Coordonates: 552 318
-
-Coordonates: 538 315
-
-Coordonates: 519 313
-
-Coordonates: 511 325
-
-Coordonates: 517 315
-
-Coordonates: 518 322
-
-Coordonates: 540 304
-
-Coordonates: 544 325
-
-Coordonates: 522 309
-
-Coordonates: 526 322
-
-Coordonates: 505 313
-
-Coordonates: 513 318
-
-Coordonates: 525 328
-
-Coordonates: 541 309
-
-Coordonates: 518 327
-
-Coordonates: 506 319
-
-Coordonates: 542 314
-
-Coordonates: 535 324
-
-Coordonates: 518 303
-
-Coordonates: 516 322
-
-Coordonates: 527 313
-
-Coordonates: 542 308
-
-Coordonates: 540 315
-
-Coordonates: 529 300
-
-Coordonates: 550 312
-
-Coordonates: 527 323
-
-Coordonates: 526 321
-
-Coordonates: 528 326
-
-Coordonates: 518 327
-
-Coordonates: 524 316
-
-Coordonates: 540 328
-
-Coordonates: 530 303
-
-Coordonates: 547 318
-
-Coordonates: 518 303
-
-Coordonates: 540 326
-
-Coordonates: 526 329
-
-Coordonates: 553 330
-
-Coordonates: 528 321
-
-Coordonates: 507 335
-
-Coordonates: 542 312
-
-Coordonates: 523 318
-
-Coordonates: 524 331
-
-Coordonates: 520 322
-
-Coordonates: 540 324
-
-Coordonates: 512 344
-
-Coordonates: 531 325
-
-Coordonates: 524 306
-
-Coordonates: 553 330
-
-Coordonates: 521 322
-
-Coordonates: 514 321
-
-Coordonates: 524 307
-
-Coordonates: 543 339
-
-Coordonates: 523 330
-
-Coordonates: 531 317
-
-Coordonates: 526 348
-
-Coordonates: 532 328
-
-Coordonates: 547 328
-
-Coordonates: 543 311
-
-Coordonates: 528 345
-
-Coordonates: 531 320
-
-Coordonates: 538 325
-
-Coordonates: 529 329
-
-Coordonates: 537 313
-
-Coordonates: 554 317
-
-Coordonates: 530 319
-
-Coordonates: 514 314
-
-Coordonates: 534 310
-
-Coordonates: 519 324
-
-Coordonates: 535 317
-
-Coordonates: 528 332
-
-Coordonates: 538 312
-
-Coordonates: 545 316
-
-Coordonates: 546 321
-
-Coordonates: 499 328
-
-Coordonates: 546 317
-
-Coordonates: 550 322
-
-Coordonates: 539 317
-
-Coordonates: 541 321
-
-Coordonates: 512 323
-
-Coordonates: 540 317
-
-Coordonates: 541 335
-
-Coordonates: 545 318
-
-Coordonates: 547 316
-
-Coordonates: 532 310
-
-Coordonates: 527 319
-
-Coordonates: 504 305
-
-Coordonates: 511 340
-
-Coordonates: 525 323
-
-Coordonates: 515 329
-
-Coordonates: 521 317
-
-Coordonates: 544 306
-
-Coordonates: 531 319
-
-Coordonates: 534 329
-
-Coordonates: 551 336
-
-Coordonates: 536 315
-
-Coordonates: 546 329
-
-Coordonates: 557 327
-
-Coordonates: 535 327
-
-Coordonates: 549 334
-
-Coordonates: 513 309
-
-Coordonates: 520 308
-
-Coordonates: 530 329
-
-Coordonates: 526 321
-
-Coordonates: 542 335
-
-Coordonates: 520 319
-
-Coordonates: 515 322
-
-Coordonates: 547 325
-
-Coordonates: 529 312
-
-Coordonates: 535 317
-
-Coordonates: 527 322
-
-Coordonates: 541 323
-
-Coordonates: 532 302
-
-Coordonates: 536 323
-
-Coordonates: 518 333
-
-Coordonates: 540 328
-
-Coordonates: 526 324
-
-Coordonates: 533 323
-
-Coordonates: 540 316
-
-Coordonates: 546 319
-
-Coordonates: 525 313
-
-Coordonates: 550 294
-
-Coordonates: 548 329
-
-Coordonates: 534 335
-
-Coordonates: 519 321
-
-Coordonates: 553 307
-
-Coordonates: 528 329
-
-Coordonates: 557 327
-
-Coordonates: 537 306
-
-Coordonates: 522 318
-
-Coordonates: 549 340
-
-Coordonates: 519 314
-
-Coordonates: 542 322
-
-Coordonates: 532 310
-
-Coordonates: 516 331
-
-Coordonates: 514 329
-
-Coordonates: 540 321
-
-Coordonates: 538 308
-
-Coordonates: 558 317
-
-Coordonates: 544 318
-
-Coordonates: 537 320
-
-Coordonates: 543 327
-
-Coordonates: 528 317
-
-Coordonates: 560 317
-
-Coordonates: 533 320
-
-Coordonates: 521 323
-
-Coordonates: 532 320
-
-Coordonates: 529 320
-
-Coordonates: 538 315
-
-Coordonates: 521 326
-
-Coordonates: 532 313
-
-Coordonates: 501 309
-
-Coordonates: 551 315
-
-Coordonates: 522 328
-
-Coordonates: 533 314
-
-Coordonates: 522 326
-
-Coordonates: 544 323
-
-Coordonates: 548 318
-
-Coordonates: 543 325
-
-Coordonates: 540 320
-
-Coordonates: 551 318
-
-Coordonates: 523 308
-
-Coordonates: 520 313
-
-Coordonates: 552 320
-
-Coordonates: 538 322
-
-Coordonates: 562 321
-
-Coordonates: 547 327
-
-Coordonates: 519 317
-
-Coordonates: 527 332
-
-Coordonates: 545 316
-
-Coordonates: 521 326
-
-Coordonates: 526 313
-
-Coordonates: 553 320
-
-Coordonates: 544 325
-
-Coordonates: 520 316
-
-Coordonates: 506 335
-
-Coordonates: 509 319
-
-Coordonates: 538 329
-
-Coordonates: 548 334
-
-Coordonates: 517 320
-
-Coordonates: 559 318
-
-Coordonates: 532 318
-
-Coordonates: 540 308
-
-Coordonates: 520 322
-
-Coordonates: 539 334
-
-Coordonates: 521 310
-
-Coordonates: 546 336
-
-Coordonates: 541 317
-
-Coordonates: 533 325
-
-Coordonates: 524 311
-
-Coordonates: 527 337
-
-Coordonates: 547 323
-
-Coordonates: 520 325
-
-Coordonates: 542 306
-
-Coordonates: 526 329
-
-Coordonates: 556 315
-
-Coordonates: 546 330
-
-Coordonates: 555 324
-
-Coordonates: 550 315
-
-Coordonates: 542 341
-
-Coordonates: 516 330
-
-Coordonates: 548 332
-
-Coordonates: 537 327
-
-Coordonates: 518 323
-
-Coordonates: 556 319
-
-Coordonates: 528 305
-
-Coordonates: 552 331
-
-Coordonates: 553 317
-
-Coordonates: 537 325
-
-Coordonates: 518 313
-
-Coordonates: 522 317
-
-Coordonates: 537 321
-
-Coordonates: 522 307
-
-Coordonates: 569 318
-
-Coordonates: 529 315
-
-Coordonates: 544 314
-
-Coordonates: 523 322
-
-Coordonates: 542 332
-
-Coordonates: 540 327
-
-Coordonates: 527 304
-
-Coordonates: 546 327
-
-Coordonates: 525 308
-
-Coordonates: 535 318
-
-Coordonates: 541 333
-
-Coordonates: 519 339
-
-Coordonates: 500 307
-
-Coordonates: 530 315
-
-Coordonates: 540 307
-
-Coordonates: 551 311
-
-Coordonates: 517 317
-
-Coordonates: 511 317
-
-Coordonates: 530 333
-
-Coordonates: 510 332
-
-Coordonates: 532 306
-
-Coordonates: 522 342
-
-Coordonates: 516 328
-
-Coordonates: 518 319
-
-Coordonates: 536 320
-
-Coordonates: 537 320
-
-Coordonates: 528 314
-
-Coordonates: 527 314
-
-Coordonates: 530 331
-
-Coordonates: 522 320
-
-Coordonates: 516 328
-
-Coordonates: 529 330
-
-Coordonates: 532 321
-
-Coordonates: 529 325
-
-Coordonates: 533 323
-
-Coordonates: 540 315
-
-Coordonates: 514 333
-
-Coordonates: 521 324
-
-Coordonates: 516 311
-
-Coordonates: 533 327
-
-Coordonates: 523 313
-
-Coordonates: 509 315
-
-Coordonates: 537 308
-
-Coordonates: 521 322
-
-Coordonates: 533 315
-
-Coordonates: 541 328
-
-Coordonates: 522 311
-
-Coordonates: 529 324
-
-Coordonates: 515 325
-
-Coordonates: 531 305
-
-Coordonates: 525 317
-
-Coordonates: 550 297
-
-Coordonates: 530 310
-
-Coordonates: 515 321
-
-Coordonates: 553 320
-
-Coordonates: 512 328
-
-Coordonates: 527 337
-
-Coordonates: 541 317
-
-Coordonates: 522 329
-
-Coordonates: 548 309
-
-Coordonates: 545 324
-
-Coordonates: 533 317
-
-Coordonates: 530 306
-
-Coordonates: 529 307
-
-Coordonates: 535 301
-
-Coordonates: 529 333
-
-Coordonates: 566 324
-
-Coordonates: 543 319
-
-Coordonates: 535 316
-
-Coordonates: 527 308
-
-Coordonates: 538 315
-
-Coordonates: 545 326
-
-Coordonates: 542 332
-
-Coordonates: 499 322
-
-Coordonates: 522 321
-
-Coordonates: 527 324
-
-Coordonates: 556 315
-
-Coordonates: 504 320
-
-Coordonates: 533 308
-
-Coordonates: 528 305
-
-Coordonates: 524 291
-
-Coordonates: 528 328
-
-Coordonates: 517 326
-
-Coordonates: 533 311
-
-Coordonates: 563 327
-
-Coordonates: 527 305
-
-Coordonates: 550 320
-
-Coordonates: 535 328
-
-Coordonates: 554 316
-
-Coordonates: 537 332
-
-Coordonates: 524 314
-
-Coordonates: 528 308
-
-Coordonates: 547 331
-
-Coordonates: 539 312
-
-Coordonates: 530 323
-
-Coordonates: 529 334
-
-Coordonates: 530 340
-
-Coordonates: 529 317
-
-Coordonates: 527 342
-
-Coordonates: 535 312
-
-Coordonates: 538 310
-
-Coordonates: 541 322
-
-Coordonates: 550 307
-
-Coordonates: 519 323
-
-Coordonates: 537 316
-
-Coordonates: 534 321
-
-Coordonates: 542 332
-
-Coordonates: 538 334
-
-Coordonates: 527 321
-
-Coordonates: 524 339
-
-Coordonates: 550 320
-
-Coordonates: 525 304
-
-Coordonates: 523 304
-
-Coordonates: 563 326
-
-Coordonates: 530 342
-
-Coordonates: 544 348
-
-Coordonates: 529 314
-
-Coordonates: 542 324
-
-Coordonates: 566 319
-
-Coordonates: 525 307
-
-Coordonates: 528 310
-
-Coordonates: 528 320
-
-Coordonates: 523 326
-
-Coordonates: 539 337
-
-Coordonates: 534 308
-
-Coordonates: 542 312
-
-Coordonates: 511 315
-
-Coordonates: 522 307
-
-Coordonates: 517 317
-
-Coordonates: 530 333
-
-Coordonates: 521 323
-
-Coordonates: 519 329
-
-Coordonates: 519 340
-
-Coordonates: 505 317
-
-Coordonates: 538 317
-
-Coordonates: 539 311
-
-Coordonates: 542 321
-
-Coordonates: 536 312
-
-Coordonates: 555 329
-
-Coordonates: 527 318
-
-Coordonates: 534 322
-
-Coordonates: 529 312
-
-Coordonates: 526 322
-
-Coordonates: 539 321
-
-Coordonates: 528 338
-
-Coordonates: 536 316
-
-Coordonates: 498 316
-
-Coordonates: 547 311
-
-Coordonates: 525 323
-
-Coordonates: 511 329
-
-Coordonates: 523 312
-
-Coordonates: 555 305
-
-Coordonates: 520 318
-
-Coordonates: 536 322
-
-Coordonates: 538 313
-
-Coordonates: 544 316
-
-Coordonates: 522 322
-
-Coordonates: 532 322
-
-Coordonates: 538 306
-
-Coordonates: 522 329
-
-Coordonates: 515 328
-
-Coordonates: 549 315
-
-Coordonates: 527 318
-
-Coordonates: 525 338
-
-Coordonates: 519 323
-
-Coordonates: 516 332
-
-Coordonates: 539 313
-
-Coordonates: 567 313
-
-Coordonates: 513 304
-
-Coordonates: 517 334
-
-Coordonates: 508 319
-
-Coordonates: 518 323
-
-Coordonates: 542 313
-
-Coordonates: 512 325
-
-Coordonates: 545 316
-
-Coordonates: 529 326
-
-Coordonates: 512 321
-
-Coordonates: 537 309
-
-Coordonates: 556 324
-
-Coordonates: 534 331
-
-Coordonates: 492 328
-
-Coordonates: 501 331
-
-Coordonates: 542 299
-
-Coordonates: 522 329
-
-Coordonates: 524 311
-
-Coordonates: 557 317
-
-Coordonates: 528 305
-
-Coordonates: 524 323
-
-Coordonates: 537 328
-
-Coordonates: 528 341
-
-Coordonates: 549 318
-
-Coordonates: 528 329
-
-Coordonates: 527 338
-
-Coordonates: 525 329
-
-Coordonates: 526 322
-
-Coordonates: 548 328
-
-Coordonates: 547 340
-
-Coordonates: 525 317
-
-Coordonates: 546 326
-
-Coordonates: 515 320
-
-Coordonates: 544 324
-
-Coordonates: 533 336
-
-Coordonates: 528 330
-
-Coordonates: 522 316
-
-Coordonates: 534 315
-
-Coordonates: 537 316
-
-Coordonates: 548 305
-
-Coordonates: 527 329
-
-Coordonates: 515 319
-
-Coordonates: 549 311
-
-Coordonates: 524 335
-
-Coordonates: 511 325
-
-Coordonates: 540 303
-
-Coordonates: 542 315
-
-Coordonates: 540 322
-
-Coordonates: 540 322
-
-Coordonates: 542 310
-
-Coordonates: 537 317
-
-Coordonates: 530 308
-
-Coordonates: 529 306
-
-Coordonates: 520 323
-
-Coordonates: 527 319
-
-Coordonates: 542 312
-
-Coordonates: 522 318
-
-Coordonates: 538 338
-
-Coordonates: 541 327
-
-Coordonates: 525 324
-
-Coordonates: 531 307
-
-Coordonates: 533 333
-
-Coordonates: 554 296
-
-Coordonates: 556 332
-
-Coordonates: 533 316
-
-Coordonates: 527 336
-
-Coordonates: 530 329
-
-Coordonates: 532 322
-
-Coordonates: 539 300
-
-Coordonates: 528 315
-
-Coordonates: 526 323
-
-Coordonates: 514 339
-
-Coordonates: 559 332
-
-Coordonates: 529 318
-
-Coordonates: 510 339
-
-Coordonates: 532 326
-
-Coordonates: 567 329
-
+Coordonates: x=180 y=175
+4
+Coordonates: x=183 y=178
+4
+Coordonates: x=177 y=167
+4
+Coordonates: x=167 y=168
+4
+Coordonates: x=180 y=158
+4
+Coordonates: x=173 y=178
+4
+Coordonates: x=183 y=161
+4
+Coordonates: x=196 y=153
+4
+Coordonates: x=166 y=156
+4
+Coordonates: x=176 y=160
+4
+Coordonates: x=173 y=161
+4
+Coordonates: x=162 y=162
+4
+Coordonates: x=159 y=186
+4
+Coordonates: x=186 y=176
+4
+Coordonates: x=188 y=169
+4
+Coordonates: x=154 y=167
+4
+Coordonates: x=161 y=176
+4
+Coordonates: x=170 y=152
+4
+Coordonates: x=166 y=147
+4
+Coordonates: x=144 y=156
+4
+Coordonates: x=184 y=161
+4
+Coordonates: x=175 y=153
+4
+Coordonates: x=211 y=163
+4
+Coordonates: x=205 y=169
+4
+Coordonates: x=174 y=171
+4
+Coordonates: x=172 y=159
+4
+Coordonates: x=176 y=194
+4
+Coordonates: x=196 y=174
+4
+Coordonates: x=189 y=182
+4
+Coordonates: x=176 y=171
+4
+Coordonates: x=181 y=161
+4
+Coordonates: x=161 y=155
+4
+Coordonates: x=158 y=176
+4
+Coordonates: x=170 y=170
+4
+Coordonates: x=183 y=150
+4
+Coordonates: x=177 y=151
+4
+Coordonates: x=191 y=172
+4
+Coordonates: x=169 y=162
+4
+Coordonates: x=182 y=152
+4
+Coordonates: x=164 y=167
+4
+Coordonates: x=159 y=172
+4
+Coordonates: x=175 y=169
+4
+Coordonates: x=151 y=148
+4
+Coordonates: x=162 y=160
+4
+Coordonates: x=167 y=155
+4
+Coordonates: x=167 y=171
+4
+Coordonates: x=168 y=182
+4
+Coordonates: x=175 y=160
+4
+Coordonates: x=170 y=161
+4
+Coordonates: x=187 y=177
+4
+Coordonates: x=174 y=175
+4
+Coordonates: x=169 y=137
+4
+Coordonates: x=168 y=187
+4
+Coordonates: x=185 y=176
+4
+Coordonates: x=169 y=162
+4
+Coordonates: x=180 y=166
+4
+Coordonates: x=198 y=170
+4
+Coordonates: x=168 y=172
+4
+Coordonates: x=170 y=147
+4
+Coordonates: x=170 y=155
+4
+Coordonates: x=180 y=169
+4
+Coordonates: x=191 y=158
+4
+Coordonates: x=202 y=169
+4
+Coordonates: x=183 y=156
+4
+Coordonates: x=167 y=169
+4
+Coordonates: x=171 y=173
+4
+Coordonates: x=174 y=180
+4
+Coordonates: x=187 y=154
+4
+Coordonates: x=160 y=174
+4
+Coordonates: x=159 y=157
+4
+Coordonates: x=149 y=174
+4
+Coordonates: x=159 y=159
+4
+Coordonates: x=155 y=186
+4
+Coordonates: x=176 y=137
+4
+Coordonates: x=160 y=173
+4
+Coordonates: x=189 y=159
+4
+Coordonates: x=164 y=179
+4
+Coordonates: x=165 y=156
+4
+Coordonates: x=177 y=169
+4
+Coordonates: x=171 y=152
+4
+Coordonates: x=176 y=199
+4
+Coordonates: x=199 y=131
+4
+Coordonates: x=134 y=184
+4
+Coordonates: x=160 y=177
+4
+Coordonates: x=172 y=171
+4
+Coordonates: x=166 y=165
+4
+Coordonates: x=175 y=186
+4
+Coordonates: x=192 y=178
+4
+Coordonates: x=158 y=190
+4
+Coordonates: x=199 y=163
+4
+Coordonates: x=207 y=189
+4
+Coordonates: x=182 y=145
+4
+Coordonates: x=191 y=149
+4
+Coordonates: x=162 y=162
+4
+Coordonates: x=174 y=164
+4
+Coordonates: x=175 y=170
+4
+Coordonates: x=143 y=157
+4
+Coordonates: x=169 y=153
+4
+Coordonates: x=176 y=182
+4
+Coordonates: x=212 y=170
+4
+Coordonates: x=171 y=168
+4
+Coordonates: x=152 y=160
+4
+Coordonates: x=191 y=171
+4
+Coordonates: x=173 y=175
+4
+Coordonates: x=145 y=158
+4
+Coordonates: x=162 y=152
+4
+Coordonates: x=169 y=180
+4
+Coordonates: x=177 y=155
+4
+Coordonates: x=168 y=170
+4
+Coordonates: x=163 y=170
+4
+Coordonates: x=190 y=182
+4
+Coordonates: x=177 y=151
+4
+Coordonates: x=183 y=173
+4
+Coordonates: x=170 y=184
+4
+Coordonates: x=155 y=162
+4
+Coordonates: x=172 y=189
+4
+Coordonates: x=183 y=153
+4
+Coordonates: x=173 y=163
+4
+Coordonates: x=174 y=189
+4
+Coordonates: x=161 y=161
+4
+Coordonates: x=173 y=174
+4
+Coordonates: x=173 y=172
+4
+Coordonates: x=179 y=154
+4
+Coordonates: x=169 y=179
+4
+Coordonates: x=149 y=174
+4
+Coordonates: x=163 y=138
+4
+Coordonates: x=174 y=164
+4
+Coordonates: x=167 y=187
+4
+Coordonates: x=154 y=160
+4
+Coordonates: x=177 y=171
+4
+Coordonates: x=178 y=185
+4
+Coordonates: x=150 y=159
+4
+Coordonates: x=165 y=164
+4
+Coordonates: x=169 y=183
+4
+Coordonates: x=175 y=181
+4
+Coordonates: x=182 y=165
+4
+Coordonates: x=167 y=178
+4
+Coordonates: x=160 y=183
+4
+Coordonates: x=152 y=150
+4
+Coordonates: x=166 y=171
+4
+Coordonates: x=170 y=152
+4
+Coordonates: x=170 y=162
+4
+Coordonates: x=157 y=180
+4
+Coordonates: x=171 y=174
+4
+Coordonates: x=184 y=178
+4
+Coordonates: x=179 y=170
+4
+Coordonates: x=141 y=174
+4
+Coordonates: x=162 y=152
+4
+Coordonates: x=185 y=161
+4
+Coordonates: x=175 y=152
+4
+Coordonates: x=159 y=156
+4
+Coordonates: x=165 y=164
+4
+Coordonates: x=184 y=152
+4
+Coordonates: x=187 y=174
+4
+Coordonates: x=187 y=166
+4
+Coordonates: x=177 y=141
+4
+Coordonates: x=178 y=170
+4
+Coordonates: x=184 y=162
+4
+Coordonates: x=177 y=152
+4
+Coordonates: x=181 y=146
+4
+Coordonates: x=175 y=185
+4
+Coordonates: x=192 y=178
+4
+Coordonates: x=145 y=158
+4
+Coordonates: x=172 y=163
+4
+Coordonates: x=174 y=170
+4
+Coordonates: x=180 y=158
+4
+Coordonates: x=158 y=162
+4
+Coordonates: x=178 y=179
+4
+Coordonates: x=171 y=173
+4
+Coordonates: x=167 y=166
+4
+Coordonates: x=177 y=169
+4
+Coordonates: x=152 y=155
+4
+Coordonates: x=158 y=181
+4
+Coordonates: x=177 y=158
+4
+Coordonates: x=177 y=167
+4
+Coordonates: x=192 y=172
+4
+Coordonates: x=158 y=144
+4
+Coordonates: x=183 y=182
+4
+Coordonates: x=223 y=169
+4
+Coordonates: x=152 y=176
+4
+Coordonates: x=156 y=164
+4
+Coordonates: x=158 y=158
+4
+Coordonates: x=139 y=167
+4
+Coordonates: x=154 y=152
+4
+Coordonates: x=179 y=160
+4
+Coordonates: x=180 y=174
+4
+Coordonates: x=188 y=164
+4
+Coordonates: x=178 y=182
+4
+Coordonates: x=176 y=165
+4
+Coordonates: x=163 y=162
+4
+Coordonates: x=192 y=174
+4
+Coordonates: x=171 y=184
+4
+Coordonates: x=182 y=177
+4
+Coordonates: x=189 y=190
+4
+Coordonates: x=192 y=157
+4
+Coordonates: x=201 y=148
+4
+Coordonates: x=161 y=163
+4
+Coordonates: x=169 y=167
+4
+Coordonates: x=173 y=178
+4
+Coordonates: x=176 y=179
+4
+Coordonates: x=192 y=168
+4
+Coordonates: x=175 y=136
+4
+Coordonates: x=149 y=166
+4
+Coordonates: x=142 y=154
+4
+Coordonates: x=196 y=166
+4
+Coordonates: x=171 y=179
+4
+Coordonates: x=172 y=170
+4
+Coordonates: x=173 y=147
+4
+Coordonates: x=171 y=176
+4
+Coordonates: x=175 y=158
+4
+Coordonates: x=182 y=153
+4
+Coordonates: x=158 y=152
+4
+Coordonates: x=192 y=170
+4
+Coordonates: x=177 y=163
+4
+Coordonates: x=162 y=170
+4
+Coordonates: x=189 y=147
+4
+Coordonates: x=179 y=176
+4
+Coordonates: x=163 y=172
+4
+Coordonates: x=181 y=182
+4
+Coordonates: x=157 y=168
+4
+Coordonates: x=149 y=153
+4
+Coordonates: x=182 y=172
+4
+Coordonates: x=193 y=147
+4
+Coordonates: x=179 y=152
+4
+Coordonates: x=181 y=178
+4
+Coordonates: x=153 y=141
+4
+Coordonates: x=171 y=194
+4
+Coordonates: x=187 y=153
+4
+Coordonates: x=192 y=178
+4
+Coordonates: x=178 y=156
+4
+Coordonates: x=158 y=156
+4
+Coordonates: x=180 y=179
+4
+Coordonates: x=172 y=159
+4
+Coordonates: x=182 y=158
+4
+Coordonates: x=193 y=151
+4
+Coordonates: x=184 y=149
+4
+Coordonates: x=153 y=185
+4
+Coordonates: x=176 y=175
+4
+Coordonates: x=198 y=168
+4
+Coordonates: x=180 y=175
+4
+Coordonates: x=182 y=156
+4
+Coordonates: x=168 y=177
+4
+Coordonates: x=176 y=147
+4
+Coordonates: x=195 y=153
+4
+Coordonates: x=184 y=157
+4
+Coordonates: x=184 y=175
+4
+Coordonates: x=173 y=168
+4
+Coordonates: x=165 y=169
+4
+Coordonates: x=169 y=163
+4
+Coordonates: x=164 y=160
+4
+Coordonates: x=139 y=173
+4
+Coordonates: x=154 y=146
+4
+Coordonates: x=160 y=158
+4
+Coordonates: x=175 y=153
+4
+Coordonates: x=160 y=163
+4
+Coordonates: x=172 y=166
+4
+Coordonates: x=161 y=149
+4
+Coordonates: x=161 y=181
+4
+Coordonates: x=185 y=167
+4
+Coordonates: x=180 y=171
+4
+Coordonates: x=172 y=174
+4
+Coordonates: x=163 y=167
+4
+Coordonates: x=156 y=167
+4
+Coordonates: x=198 y=174
+4
+Coordonates: x=186 y=170
+4
+Coordonates: x=145 y=173
+4
+Coordonates: x=180 y=165
+4
+Coordonates: x=167 y=193
+4
+Coordonates: x=160 y=175
+4
+Coordonates: x=187 y=187
+4
+Coordonates: x=178 y=176
+4
+Coordonates: x=203 y=190
+4
+Coordonates: x=174 y=146
+4
+Coordonates: x=175 y=167
+4
+Coordonates: x=173 y=159
+4
+Coordonates: x=177 y=154
+4
+Coordonates: x=157 y=158
+4
+Coordonates: x=179 y=153
+4
+Coordonates: x=154 y=188
+4
+Coordonates: x=158 y=164
+4
+Coordonates: x=154 y=173
+4
+Coordonates: x=173 y=197
+4
+Coordonates: x=156 y=151
+4
+Coordonates: x=188 y=141
+4
+Coordonates: x=188 y=151
+4
+Coordonates: x=182 y=164
+4
+Coordonates: x=181 y=144
+4
+Coordonates: x=171 y=131
+4
+Coordonates: x=183 y=155
+4
+Coordonates: x=166 y=188
+4
+Coordonates: x=162 y=144
+4
+Coordonates: x=162 y=175
+4
+Coordonates: x=133 y=170
+4
+Coordonates: x=168 y=180
+4
+Coordonates: x=203 y=180
+4
+Coordonates: x=166 y=176
+4
+Coordonates: x=174 y=159
+4
+Coordonates: x=167 y=155
+4
+Coordonates: x=178 y=145
+4
+Coordonates: x=183 y=167
+4
+Coordonates: x=169 y=165
+4
+Coordonates: x=160 y=148
+4
+Coordonates: x=178 y=155
+4
+Coordonates: x=183 y=177
+4
+Coordonates: x=180 y=145
+4
+Coordonates: x=171 y=146
+4
+Coordonates: x=159 y=159
+4
+Coordonates: x=184 y=156
+4
+Coordonates: x=153 y=168
+4
+Coordonates: x=190 y=188
+4
+Coordonates: x=158 y=179
+4
+Coordonates: x=188 y=123
+4
+Coordonates: x=177 y=180
+4
+Coordonates: x=158 y=169
+4
+Coordonates: x=176 y=149
+4
+Coordonates: x=143 y=173
+4
+Coordonates: x=126 y=164
+4
+Coordonates: x=149 y=166
+4
+Coordonates: x=179 y=180
+4
+Coordonates: x=196 y=183
+4
+Coordonates: x=192 y=164
+4
+Coordonates: x=177 y=172
+4
+Coordonates: x=164 y=158
+4
+Coordonates: x=187 y=151
+4
+Coordonates: x=191 y=165
+4
+Coordonates: x=175 y=155
+4
+Coordonates: x=175 y=175
+4
+Coordonates: x=165 y=151
+4
+Coordonates: x=166 y=171
+4
+Coordonates: x=173 y=173
+4
+Coordonates: x=154 y=139
+4
+Coordonates: x=160 y=159
+4
+Coordonates: x=165 y=158
+4
+Coordonates: x=185 y=192
+4
+Coordonates: x=174 y=164
+4
+Coordonates: x=148 y=153
+4
+Coordonates: x=178 y=160
+4
+Coordonates: x=178 y=171
+4
+Coordonates: x=166 y=169
+4
+Coordonates: x=190 y=158
+4
+Coordonates: x=163 y=174
+4
+Coordonates: x=155 y=164
+4
+Coordonates: x=173 y=153
+4
+Coordonates: x=177 y=156
+4
+Coordonates: x=174 y=168
+4
+Coordonates: x=151 y=173
+4
+Coordonates: x=152 y=165
+4
+Coordonates: x=171 y=154
+4
+Coordonates: x=171 y=171
+4
+Coordonates: x=182 y=145
+4
+Coordonates: x=192 y=156
+4
+Coordonates: x=151 y=150
+4
+Coordonates: x=172 y=165
+4
+Coordonates: x=194 y=169
+4
+Coordonates: x=188 y=172
+4
+Coordonates: x=137 y=164
+4
+Coordonates: x=152 y=180
+4
+Coordonates: x=152 y=153
+4
+Coordonates: x=175 y=154
+4
+Coordonates: x=172 y=190
+4
+Coordonates: x=147 y=172
+4
+Coordonates: x=167 y=183
+4
+Coordonates: x=165 y=155
+4
+Coordonates: x=201 y=167
+4
+Coordonates: x=149 y=165
+4
+Coordonates: x=178 y=161
+4
+Coordonates: x=179 y=171
+4
+Coordonates: x=171 y=159
+4
+Coordonates: x=149 y=158
+4
+Coordonates: x=179 y=199
+4
+Coordonates: x=139 y=182
+4
+Coordonates: x=179 y=164
+4
+Coordonates: x=168 y=175
+4
+Coordonates: x=160 y=156
+4
+Coordonates: x=189 y=138
+4
+Coordonates: x=199 y=170
+4
+Coordonates: x=199 y=147
+4
+Coordonates: x=179 y=172
+4
+Coordonates: x=163 y=157
+4
+Coordonates: x=141 y=144
+4
+Coordonates: x=200 y=184
+4
+Coordonates: x=173 y=175
+4
+Coordonates: x=157 y=197
+4
+Coordonates: x=161 y=157
+4
+Coordonates: x=167 y=181
+4
+Coordonates: x=170 y=167
+4
+Coordonates: x=181 y=167
+4
+Coordonates: x=187 y=165
+4
+Coordonates: x=160 y=173
+4
+Coordonates: x=163 y=165
+4
+Coordonates: x=168 y=158
+4
+Coordonates: x=164 y=193
+4
+Coordonates: x=167 y=174
+4
+Coordonates: x=152 y=162
+4
+Coordonates: x=166 y=150
+4
+Coordonates: x=171 y=172
+4
+Coordonates: x=170 y=149
+4
+Coordonates: x=183 y=199
+4
+Coordonates: x=162 y=159
+4
+Coordonates: x=154 y=154
+4
+Coordonates: x=189 y=162
+4
+Coordonates: x=168 y=183
+4
+Coordonates: x=168 y=158
+4
+Coordonates: x=173 y=160
+4
+Coordonates: x=181 y=176
+4
+Coordonates: x=158 y=170
+4
+Coordonates: x=161 y=156
+4
+Coordonates: x=166 y=180
+4
+Coordonates: x=177 y=161
+4
+Coordonates: x=168 y=179
+4
+Coordonates: x=179 y=176
+4
+Coordonates: x=176 y=162
+4
+Coordonates: x=171 y=173
+4
+Coordonates: x=189 y=159
+4
+Coordonates: x=192 y=166
+4
+Coordonates: x=167 y=176
+4
+Coordonates: x=161 y=160
+4
+Coordonates: x=167 y=179
+4
+Coordonates: x=174 y=199
+4
+Coordonates: x=191 y=178
+4
+Coordonates: x=176 y=149
+4
+Coordonates: x=177 y=164
+4
+Coordonates: x=193 y=169
+4
+Coordonates: x=195 y=157
+4
+Coordonates: x=173 y=158
+4
+Coordonates: x=191 y=152
+4
+Coordonates: x=181 y=190
+4
+Coordonates: x=192 y=206
+4
+Coordonates: x=147 y=163
+4
+Coordonates: x=174 y=171
+4
+Coordonates: x=162 y=167
+4
+Coordonates: x=170 y=150
+4
+Coordonates: x=185 y=163
+4
+Coordonates: x=156 y=165
+4
+Coordonates: x=185 y=174
+4
+Coordonates: x=163 y=161
+4
+Coordonates: x=183 y=164
+4
+Coordonates: x=168 y=143
+4
+Coordonates: x=168 y=151
+4
+Coordonates: x=166 y=179
+4
+Coordonates: x=197 y=168
+4
+Coordonates: x=178 y=159
+4
+Coordonates: x=185 y=174
+4
+Coordonates: x=188 y=173
+4
+Coordonates: x=145 y=184
+4
+Coordonates: x=180 y=152
+4
+Coordonates: x=173 y=165
+4
+Coordonates: x=194 y=171
+4
+Coordonates: x=186 y=189
+4
+Coordonates: x=185 y=173
+4
+Coordonates: x=178 y=161
+4
+Coordonates: x=178 y=167
+4
+Coordonates: x=184 y=163
+4
+Coordonates: x=162 y=158
+4
+Coordonates: x=183 y=163
+4
+Coordonates: x=160 y=164
+4
+Coordonates: x=142 y=161
+4
+Coordonates: x=196 y=169
+4
+Coordonates: x=170 y=161
+4
+Coordonates: x=168 y=189
+4
+Coordonates: x=165 y=185
+4
+Coordonates: x=165 y=155
+4
+Coordonates: x=165 y=174
+4
+Coordonates: x=181 y=174
+4
+Coordonates: x=164 y=168
+4
+Coordonates: x=199 y=170
+4
+Coordonates: x=161 y=146
+4
+Coordonates: x=172 y=172
+4
+Coordonates: x=162 y=154
+4
+Coordonates: x=183 y=174
+4
+Coordonates: x=157 y=174
+4
+Coordonates: x=195 y=177
+4
+Coordonates: x=181 y=168
+4
+Coordonates: x=181 y=160
+4
+Coordonates: x=170 y=145
+4
+Coordonates: x=165 y=161
+4
+Coordonates: x=180 y=130
+4
+Coordonates: x=174 y=173
+4
+Coordonates: x=170 y=163
+4
+Coordonates: x=177 y=178
+4
+Coordonates: x=181 y=167
+4
+Coordonates: x=151 y=192
+4
+Coordonates: x=172 y=162
+4
+Coordonates: x=171 y=165
+4
+Coordonates: x=174 y=158
+4
+Coordonates: x=191 y=148
+4
+Coordonates: x=147 y=186
+4
+Coordonates: x=177 y=170
+4
+Coordonates: x=165 y=171
+4
+Coordonates: x=170 y=173
+4
+Coordonates: x=169 y=153
+4
+Coordonates: x=193 y=158
+4
+Coordonates: x=155 y=154
+4
+Coordonates: x=172 y=157
+4
+Coordonates: x=190 y=168
+4
+Coordonates: x=169 y=195
+4
+Coordonates: x=192 y=170
+4
+Coordonates: x=163 y=164
+4
+Coordonates: x=173 y=177
+4
+Coordonates: x=196 y=159
+4
+Coordonates: x=179 y=141
+4
+Coordonates: x=162 y=171
+4
+Coordonates: x=159 y=162
+4
+Coordonates: x=168 y=176
+4
+Coordonates: x=154 y=145
+4
+Coordonates: x=176 y=170
+4
+Coordonates: x=171 y=184
+4
+Coordonates: x=147 y=181
+4
+Coordonates: x=161 y=150
+4
+Coordonates: x=145 y=163
+4
+Coordonates: x=183 y=169
+4
+Coordonates: x=161 y=166
+4
+Coordonates: x=168 y=173
+4
+Coordonates: x=183 y=166
+4
+Coordonates: x=156 y=168
+4
+Coordonates: x=147 y=159
+4
+Coordonates: x=166 y=180
+4
+Coordonates: x=163 y=177
+4
+Coordonates: x=197 y=184
+4
+Coordonates: x=162 y=165
+4
+Coordonates: x=175 y=172
+4
+Coordonates: x=175 y=174
+4
+Coordonates: x=199 y=153
+4
+Coordonates: x=171 y=176
+4
+Coordonates: x=156 y=170
+4
+Coordonates: x=184 y=187
+4
+Coordonates: x=200 y=176
+4
+Coordonates: x=175 y=158
+4
+Coordonates: x=176 y=180
+4
+Coordonates: x=166 y=159
+4
+Coordonates: x=184 y=184
+4
+Coordonates: x=168 y=188
+4
+Coordonates: x=194 y=162
+4
+Coordonates: x=188 y=184
+4
+Coordonates: x=152 y=169
+4
+Coordonates: x=181 y=182
+4
+Coordonates: x=189 y=167
+4
+Coordonates: x=155 y=158
+4
+Coordonates: x=178 y=175
+4
+Coordonates: x=187 y=161
+4
+Coordonates: x=190 y=145
+4
+Coordonates: x=173 y=176
+4
+Coordonates: x=172 y=164
+4
+Coordonates: x=158 y=150
+4
+Coordonates: x=157 y=160
+4
+Coordonates: x=185 y=181
+4
+Coordonates: x=163 y=182
+4
+Coordonates: x=173 y=164
+4
+Coordonates: x=168 y=171
+4
+Coordonates: x=178 y=160
+4
+Coordonates: x=187 y=147
+4
+Coordonates: x=195 y=174
+4
+Coordonates: x=178 y=140
+4
+Coordonates: x=219 y=180
+4
+Coordonates: x=180 y=176
+4
+Coordonates: x=175 y=185
+4
+Coordonates: x=197 y=169
+4
+Coordonates: x=202 y=172
+4
+Coordonates: x=183 y=161
+4
+Coordonates: x=189 y=165
+4
+Coordonates: x=168 y=162
+4
+Coordonates: x=185 y=158
+4
+Coordonates: x=186 y=154
+4
+Coordonates: x=164 y=164
+4
+Coordonates: x=151 y=169
+4
+Coordonates: x=177 y=171
+4
+Coordonates: x=174 y=164
+4
+Coordonates: x=187 y=164
+4
+Coordonates: x=191 y=146
+4
+Coordonates: x=175 y=169
+4
+Coordonates: x=180 y=158
+4
+Coordonates: x=187 y=166
+4
+Coordonates: x=150 y=153
+4
+Coordonates: x=177 y=145
+4
+Coordonates: x=142 y=160
+4
+Coordonates: x=206 y=167
+4
+Coordonates: x=204 y=166
+4
+Coordonates: x=160 y=176
+4
+Coordonates: x=167 y=169
+4
+Coordonates: x=165 y=194
+4
+Coordonates: x=174 y=147
+4
+Coordonates: x=180 y=174
+4
+Coordonates: x=182 y=168
+4
+Coordonates: x=160 y=174
+4
+Coordonates: x=170 y=164
+4
+Coordonates: x=172 y=153
+4
+Coordonates: x=187 y=167
+4
+Coordonates: x=174 y=162
+4
+Coordonates: x=168 y=146
+4
+Coordonates: x=181 y=168
+4
+Coordonates: x=180 y=160
+4
+Coordonates: x=181 y=181
+4
+Coordonates: x=159 y=146
+4
+Coordonates: x=167 y=162
+4
+Coordonates: x=158 y=172
+4
+Coordonates: x=158 y=170
+4
+Coordonates: x=203 y=174
+4
+Coordonates: x=193 y=175
+4
+Coordonates: x=199 y=170
+4
+Coordonates: x=177 y=163
+4
+Coordonates: x=172 y=162
+4
+Coordonates: x=190 y=163
+4
+Coordonates: x=181 y=163
+4
+Coordonates: x=178 y=178
+4
+Coordonates: x=170 y=187
+4
+Coordonates: x=179 y=169
+4
+Coordonates: x=142 y=154
+4
+Coordonates: x=172 y=154
+4
+Coordonates: x=176 y=156
+4
+Coordonates: x=174 y=162
+4
+Coordonates: x=171 y=144
+4
+Coordonates: x=156 y=181
+4
+Coordonates: x=151 y=170
+4
+Coordonates: x=184 y=168
+4
+Coordonates: x=173 y=182
+4
+Coordonates: x=152 y=158
+4
+Coordonates: x=149 y=163
+4
+Coordonates: x=186 y=154
+4
+Coordonates: x=177 y=157
+4
+Coordonates: x=182 y=172
+4
+Coordonates: x=170 y=154
+4
+Coordonates: x=199 y=185
+4
+Coordonates: x=163 y=162
+4
+Coordonates: x=164 y=143
+4
+Coordonates: x=170 y=175
+4
+Coordonates: x=187 y=154
+4
+Coordonates: x=187 y=181
+4
+Coordonates: x=168 y=180
+4
+Coordonates: x=172 y=156
+4
+Coordonates: x=209 y=165
+4
+Coordonates: x=186 y=157
+4
+Coordonates: x=154 y=146
+4
+Coordonates: x=162 y=175
+4
+Coordonates: x=168 y=178
+4
+Coordonates: x=188 y=172
+4
+Coordonates: x=165 y=184
+4
+Coordonates: x=188 y=172
+4
+Coordonates: x=164 y=159
+4
+Coordonates: x=174 y=174
+4
+Coordonates: x=175 y=167
+4
+Coordonates: x=169 y=165
+4
+Coordonates: x=141 y=157
+4
+Coordonates: x=168 y=147
+4
+Coordonates: x=163 y=164
+4
+Coordonates: x=162 y=144
+4
+Coordonates: x=181 y=178
+4
+Coordonates: x=192 y=161
+4
+Coordonates: x=173 y=189
+4
+Coordonates: x=182 y=173
+4
+Coordonates: x=186 y=175
+4
+Coordonates: x=166 y=153
+4
+Coordonates: x=166 y=179
+4
+Coordonates: x=192 y=156
+4
+Coordonates: x=158 y=153
+4
+Coordonates: x=169 y=157
+4
+Coordonates: x=178 y=165
+4
+Coordonates: x=172 y=182
+4
+Coordonates: x=150 y=175
+4
+Coordonates: x=157 y=155
+4
+Coordonates: x=157 y=155
+4
+Coordonates: x=184 y=143
+4
+Coordonates: x=197 y=150
+4
+Coordonates: x=175 y=149
+4
+Coordonates: x=182 y=162
+4
+Coordonates: x=188 y=140
+4
+Coordonates: x=172 y=146
+4
+Coordonates: x=185 y=162
+4
+Coordonates: x=174 y=137
+4
+Coordonates: x=177 y=127
+4
+Coordonates: x=170 y=159
+4
+Coordonates: x=167 y=192
+4
+Coordonates: x=165 y=162
+4
+Coordonates: x=188 y=190
+4
+Coordonates: x=155 y=185
+4
+Coordonates: x=187 y=188
+4
+Coordonates: x=196 y=159
+4
+Coordonates: x=193 y=173
+4
+Coordonates: x=160 y=164
+4
+Coordonates: x=177 y=165
+4
+Coordonates: x=156 y=163
+4
+Coordonates: x=197 y=165
+4
+Coordonates: x=177 y=157
+4
+Coordonates: x=166 y=162
+4
+Coordonates: x=160 y=172
+4
+Coordonates: x=180 y=169
+4
+Coordonates: x=175 y=170
+4
+Coordonates: x=181 y=176
+4
+Coordonates: x=173 y=184
+4
+Coordonates: x=168 y=179
+4
+Coordonates: x=195 y=184
+4
+Coordonates: x=153 y=171
+4
+Coordonates: x=188 y=168
+4
+Coordonates: x=171 y=173
+4
+Coordonates: x=125 y=168
+4
+Coordonates: x=180 y=153
+4
+Coordonates: x=163 y=190
+4
+Coordonates: x=166 y=141
+4
+Coordonates: x=180 y=159
+4
+Coordonates: x=181 y=179
+4
+Coordonates: x=172 y=174
+4
+Coordonates: x=177 y=195
+4
+Coordonates: x=171 y=149
+4
+Coordonates: x=183 y=155
+4
+Coordonates: x=165 y=181
+4
+Coordonates: x=188 y=172
+4
+Coordonates: x=188 y=191
+4
+Coordonates: x=171 y=157
+4
+Coordonates: x=164 y=155
+4
+Coordonates: x=186 y=150
+4
+Coordonates: x=153 y=134
+4
+Coordonates: x=180 y=145
+4
+Coordonates: x=186 y=170
+4
+Coordonates: x=173 y=154
+4
+Coordonates: x=170 y=144
+4
+Coordonates: x=176 y=160
+4
+Coordonates: x=161 y=153
+4
+Coordonates: x=180 y=158
+4
+Coordonates: x=191 y=161
+4
+Coordonates: x=165 y=179
+4
+Coordonates: x=169 y=169
+4
+Coordonates: x=141 y=165
+4
+Coordonates: x=160 y=167
+4
+Coordonates: x=167 y=170
+4
+Coordonates: x=154 y=174
+4
+Coordonates: x=198 y=158
+4
+Coordonates: x=171 y=129
+4
+Coordonates: x=196 y=164
+4
+Coordonates: x=166 y=175
+4
+Coordonates: x=181 y=179
+4
+Coordonates: x=157 y=174
+4
+Coordonates: x=177 y=183
+4
+Coordonates: x=181 y=151
+4
+Coordonates: x=167 y=160
+4
+Coordonates: x=170 y=181
+4
+Coordonates: x=193 y=172
+4
+Coordonates: x=194 y=161
+4
+Coordonates: x=172 y=157
+4
+Coordonates: x=162 y=167
+4
+Coordonates: x=157 y=181
+4
+Coordonates: x=171 y=174
+4
+Coordonates: x=180 y=175
+4
+Coordonates: x=148 y=164
+4
+Coordonates: x=178 y=172
+4
+Coordonates: x=166 y=165
+4
+Coordonates: x=163 y=159
+4
+Coordonates: x=163 y=165
+4
+Coordonates: x=160 y=184
+4
+Coordonates: x=176 y=169
+4
+Coordonates: x=171 y=147
+4
+Coordonates: x=180 y=156
+4
+Coordonates: x=166 y=189
+4
+Coordonates: x=189 y=171
+4
+Coordonates: x=169 y=175
+4
+Coordonates: x=182 y=168
+4
+Coordonates: x=153 y=157
+4
+Coordonates: x=181 y=181
+4
+Coordonates: x=137 y=168
+4
+Coordonates: x=194 y=156
+4
+Coordonates: x=203 y=160
+4
+Coordonates: x=176 y=169
+4
+Coordonates: x=184 y=176
+4
+Coordonates: x=167 y=161
+4
+Coordonates: x=188 y=171
+4
+Coordonates: x=184 y=177
+4
+Coordonates: x=175 y=173
+4
+Coordonates: x=199 y=163
+4
+Coordonates: x=172 y=186
+4
+Coordonates: x=148 y=174
+4
+Coordonates: x=199 y=171
+4
+Coordonates: x=177 y=161
+4
+Coordonates: x=167 y=171
+4
+Coordonates: x=167 y=144
+4
+Coordonates: x=197 y=132
+4
+Coordonates: x=183 y=179
+4
+Coordonates: x=189 y=163
+4
+Coordonates: x=150 y=177
+4
+Coordonates: x=167 y=196
+4
+Coordonates: x=174 y=177
+4
+Coordonates: x=152 y=172
+4
+Coordonates: x=157 y=164
+4
+Coordonates: x=182 y=156
+4
+Coordonates: x=194 y=176
+4
+Coordonates: x=153 y=179
+4
+Coordonates: x=181 y=168
+4
+Coordonates: x=165 y=179
+4
+Coordonates: x=154 y=153
+4
+Coordonates: x=176 y=159
+4
+Coordonates: x=180 y=173
+4
+Coordonates: x=172 y=153
+4
+Coordonates: x=167 y=175
+4
+Coordonates: x=185 y=158
+4
+Coordonates: x=153 y=157
+4
+Coordonates: x=180 y=146
+4
+Coordonates: x=164 y=172
+4
+Coordonates: x=155 y=157
+4
+Coordonates: x=186 y=172
+4
+Coordonates: x=183 y=174
+4
+Coordonates: x=179 y=182
+4
+Coordonates: x=181 y=189
+4
+Coordonates: x=168 y=165
+4
+Coordonates: x=150 y=179
+4
+Coordonates: x=170 y=186
+4
+Coordonates: x=159 y=153
+4
+Coordonates: x=165 y=153
+4
+Coordonates: x=171 y=185
+4
+Coordonates: x=175 y=158
+4
+Coordonates: x=153 y=163
+4
+Coordonates: x=176 y=170
+4
+Coordonates: x=173 y=174
+4
+Coordonates: x=189 y=157
+4
+Coordonates: x=165 y=183
+4
+Coordonates: x=152 y=176
+4
+Coordonates: x=174 y=175
+4
+Coordonates: x=163 y=162
+4
+Coordonates: x=148 y=140
+4
+Coordonates: x=155 y=195
+4
+Coordonates: x=167 y=179
+4
+Coordonates: x=176 y=157
+4
+Coordonates: x=164 y=151
+4
+Coordonates: x=167 y=158
+4
+Coordonates: x=170 y=142
+4
+Coordonates: x=188 y=151
+4
+Coordonates: x=183 y=146
+4
+Coordonates: x=150 y=174
+4
+Coordonates: x=177 y=153
+4
+Coordonates: x=181 y=170
+4
+Coordonates: x=166 y=144
+4
+Coordonates: x=187 y=170
+4
+Coordonates: x=187 y=174
+4
+Coordonates: x=171 y=172
+4
+Coordonates: x=191 y=167
+4
+Coordonates: x=180 y=154
+4
+Coordonates: x=174 y=195
+4
+Coordonates: x=175 y=164
+4
+Coordonates: x=178 y=164
+4
+Coordonates: x=157 y=172
+4
+Coordonates: x=170 y=165
+4
+Coordonates: x=183 y=186
+4
+Coordonates: x=152 y=178
+4
+Coordonates: x=172 y=167
+4
+Coordonates: x=177 y=156
+4
+Coordonates: x=180 y=169
+4
+Coordonates: x=175 y=164
+4
+Coordonates: x=173 y=179
+4
+Coordonates: x=199 y=161
+4
+Coordonates: x=171 y=193
+4
+Coordonates: x=176 y=157
+4
+Coordonates: x=178 y=155
+4
+Coordonates: x=185 y=161
+4
+Coordonates: x=197 y=178
+4
+Coordonates: x=183 y=175
+4
+Coordonates: x=174 y=161
+4
+Coordonates: x=156 y=167
+4
+Coordonates: x=171 y=161
+4
+Coordonates: x=158 y=169
+4
+Coordonates: x=172 y=159
+4
+Coordonates: x=187 y=143
+4
+Coordonates: x=179 y=146
+4
+Coordonates: x=182 y=159
+4
+Coordonates: x=177 y=148
+4
+Coordonates: x=167 y=189
+4
+Coordonates: x=163 y=169
+4
+Coordonates: x=173 y=185
+4
+Coordonates: x=186 y=171
+4
+Coordonates: x=155 y=154
+4
+Coordonates: x=166 y=172
+4
+Coordonates: x=178 y=180
+4
+Coordonates: x=187 y=187
+4
+Coordonates: x=179 y=195
+4
+Coordonates: x=167 y=177
+4
+Coordonates: x=182 y=158
+4
+Coordonates: x=176 y=160
+4
+Coordonates: x=182 y=139
+4
+Coordonates: x=175 y=139
+4
+Coordonates: x=147 y=161
+4
+Coordonates: x=168 y=162
+4
+Coordonates: x=198 y=205
+4
+Coordonates: x=175 y=137
+4
+Coordonates: x=160 y=161
+4
+Coordonates: x=170 y=150
+4
+Coordonates: x=170 y=195
+4
+Coordonates: x=177 y=171
+4
+Coordonates: x=176 y=163
+4
+Coordonates: x=171 y=176
+4
+Coordonates: x=162 y=157
+4
+Coordonates: x=181 y=159
+4
+Coordonates: x=176 y=175
+4
+Coordonates: x=171 y=161
+4
+Coordonates: x=179 y=166
+4
+Coordonates: x=190 y=159
+4
+Coordonates: x=175 y=184
+4
+Coordonates: x=185 y=193
+4
+Coordonates: x=181 y=133
+4
+Coordonates: x=184 y=159
+4
+Coordonates: x=198 y=158
+4
+Coordonates: x=174 y=182
+4
+Coordonates: x=167 y=138
+4
+Coordonates: x=196 y=174
+4
+Coordonates: x=157 y=186
+4
+Coordonates: x=179 y=166
+4
+Coordonates: x=167 y=176
+4
+Coordonates: x=158 y=171
+4
+Coordonates: x=196 y=162
+4
+Coordonates: x=197 y=185
+4
+Coordonates: x=178 y=164
+4
+Coordonates: x=189 y=155
+4
+Coordonates: x=206 y=163
+4
+Coordonates: x=149 y=160
+4
+Coordonates: x=195 y=175
+4
+Coordonates: x=163 y=179
+4
+Coordonates: x=149 y=173
+4
+Coordonates: x=168 y=186
+4
+Coordonates: x=193 y=180
+4
+Coordonates: x=214 y=162
+4
+Coordonates: x=193 y=187
+4
+Coordonates: x=151 y=165
+4
+Coordonates: x=178 y=173
+4
+Coordonates: x=149 y=145
+4
+Coordonates: x=208 y=177
+4
+Coordonates: x=181 y=147
+4
+Coordonates: x=177 y=170
+4
+Coordonates: x=197 y=154
+4
+Coordonates: x=184 y=149
+4
+Coordonates: x=156 y=166
+4
+Coordonates: x=155 y=187
+4
+Coordonates: x=170 y=180
+4
+Coordonates: x=180 y=154
+4
+Coordonates: x=172 y=172
+4
+Coordonates: x=175 y=142
+4
+Coordonates: x=169 y=149
+4
+Coordonates: x=165 y=175
+4
+Coordonates: x=159 y=181
+4
+Coordonates: x=189 y=153
+4
+Coordonates: x=181 y=174
+4
+Coordonates: x=160 y=169
+4
+Coordonates: x=169 y=156
+4
+Coordonates: x=174 y=158
+4
+Coordonates: x=158 y=180
+4
+Coordonates: x=182 y=174
+4
+Coordonates: x=185 y=155
+4
+Coordonates: x=160 y=157
+4
+Coordonates: x=186 y=166
+4
+Coordonates: x=165 y=178
+4
+Coordonates: x=185 y=171
+4
+Coordonates: x=179 y=175
+4
+Coordonates: x=186 y=171
+4
+Coordonates: x=182 y=181
+4
+Coordonates: x=165 y=155
+4
+Coordonates: x=168 y=173
+4
+Coordonates: x=159 y=177
+4
+Coordonates: x=158 y=170
+4
+Coordonates: x=152 y=164
+4
+Coordonates: x=200 y=172
+4
+Coordonates: x=168 y=177
+4
+Coordonates: x=166 y=160
+4
+Coordonates: x=191 y=162
+4
+Coordonates: x=170 y=161
+4
+Coordonates: x=169 y=179
+4
+Coordonates: x=162 y=176
+4
+Coordonates: x=182 y=159
+4
+Coordonates: x=177 y=172
+4
+Coordonates: x=168 y=171
+4
+Coordonates: x=191 y=166
+4
+Coordonates: x=149 y=174
+4
+Coordonates: x=164 y=163
+4
+Coordonates: x=160 y=170
+4
+Coordonates: x=167 y=178
+4
+Coordonates: x=153 y=158
+4
+Coordonates: x=178 y=148
+4
+Coordonates: x=188 y=165
+4
+Coordonates: x=190 y=160
+4
+Coordonates: x=185 y=196
+4
+Coordonates: x=184 y=167
+4
+Coordonates: x=176 y=183
+4
+Coordonates: x=166 y=150
+4
+Coordonates: x=157 y=157
+4
+Coordonates: x=155 y=170
+4
+Coordonates: x=187 y=189
+4
+Coordonates: x=172 y=174
+4
+Coordonates: x=181 y=181
+4
+Coordonates: x=189 y=152
+4
+Coordonates: x=196 y=183
+4
+Coordonates: x=172 y=165
+4
+Coordonates: x=172 y=167
+4
+Coordonates: x=156 y=178
+4
+Coordonates: x=172 y=156
+4
+Coordonates: x=157 y=171
+4
+Coordonates: x=190 y=150
+4
+Coordonates: x=172 y=151
+4
+Coordonates: x=203 y=160
+4
+Coordonates: x=185 y=175
+4
+Coordonates: x=170 y=178
+4
+Coordonates: x=165 y=156
+4
+Coordonates: x=194 y=165
+4
+Coordonates: x=190 y=152
+4
+Coordonates: x=155 y=158
+4
+Coordonates: x=169 y=165
+4
+Coordonates: x=155 y=160
+4
+Coordonates: x=164 y=172
+4
+Coordonates: x=182 y=169
+4
