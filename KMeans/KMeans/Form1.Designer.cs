@@ -47,7 +47,7 @@
             this.label.AutoSize = true;
             this.label.Location = new System.Drawing.Point(749, 285);
             this.label.Name = "label";
-            this.label.Size = new System.Drawing.Size(35, 13);
+            this.label.Size = new System.Drawing.Size(42, 20);
             this.label.TabIndex = 1;
             this.label.Text = "label";
             // 
@@ -60,6 +60,7 @@
             this.Controls.Add(this.pictureBox);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

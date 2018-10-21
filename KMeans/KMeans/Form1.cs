@@ -143,5 +143,15 @@ namespace KMeans
             return point;
         }
 
+        private double getDistance(int x1, int y1, int x2, int y2)
+        {
+            double distance = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
+            return distance;
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            streamReader.Close();
+        }
     }
 }
