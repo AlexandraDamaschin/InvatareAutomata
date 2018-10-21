@@ -156,6 +156,27 @@ namespace KMeans
             }
         }
 
+        private Point getCenter(int center)
+        {
+            Point pointCenter = new Point();
+            int sumX = 0, sumY = 0, nr = 0;
+            foreach (DataPoint point in points)
+            {
+                if (point.center == center)
+                {
+                    nr++;
+                    sumX += point.x;
+                    sumY += point.y;
+                }
+            }
+            if (nr != 0)
+            {
+                pointCenter.X = sumX / nr;
+                pointCenter.Y = sumY / nr;
+            }
+            return pointCenter;
+        }
+
         private Point getPoint(string line)
         {
             int commaIndex = line.IndexOf(",");
