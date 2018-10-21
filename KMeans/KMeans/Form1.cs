@@ -130,6 +130,29 @@ namespace KMeans
             {
                 minDistance = 1000;
                 point = getPoint(line);
+                for (int i = 0; i < noOfCenters; i++)
+                {
+                    distance = (int)getDistance(point.X, point.Y, cX[i], cY[i]);
+                    if (distance < minDistance)
+                    {
+                        minDistance = distance;
+                        parent = i;
+                    }
+                }
+                points.Add(new DataPoint(point.X, point.Y, parent));
+                int newX = CalculateNewX(point.X);
+                int newY = CalculateNewY(point.Y);
+                //draw center
+                drawCenter(newX, newY, colors[parent]);
+            }
+            for (int i = 0; i < noOfCenters; i++)
+            {
+                Point pointNewCenter = getCenter(i);
+                if (pointNewCenter.X != 0)
+                {
+                    cX[i] = pointNewCenter.X;
+                    cY[i] = pointNewCenter.Y;
+                }
             }
         }
 
