@@ -17,9 +17,11 @@ namespace KMeans
         private List<DataPoint> points;
         Random random;
         Color[] colors = { Color.Blue, Color.Red, Color.Yellow, Color.Magenta, Color.Green };
-        int centersNo;
+        int noOfCenters;
         int[] cX;
         int[] cY;
+        int min = -300;
+        int max = 300;
 
         public Form1()
         {
@@ -31,6 +33,19 @@ namespace KMeans
 
         private void init()
         {
+            random = new Random(DateTime.Now.Millisecond);
+            noOfCenters = random.Next(2, 10); //random zones [2,10]
+            //random x and y for centroid
+            cX = new int[noOfCenters];
+            cY = new int[noOfCenters];
+
+            for (int i = 0; i < noOfCenters; i++)
+            {
+                cX[i] = random.Next(min, max);
+                cY[i] = random.Next(min, max);
+                //set label text to see current x and y 
+                label.Text = cX[i] + " " + cY[i];
+            }
 
         }
 
