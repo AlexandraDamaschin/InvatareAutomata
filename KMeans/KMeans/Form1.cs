@@ -96,5 +96,21 @@ namespace KMeans
             graphics.Dispose();
         }
 
+        public void drawAxis()
+        {
+            Graphics graphics = Graphics.FromHwnd(pictureBox.Handle);
+            SolidBrush solidBrush = new SolidBrush(Color.Black);
+            //y axis
+            Point point = new Point(300, 0);
+            Rectangle rectangleAxisY = new Rectangle(point, new Size(1, 600));
+            graphics.FillRectangle(solidBrush, rectangleAxisY);
+
+            //x axis
+            point = new Point(0, 300);
+            Rectangle rectangleAxisX = new Rectangle(point, new Size(600, 1));
+            graphics.FillRectangle(solidBrush, rectangleAxisY);
+            graphics.Dispose();
+        }
+
     }
 }
