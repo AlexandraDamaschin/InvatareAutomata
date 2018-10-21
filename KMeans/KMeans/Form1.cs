@@ -45,9 +45,26 @@ namespace KMeans
                 cY[i] = random.Next(min, max);
                 //set label text to see current x and y 
                 label.Text = cX[i] + " " + cY[i];
+                int newX = CalculateNewX(cX[i]);
+                int newY = CalculateNewY(cY[i]);
+                //draw center
+                drawCenter(newX, newY, colors[i]);
             }
-
         }
+
+        #region calculate new x and y
+        public int CalculateNewX(int x)
+        {
+            int newX = x + 300;
+            return newX;
+        }
+
+        public int CalculateNewY(int y)
+        {
+            int newY = 300 - y;
+            return newY;
+        }
+        #endregion
 
         private void pictureBox_Click(object sender, EventArgs e)
         {
