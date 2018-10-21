@@ -8,15 +8,15 @@ namespace KMeans
 {
     class DataPoint
     {
-        public int x;
-        public int y;
-        public int center;
+        public int X;
+        public int Y;
+        public int Center;
 
         public DataPoint(int x, int y, int center)
         {
-            this.x = x;
-            this.y = y;
-            this.center = center;
+            X = x;
+            Y = y;
+            Center = center;
         }
     }
 }

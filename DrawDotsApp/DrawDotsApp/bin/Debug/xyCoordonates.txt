@@ -1,2000 +1,2000 @@
-Coordonates: x=313 y=412
+Coordonates: x=360 y=427
 
-Coordonates: x=325 y=435
-
-Coordonates: x=313 y=421
-
-Coordonates: x=342 y=429
-
-Coordonates: x=311 y=408
-
-Coordonates: x=317 y=414
-
-Coordonates: x=330 y=406
-
-Coordonates: x=333 y=438
-
-Coordonates: x=324 y=424
-
-Coordonates: x=339 y=433
-
-Coordonates: x=318 y=414
-
-Coordonates: x=310 y=427
-
-Coordonates: x=333 y=415
-
-Coordonates: x=325 y=431
-
-Coordonates: x=325 y=415
-
-Coordonates: x=315 y=405
-
-Coordonates: x=330 y=415
-
-Coordonates: x=347 y=415
-
-Coordonates: x=318 y=423
-
-Coordonates: x=326 y=428
-
-Coordonates: x=318 y=414
-
-Coordonates: x=323 y=397
-
-Coordonates: x=333 y=435
-
-Coordonates: x=347 y=429
-
-Coordonates: x=324 y=403
-
-Coordonates: x=347 y=406
-
-Coordonates: x=324 y=433
-
-Coordonates: x=322 y=408
-
-Coordonates: x=333 y=409
-
-Coordonates: x=299 y=414
-
-Coordonates: x=329 y=408
-
-Coordonates: x=317 y=426
-
-Coordonates: x=370 y=423
-
-Coordonates: x=324 y=428
-
-Coordonates: x=311 y=423
-
-Coordonates: x=355 y=439
-
-Coordonates: x=349 y=424
-
-Coordonates: x=333 y=401
-
-Coordonates: x=322 y=418
-
-Coordonates: x=349 y=397
-
-Coordonates: x=319 y=428
-
-Coordonates: x=318 y=427
-
-Coordonates: x=348 y=409
-
-Coordonates: x=327 y=412
-
-Coordonates: x=346 y=398
-
-Coordonates: x=324 y=403
-
-Coordonates: x=336 y=425
-
-Coordonates: x=321 y=424
-
-Coordonates: x=305 y=410
-
-Coordonates: x=341 y=415
-
-Coordonates: x=332 y=426
-
-Coordonates: x=341 y=416
-
-Coordonates: x=314 y=413
-
-Coordonates: x=335 y=413
-
-Coordonates: x=351 y=402
-
-Coordonates: x=332 y=411
-
-Coordonates: x=312 y=428
-
-Coordonates: x=330 y=414
-
-Coordonates: x=336 y=437
-
-Coordonates: x=341 y=414
-
-Coordonates: x=322 y=423
-
-Coordonates: x=351 y=406
-
-Coordonates: x=321 y=428
-
-Coordonates: x=334 y=428
-
-Coordonates: x=306 y=415
-
-Coordonates: x=328 y=417
-
-Coordonates: x=350 y=421
-
-Coordonates: x=342 y=421
-
-Coordonates: x=333 y=424
-
-Coordonates: x=337 y=426
-
-Coordonates: x=341 y=421
-
-Coordonates: x=328 y=436
-
-Coordonates: x=330 y=420
-
-Coordonates: x=290 y=423
-
-Coordonates: x=334 y=419
-
-Coordonates: x=325 y=439
-
-Coordonates: x=329 y=411
-
-Coordonates: x=319 y=419
-
-Coordonates: x=334 y=419
-
-Coordonates: x=340 y=431
-
-Coordonates: x=352 y=429
-
-Coordonates: x=323 y=417
-
-Coordonates: x=332 y=425
-
-Coordonates: x=335 y=415
-
-Coordonates: x=335 y=433
-
-Coordonates: x=331 y=430
-
-Coordonates: x=322 y=412
-
-Coordonates: x=338 y=398
-
-Coordonates: x=326 y=438
-
-Coordonates: x=347 y=426
-
-Coordonates: x=330 y=405
-
-Coordonates: x=354 y=428
-
-Coordonates: x=340 y=421
-
-Coordonates: x=349 y=428
-
-Coordonates: x=314 y=405
-
-Coordonates: x=318 y=426
-
-Coordonates: x=328 y=432
-
-Coordonates: x=328 y=407
-
-Coordonates: x=333 y=427
-
-Coordonates: x=305 y=428
-
-Coordonates: x=337 y=435
-
-Coordonates: x=335 y=416
-
-Coordonates: x=318 y=418
-
-Coordonates: x=318 y=422
-
-Coordonates: x=306 y=410
-
-Coordonates: x=321 y=413
-
-Coordonates: x=328 y=415
-
-Coordonates: x=313 y=423
-
-Coordonates: x=306 y=421
-
-Coordonates: x=332 y=424
-
-Coordonates: x=316 y=433
-
-Coordonates: x=324 y=426
-
-Coordonates: x=307 y=421
-
-Coordonates: x=322 y=428
-
-Coordonates: x=321 y=403
-
-Coordonates: x=323 y=429
-
-Coordonates: x=305 y=414
-
-Coordonates: x=312 y=415
-
-Coordonates: x=337 y=405
-
-Coordonates: x=326 y=405
-
-Coordonates: x=327 y=417
-
-Coordonates: x=322 y=414
-
-Coordonates: x=332 y=416
-
-Coordonates: x=329 y=430
-
-Coordonates: x=343 y=408
-
-Coordonates: x=325 y=419
-
-Coordonates: x=329 y=426
-
-Coordonates: x=339 y=429
-
-Coordonates: x=320 y=408
-
-Coordonates: x=305 y=418
-
-Coordonates: x=333 y=433
-
-Coordonates: x=334 y=428
-
-Coordonates: x=334 y=417
-
-Coordonates: x=339 y=424
-
-Coordonates: x=335 y=410
-
-Coordonates: x=327 y=404
-
-Coordonates: x=344 y=430
-
-Coordonates: x=315 y=429
-
-Coordonates: x=339 y=421
-
-Coordonates: x=337 y=417
-
-Coordonates: x=337 y=411
-
-Coordonates: x=339 y=435
-
-Coordonates: x=342 y=411
-
-Coordonates: x=329 y=416
-
-Coordonates: x=357 y=410
-
-Coordonates: x=310 y=426
-
-Coordonates: x=344 y=414
-
-Coordonates: x=331 y=396
-
-Coordonates: x=328 y=423
-
-Coordonates: x=323 y=421
-
-Coordonates: x=332 y=418
-
-Coordonates: x=339 y=436
-
-Coordonates: x=309 y=422
-
-Coordonates: x=336 y=452
-
-Coordonates: x=309 y=424
-
-Coordonates: x=315 y=413
-
-Coordonates: x=325 y=406
-
-Coordonates: x=320 y=429
-
-Coordonates: x=311 y=416
-
-Coordonates: x=335 y=419
-
-Coordonates: x=352 y=429
-
-Coordonates: x=325 y=406
-
-Coordonates: x=326 y=427
-
-Coordonates: x=354 y=436
-
-Coordonates: x=321 y=416
-
-Coordonates: x=319 y=421
-
-Coordonates: x=326 y=397
-
-Coordonates: x=341 y=430
-
-Coordonates: x=329 y=416
-
-Coordonates: x=333 y=424
-
-Coordonates: x=321 y=410
-
-Coordonates: x=319 y=420
-
-Coordonates: x=308 y=410
-
-Coordonates: x=302 y=412
-
-Coordonates: x=329 y=433
-
-Coordonates: x=321 y=419
-
-Coordonates: x=340 y=406
-
-Coordonates: x=327 y=420
-
-Coordonates: x=330 y=429
-
-Coordonates: x=346 y=436
-
-Coordonates: x=340 y=405
-
-Coordonates: x=319 y=420
-
-Coordonates: x=327 y=432
-
-Coordonates: x=336 y=416
-
-Coordonates: x=323 y=438
-
-Coordonates: x=332 y=426
-
-Coordonates: x=321 y=417
-
-Coordonates: x=323 y=416
-
-Coordonates: x=350 y=419
-
-Coordonates: x=303 y=437
-
-Coordonates: x=328 y=408
-
-Coordonates: x=324 y=436
-
-Coordonates: x=330 y=439
-
-Coordonates: x=329 y=420
-
-Coordonates: x=333 y=424
-
-Coordonates: x=337 y=398
-
-Coordonates: x=337 y=414
-
-Coordonates: x=312 y=436
-
-Coordonates: x=336 y=409
-
-Coordonates: x=349 y=398
-
-Coordonates: x=346 y=419
-
-Coordonates: x=321 y=421
-
-Coordonates: x=321 y=413
-
-Coordonates: x=335 y=422
-
-Coordonates: x=326 y=406
-
-Coordonates: x=348 y=407
-
-Coordonates: x=327 y=416
-
-Coordonates: x=329 y=416
-
-Coordonates: x=326 y=418
-
-Coordonates: x=317 y=425
-
-Coordonates: x=338 y=417
-
-Coordonates: x=337 y=430
-
-Coordonates: x=327 y=429
-
-Coordonates: x=331 y=407
-
-Coordonates: x=340 y=416
-
-Coordonates: x=344 y=415
-
-Coordonates: x=319 y=429
-
-Coordonates: x=345 y=409
-
-Coordonates: x=335 y=423
-
-Coordonates: x=325 y=416
-
-Coordonates: x=321 y=427
-
-Coordonates: x=312 y=417
-
-Coordonates: x=326 y=423
-
-Coordonates: x=322 y=437
-
-Coordonates: x=340 y=421
-
-Coordonates: x=325 y=426
-
-Coordonates: x=310 y=415
-
-Coordonates: x=335 y=409
-
-Coordonates: x=299 y=421
-
-Coordonates: x=322 y=418
-
-Coordonates: x=332 y=421
-
-Coordonates: x=321 y=408
-
-Coordonates: x=346 y=413
-
-Coordonates: x=353 y=431
-
-Coordonates: x=317 y=419
-
-Coordonates: x=312 y=420
-
-Coordonates: x=336 y=413
-
-Coordonates: x=340 y=430
-
-Coordonates: x=357 y=427
-
-Coordonates: x=333 y=423
-
-Coordonates: x=317 y=422
-
-Coordonates: x=321 y=402
-
-Coordonates: x=336 y=413
-
-Coordonates: x=312 y=428
-
-Coordonates: x=333 y=420
-
-Coordonates: x=328 y=418
-
-Coordonates: x=321 y=420
-
-Coordonates: x=329 y=422
-
-Coordonates: x=327 y=429
-
-Coordonates: x=351 y=418
-
-Coordonates: x=327 y=435
-
-Coordonates: x=336 y=426
-
-Coordonates: x=299 y=434
-
-Coordonates: x=324 y=407
-
-Coordonates: x=342 y=417
-
-Coordonates: x=317 y=417
-
-Coordonates: x=321 y=415
-
-Coordonates: x=337 y=411
-
-Coordonates: x=330 y=407
-
-Coordonates: x=336 y=419
-
-Coordonates: x=325 y=407
-
-Coordonates: x=332 y=407
-
-Coordonates: x=327 y=426
-
-Coordonates: x=315 y=400
-
-Coordonates: x=307 y=414
-
-Coordonates: x=304 y=415
-
-Coordonates: x=325 y=431
-
-Coordonates: x=324 y=404
-
-Coordonates: x=331 y=404
-
-Coordonates: x=337 y=392
-
-Coordonates: x=338 y=437
-
-Coordonates: x=305 y=437
-
-Coordonates: x=317 y=419
-
-Coordonates: x=319 y=432
-
-Coordonates: x=325 y=424
-
-Coordonates: x=318 y=411
-
-Coordonates: x=345 y=421
-
-Coordonates: x=334 y=425
-
-Coordonates: x=337 y=426
-
-Coordonates: x=304 y=417
-
-Coordonates: x=314 y=424
-
-Coordonates: x=330 y=423
-
-Coordonates: x=329 y=409
-
-Coordonates: x=342 y=407
-
-Coordonates: x=344 y=426
-
-Coordonates: x=343 y=433
-
-Coordonates: x=336 y=420
-
-Coordonates: x=333 y=418
-
-Coordonates: x=308 y=433
-
-Coordonates: x=313 y=406
-
-Coordonates: x=317 y=435
-
-Coordonates: x=336 y=430
-
-Coordonates: x=346 y=411
-
-Coordonates: x=327 y=429
-
-Coordonates: x=330 y=427
-
-Coordonates: x=317 y=423
-
-Coordonates: x=337 y=426
-
-Coordonates: x=325 y=426
-
-Coordonates: x=322 y=423
-
-Coordonates: x=333 y=416
-
-Coordonates: x=330 y=411
-
-Coordonates: x=340 y=402
-
-Coordonates: x=311 y=416
-
-Coordonates: x=322 y=424
-
-Coordonates: x=319 y=424
-
-Coordonates: x=322 y=420
-
-Coordonates: x=338 y=432
-
-Coordonates: x=331 y=436
-
-Coordonates: x=326 y=421
-
-Coordonates: x=323 y=429
-
-Coordonates: x=329 y=412
-
-Coordonates: x=317 y=427
-
-Coordonates: x=311 y=419
-
-Coordonates: x=339 y=426
-
-Coordonates: x=339 y=411
-
-Coordonates: x=324 y=422
-
-Coordonates: x=315 y=414
-
-Coordonates: x=325 y=428
-
-Coordonates: x=317 y=422
-
-Coordonates: x=333 y=418
-
-Coordonates: x=342 y=421
-
-Coordonates: x=320 y=412
-
-Coordonates: x=333 y=426
-
-Coordonates: x=335 y=421
-
-Coordonates: x=315 y=420
-
-Coordonates: x=329 y=411
-
-Coordonates: x=313 y=407
-
-Coordonates: x=327 y=414
-
-Coordonates: x=308 y=410
-
-Coordonates: x=348 y=438
-
-Coordonates: x=320 y=406
-
-Coordonates: x=330 y=413
-
-Coordonates: x=343 y=423
-
-Coordonates: x=349 y=426
-
-Coordonates: x=323 y=419
-
-Coordonates: x=322 y=407
-
-Coordonates: x=347 y=439
-
-Coordonates: x=315 y=411
-
-Coordonates: x=337 y=405
-
-Coordonates: x=325 y=412
-
-Coordonates: x=327 y=421
-
-Coordonates: x=312 y=427
-
-Coordonates: x=325 y=421
-
-Coordonates: x=316 y=431
-
-Coordonates: x=319 y=424
-
-Coordonates: x=353 y=425
-
-Coordonates: x=328 y=419
-
-Coordonates: x=331 y=433
-
-Coordonates: x=343 y=420
-
-Coordonates: x=321 y=416
-
-Coordonates: x=332 y=414
-
-Coordonates: x=329 y=413
-
-Coordonates: x=332 y=407
-
-Coordonates: x=322 y=427
-
-Coordonates: x=341 y=413
-
-Coordonates: x=334 y=413
-
-Coordonates: x=305 y=417
-
-Coordonates: x=320 y=409
-
-Coordonates: x=327 y=406
-
-Coordonates: x=322 y=434
-
-Coordonates: x=329 y=418
-
-Coordonates: x=317 y=441
-
-Coordonates: x=332 y=413
-
-Coordonates: x=349 y=398
-
-Coordonates: x=321 y=420
-
-Coordonates: x=300 y=414
-
-Coordonates: x=336 y=418
-
-Coordonates: x=335 y=422
-
-Coordonates: x=330 y=420
-
-Coordonates: x=342 y=431
-
-Coordonates: x=316 y=437
-
-Coordonates: x=315 y=417
-
-Coordonates: x=332 y=415
-
-Coordonates: x=318 y=406
-
-Coordonates: x=339 y=407
-
-Coordonates: x=321 y=420
-
-Coordonates: x=312 y=421
-
-Coordonates: x=331 y=431
-
-Coordonates: x=331 y=413
-
-Coordonates: x=332 y=431
-
-Coordonates: x=331 y=405
-
-Coordonates: x=323 y=420
-
-Coordonates: x=320 y=427
-
-Coordonates: x=324 y=423
-
-Coordonates: x=329 y=403
-
-Coordonates: x=349 y=414
-
-Coordonates: x=337 y=422
-
-Coordonates: x=346 y=419
-
-Coordonates: x=323 y=425
-
-Coordonates: x=333 y=437
-
-Coordonates: x=328 y=405
-
-Coordonates: x=333 y=408
-
-Coordonates: x=345 y=431
-
-Coordonates: x=310 y=423
-
-Coordonates: x=348 y=401
-
-Coordonates: x=309 y=415
-
-Coordonates: x=336 y=426
-
-Coordonates: x=338 y=408
-
-Coordonates: x=332 y=425
-
-Coordonates: x=320 y=423
-
-Coordonates: x=324 y=410
-
-Coordonates: x=335 y=414
-
-Coordonates: x=347 y=397
-
-Coordonates: x=329 y=422
-
-Coordonates: x=331 y=416
-
-Coordonates: x=338 y=429
-
-Coordonates: x=343 y=415
-
-Coordonates: x=330 y=408
-
-Coordonates: x=312 y=426
-
-Coordonates: x=317 y=421
-
-Coordonates: x=312 y=418
-
-Coordonates: x=339 y=418
-
-Coordonates: x=346 y=403
-
-Coordonates: x=316 y=419
-
-Coordonates: x=325 y=416
-
-Coordonates: x=318 y=414
-
-Coordonates: x=347 y=413
-
-Coordonates: x=338 y=411
-
-Coordonates: x=336 y=409
-
-Coordonates: x=319 y=426
-
-Coordonates: x=333 y=420
-
-Coordonates: x=330 y=413
-
-Coordonates: x=328 y=415
-
-Coordonates: x=328 y=414
-
-Coordonates: x=328 y=420
-
-Coordonates: x=334 y=423
-
-Coordonates: x=341 y=424
-
-Coordonates: x=317 y=397
-
-Coordonates: x=317 y=438
-
-Coordonates: x=348 y=427
-
-Coordonates: x=332 y=419
-
-Coordonates: x=307 y=411
-
-Coordonates: x=352 y=406
-
-Coordonates: x=312 y=428
-
-Coordonates: x=321 y=423
-
-Coordonates: x=315 y=430
-
-Coordonates: x=334 y=433
-
-Coordonates: x=324 y=418
-
-Coordonates: x=310 y=428
-
-Coordonates: x=365 y=424
-
-Coordonates: x=342 y=400
-
-Coordonates: x=320 y=424
-
-Coordonates: x=335 y=426
-
-Coordonates: x=342 y=435
-
-Coordonates: x=323 y=421
-
-Coordonates: x=305 y=424
-
-Coordonates: x=319 y=396
-
-Coordonates: x=318 y=431
-
-Coordonates: x=316 y=405
-
-Coordonates: x=324 y=428
-
-Coordonates: x=311 y=421
-
-Coordonates: x=319 y=415
-
-Coordonates: x=317 y=417
-
-Coordonates: x=311 y=425
-
-Coordonates: x=322 y=408
-
-Coordonates: x=316 y=428
-
-Coordonates: x=320 y=412
-
-Coordonates: x=329 y=424
-
-Coordonates: x=340 y=425
-
-Coordonates: x=325 y=409
-
-Coordonates: x=335 y=434
-
-Coordonates: x=322 y=435
-
-Coordonates: x=329 y=423
-
-Coordonates: x=324 y=442
-
-Coordonates: x=320 y=416
-
-Coordonates: x=329 y=410
-
-Coordonates: x=320 y=420
-
-Coordonates: x=327 y=433
-
-Coordonates: x=334 y=413
-
-Coordonates: x=329 y=428
-
-Coordonates: x=323 y=432
-
-Coordonates: x=312 y=420
-
-Coordonates: x=339 y=418
-
-Coordonates: x=315 y=425
-
-Coordonates: x=319 y=417
-
-Coordonates: x=327 y=416
-
-Coordonates: x=318 y=426
-
-Coordonates: x=346 y=417
-
-Coordonates: x=317 y=426
-
-Coordonates: x=321 y=416
-
-Coordonates: x=318 y=420
-
-Coordonates: x=335 y=426
-
-Coordonates: x=319 y=419
-
-Coordonates: x=325 y=410
-
-Coordonates: x=338 y=435
-
-Coordonates: x=339 y=420
-
-Coordonates: x=305 y=432
-
-Coordonates: x=319 y=429
-
-Coordonates: x=299 y=426
-
-Coordonates: x=331 y=436
-
-Coordonates: x=333 y=422
-
-Coordonates: x=315 y=409
-
-Coordonates: x=313 y=442
-
-Coordonates: x=325 y=413
-
-Coordonates: x=312 y=428
-
-Coordonates: x=328 y=426
-
-Coordonates: x=313 y=425
-
-Coordonates: x=342 y=411
-
-Coordonates: x=318 y=428
-
-Coordonates: x=328 y=417
-
-Coordonates: x=351 y=406
-
-Coordonates: x=318 y=421
-
-Coordonates: x=312 y=414
-
-Coordonates: x=326 y=399
-
-Coordonates: x=322 y=429
-
-Coordonates: x=320 y=402
-
-Coordonates: x=327 y=416
-
-Coordonates: x=336 y=405
-
-Coordonates: x=345 y=411
-
-Coordonates: x=320 y=414
-
-Coordonates: x=321 y=409
-
-Coordonates: x=325 y=417
-
-Coordonates: x=335 y=403
-
-Coordonates: x=320 y=408
-
-Coordonates: x=324 y=428
-
-Coordonates: x=325 y=431
-
-Coordonates: x=324 y=404
-
-Coordonates: x=322 y=421
-
-Coordonates: x=352 y=404
-
-Coordonates: x=333 y=410
-
-Coordonates: x=340 y=428
-
-Coordonates: x=319 y=418
-
-Coordonates: x=307 y=399
-
-Coordonates: x=328 y=425
-
-Coordonates: x=331 y=417
-
-Coordonates: x=327 y=413
-
-Coordonates: x=328 y=417
-
-Coordonates: x=333 y=414
-
-Coordonates: x=326 y=422
-
-Coordonates: x=341 y=424
-
-Coordonates: x=329 y=430
-
-Coordonates: x=331 y=426
-
-Coordonates: x=343 y=433
-
-Coordonates: x=321 y=423
-
-Coordonates: x=333 y=415
-
-Coordonates: x=312 y=411
-
-Coordonates: x=327 y=416
-
-Coordonates: x=341 y=409
-
-Coordonates: x=300 y=432
-
-Coordonates: x=337 y=414
-
-Coordonates: x=308 y=412
-
-Coordonates: x=343 y=416
-
-Coordonates: x=328 y=417
-
-Coordonates: x=342 y=406
-
-Coordonates: x=315 y=434
-
-Coordonates: x=328 y=414
-
-Coordonates: x=331 y=426
-
-Coordonates: x=335 y=414
-
-Coordonates: x=338 y=421
-
-Coordonates: x=326 y=410
-
-Coordonates: x=325 y=423
-
-Coordonates: x=324 y=437
-
-Coordonates: x=323 y=418
-
-Coordonates: x=335 y=425
-
-Coordonates: x=336 y=410
-
-Coordonates: x=324 y=417
-
-Coordonates: x=335 y=446
-
-Coordonates: x=322 y=425
-
-Coordonates: x=332 y=433
-
-Coordonates: x=328 y=424
-
-Coordonates: x=333 y=420
-
-Coordonates: x=321 y=412
-
-Coordonates: x=325 y=437
-
-Coordonates: x=320 y=417
-
-Coordonates: x=336 y=418
-
-Coordonates: x=325 y=407
-
-Coordonates: x=315 y=429
-
-Coordonates: x=348 y=422
-
-Coordonates: x=320 y=420
-
-Coordonates: x=326 y=408
-
-Coordonates: x=324 y=411
-
-Coordonates: x=325 y=414
-
-Coordonates: x=350 y=429
-
-Coordonates: x=341 y=419
-
-Coordonates: x=315 y=429
-
-Coordonates: x=317 y=437
-
-Coordonates: x=326 y=421
-
-Coordonates: x=332 y=431
-
-Coordonates: x=339 y=409
-
-Coordonates: x=341 y=440
-
-Coordonates: x=329 y=406
-
-Coordonates: x=310 y=429
-
-Coordonates: x=308 y=435
-
-Coordonates: x=344 y=408
-
-Coordonates: x=342 y=412
-
-Coordonates: x=333 y=432
-
-Coordonates: x=312 y=424
-
-Coordonates: x=342 y=415
-
-Coordonates: x=332 y=432
-
-Coordonates: x=324 y=437
-
-Coordonates: x=318 y=431
-
-Coordonates: x=344 y=429
-
-Coordonates: x=319 y=426
-
-Coordonates: x=320 y=410
-
-Coordonates: x=339 y=430
-
-Coordonates: x=315 y=421
-
-Coordonates: x=335 y=414
-
-Coordonates: x=338 y=425
-
-Coordonates: x=327 y=427
-
-Coordonates: x=338 y=426
-
-Coordonates: x=334 y=408
-
-Coordonates: x=317 y=432
-
-Coordonates: x=332 y=422
-
-Coordonates: x=339 y=422
-
-Coordonates: x=316 y=419
-
-Coordonates: x=307 y=421
-
-Coordonates: x=294 y=420
-
-Coordonates: x=326 y=424
-
-Coordonates: x=322 y=414
-
-Coordonates: x=339 y=434
-
-Coordonates: x=309 y=428
-
-Coordonates: x=320 y=402
-
-Coordonates: x=313 y=404
-
-Coordonates: x=337 y=431
-
-Coordonates: x=334 y=408
-
-Coordonates: x=318 y=427
-
-Coordonates: x=324 y=418
-
-Coordonates: x=331 y=415
-
-Coordonates: x=312 y=444
-
-Coordonates: x=311 y=439
-
-Coordonates: x=311 y=412
-
-Coordonates: x=317 y=418
-
-Coordonates: x=330 y=432
-
-Coordonates: x=325 y=428
-
-Coordonates: x=337 y=419
-
-Coordonates: x=331 y=410
-
-Coordonates: x=340 y=427
-
-Coordonates: x=325 y=418
-
-Coordonates: x=331 y=416
-
-Coordonates: x=350 y=413
-
-Coordonates: x=320 y=415
-
-Coordonates: x=317 y=416
-
-Coordonates: x=324 y=449
-
-Coordonates: x=339 y=412
-
-Coordonates: x=310 y=410
-
-Coordonates: x=323 y=424
-
-Coordonates: x=322 y=432
-
-Coordonates: x=333 y=427
-
-Coordonates: x=334 y=427
-
-Coordonates: x=351 y=408
-
-Coordonates: x=330 y=421
-
-Coordonates: x=352 y=425
-
-Coordonates: x=342 y=414
-
-Coordonates: x=337 y=413
-
-Coordonates: x=326 y=414
-
-Coordonates: x=328 y=430
-
-Coordonates: x=339 y=406
-
-Coordonates: x=345 y=427
-
-Coordonates: x=338 y=413
-
-Coordonates: x=322 y=421
-
-Coordonates: x=322 y=414
-
-Coordonates: x=322 y=418
-
-Coordonates: x=340 y=410
-
-Coordonates: x=331 y=409
-
-Coordonates: x=298 y=413
-
-Coordonates: x=332 y=412
-
-Coordonates: x=329 y=428
-
-Coordonates: x=321 y=423
-
-Coordonates: x=322 y=416
-
-Coordonates: x=314 y=425
-
-Coordonates: x=330 y=414
-
-Coordonates: x=317 y=424
-
-Coordonates: x=317 y=423
-
-Coordonates: x=342 y=428
-
-Coordonates: x=324 y=434
-
-Coordonates: x=329 y=425
-
-Coordonates: x=329 y=417
-
-Coordonates: x=327 y=432
-
-Coordonates: x=335 y=403
-
-Coordonates: x=312 y=408
-
-Coordonates: x=354 y=413
-
-Coordonates: x=309 y=429
-
-Coordonates: x=338 y=423
-
-Coordonates: x=332 y=414
-
-Coordonates: x=346 y=413
-
-Coordonates: x=333 y=422
-
-Coordonates: x=314 y=435
-
-Coordonates: x=311 y=419
-
-Coordonates: x=324 y=411
-
-Coordonates: x=316 y=413
-
-Coordonates: x=323 y=422
-
-Coordonates: x=317 y=424
-
-Coordonates: x=322 y=415
-
-Coordonates: x=328 y=417
-
-Coordonates: x=322 y=426
-
-Coordonates: x=323 y=420
-
-Coordonates: x=328 y=402
-
-Coordonates: x=336 y=434
-
-Coordonates: x=331 y=420
-
-Coordonates: x=341 y=406
-
-Coordonates: x=333 y=409
-
-Coordonates: x=341 y=424
-
-Coordonates: x=325 y=419
-
-Coordonates: x=310 y=412
-
-Coordonates: x=317 y=417
-
-Coordonates: x=342 y=419
-
-Coordonates: x=325 y=413
-
-Coordonates: x=325 y=424
-
-Coordonates: x=329 y=418
-
-Coordonates: x=321 y=416
-
-Coordonates: x=338 y=406
-
-Coordonates: x=319 y=416
-
-Coordonates: x=333 y=423
-
-Coordonates: x=350 y=425
-
-Coordonates: x=323 y=423
-
-Coordonates: x=318 y=403
-
-Coordonates: x=335 y=403
-
-Coordonates: x=330 y=440
-
-Coordonates: x=339 y=420
-
-Coordonates: x=325 y=413
-
-Coordonates: x=313 y=418
-
-Coordonates: x=313 y=417
-
-Coordonates: x=316 y=419
-
-Coordonates: x=334 y=416
-
-Coordonates: x=315 y=409
-
-Coordonates: x=321 y=446
-
-Coordonates: x=318 y=416
-
-Coordonates: x=327 y=429
-
-Coordonates: x=308 y=442
-
-Coordonates: x=331 y=415
-
-Coordonates: x=331 y=429
-
-Coordonates: x=329 y=427
-
-Coordonates: x=328 y=420
-
-Coordonates: x=341 y=413
-
-Coordonates: x=310 y=423
-
-Coordonates: x=343 y=405
-
-Coordonates: x=325 y=416
-
-Coordonates: x=294 y=417
-
-Coordonates: x=317 y=432
-
-Coordonates: x=330 y=407
-
-Coordonates: x=315 y=413
-
-Coordonates: x=336 y=435
-
-Coordonates: x=317 y=453
-
-Coordonates: x=319 y=416
-
-Coordonates: x=340 y=417
-
-Coordonates: x=308 y=412
-
-Coordonates: x=323 y=410
-
-Coordonates: x=330 y=419
-
-Coordonates: x=338 y=420
-
-Coordonates: x=317 y=434
-
-Coordonates: x=306 y=407
-
-Coordonates: x=331 y=442
-
-Coordonates: x=343 y=415
-
-Coordonates: x=333 y=414
-
-Coordonates: x=332 y=412
-
-Coordonates: x=334 y=414
-
-Coordonates: x=319 y=419
-
-Coordonates: x=341 y=414
-
-Coordonates: x=344 y=418
-
-Coordonates: x=312 y=394
-
-Coordonates: x=326 y=407
-
-Coordonates: x=320 y=429
-
-Coordonates: x=330 y=414
-
-Coordonates: x=335 y=417
-
-Coordonates: x=319 y=414
-
-Coordonates: x=312 y=418
+Coordonates: x=339 y=425
 
 Coordonates: x=347 y=419
 
-Coordonates: x=319 y=409
+Coordonates: x=292 y=416
 
-Coordonates: x=343 y=431
+Coordonates: x=341 y=429
 
-Coordonates: x=318 y=426
+Coordonates: x=330 y=418
 
-Coordonates: x=323 y=419
+Coordonates: x=329 y=418
 
-Coordonates: x=345 y=424
-
-Coordonates: x=325 y=413
-
-Coordonates: x=313 y=420
-
-Coordonates: x=320 y=432
-
-Coordonates: x=346 y=413
-
-Coordonates: x=342 y=425
-
-Coordonates: x=352 y=419
-
-Coordonates: x=307 y=410
-
-Coordonates: x=319 y=422
-
-Coordonates: x=326 y=430
-
-Coordonates: x=326 y=419
-
-Coordonates: x=306 y=424
-
-Coordonates: x=328 y=432
-
-Coordonates: x=304 y=419
-
-Coordonates: x=326 y=428
-
-Coordonates: x=319 y=419
-
-Coordonates: x=329 y=404
-
-Coordonates: x=321 y=419
-
-Coordonates: x=337 y=428
-
-Coordonates: x=329 y=423
-
-Coordonates: x=326 y=429
-
-Coordonates: x=327 y=419
-
-Coordonates: x=339 y=409
-
-Coordonates: x=319 y=410
-
-Coordonates: x=319 y=427
-
-Coordonates: x=325 y=421
-
-Coordonates: x=321 y=423
-
-Coordonates: x=316 y=430
-
-Coordonates: x=344 y=419
-
-Coordonates: x=321 y=430
-
-Coordonates: x=331 y=426
-
-Coordonates: x=326 y=429
-
-Coordonates: x=320 y=409
-
-Coordonates: x=335 y=432
-
-Coordonates: x=336 y=449
-
-Coordonates: x=319 y=407
-
-Coordonates: x=309 y=437
-
-Coordonates: x=337 y=410
-
-Coordonates: x=317 y=418
-
-Coordonates: x=322 y=409
-
-Coordonates: x=351 y=423
-
-Coordonates: x=311 y=404
-
-Coordonates: x=319 y=403
-
-Coordonates: x=304 y=399
-
-Coordonates: x=303 y=404
-
-Coordonates: x=342 y=417
-
-Coordonates: x=334 y=424
-
-Coordonates: x=307 y=425
-
-Coordonates: x=304 y=413
-
-Coordonates: x=346 y=411
-
-Coordonates: x=335 y=420
-
-Coordonates: x=310 y=419
-
-Coordonates: x=324 y=427
-
-Coordonates: x=338 y=408
-
-Coordonates: x=338 y=425
-
-Coordonates: x=344 y=410
-
-Coordonates: x=330 y=409
-
-Coordonates: x=333 y=410
-
-Coordonates: x=332 y=422
-
-Coordonates: x=311 y=400
-
-Coordonates: x=325 y=420
-
-Coordonates: x=337 y=409
-
-Coordonates: x=348 y=425
-
-Coordonates: x=317 y=403
-
-Coordonates: x=324 y=419
-
-Coordonates: x=323 y=421
-
-Coordonates: x=324 y=414
-
-Coordonates: x=310 y=430
-
-Coordonates: x=301 y=424
-
-Coordonates: x=331 y=423
-
-Coordonates: x=302 y=433
-
-Coordonates: x=331 y=418
-
-Coordonates: x=313 y=413
-
-Coordonates: x=329 y=430
-
-Coordonates: x=324 y=419
-
-Coordonates: x=324 y=415
-
-Coordonates: x=342 y=425
-
-Coordonates: x=325 y=440
-
-Coordonates: x=332 y=407
-
-Coordonates: x=334 y=403
-
-Coordonates: x=333 y=436
-
-Coordonates: x=314 y=421
-
-Coordonates: x=338 y=418
-
-Coordonates: x=313 y=416
-
-Coordonates: x=334 y=415
-
-Coordonates: x=363 y=428
-
-Coordonates: x=329 y=425
-
-Coordonates: x=354 y=435
-
-Coordonates: x=328 y=423
-
-Coordonates: x=357 y=416
-
-Coordonates: x=309 y=402
-
-Coordonates: x=320 y=423
-
-Coordonates: x=313 y=424
-
-Coordonates: x=323 y=395
-
-Coordonates: x=329 y=419
-
-Coordonates: x=333 y=432
-
-Coordonates: x=336 y=417
-
-Coordonates: x=329 y=421
-
-Coordonates: x=320 y=434
-
-Coordonates: x=327 y=422
+Coordonates: x=310 y=432
 
 Coordonates: x=336 y=420
 
-Coordonates: x=348 y=432
+Coordonates: x=337 y=413
 
-Coordonates: x=322 y=436
+Coordonates: x=322 y=411
 
-Coordonates: x=325 y=416
+Coordonates: x=346 y=409
 
-Coordonates: x=338 y=417
-
-Coordonates: x=339 y=413
-
-Coordonates: x=331 y=421
-
-Coordonates: x=321 y=422
-
-Coordonates: x=326 y=438
-
-Coordonates: x=322 y=420
-
-Coordonates: x=331 y=419
-
-Coordonates: x=336 y=434
-
-Coordonates: x=321 y=418
-
-Coordonates: x=305 y=419
-
-Coordonates: x=329 y=425
-
-Coordonates: x=302 y=419
-
-Coordonates: x=340 y=423
-
-Coordonates: x=336 y=414
-
-Coordonates: x=323 y=421
+Coordonates: x=344 y=420
 
 Coordonates: x=315 y=421
 
-Coordonates: x=320 y=437
+Coordonates: x=316 y=416
 
-Coordonates: x=319 y=420
+Coordonates: x=335 y=424
+
+Coordonates: x=332 y=407
+
+Coordonates: x=341 y=443
+
+Coordonates: x=351 y=415
+
+Coordonates: x=334 y=416
+
+Coordonates: x=333 y=418
+
+Coordonates: x=325 y=415
+
+Coordonates: x=338 y=417
+
+Coordonates: x=329 y=410
+
+Coordonates: x=331 y=427
+
+Coordonates: x=330 y=433
+
+Coordonates: x=310 y=423
+
+Coordonates: x=346 y=399
+
+Coordonates: x=318 y=441
+
+Coordonates: x=321 y=442
+
+Coordonates: x=334 y=432
+
+Coordonates: x=328 y=396
+
+Coordonates: x=342 y=398
+
+Coordonates: x=313 y=433
+
+Coordonates: x=332 y=427
+
+Coordonates: x=341 y=402
+
+Coordonates: x=324 y=396
+
+Coordonates: x=332 y=421
+
+Coordonates: x=310 y=440
+
+Coordonates: x=337 y=417
+
+Coordonates: x=305 y=423
+
+Coordonates: x=322 y=425
+
+Coordonates: x=330 y=409
+
+Coordonates: x=352 y=436
+
+Coordonates: x=351 y=427
+
+Coordonates: x=334 y=424
 
 Coordonates: x=326 y=414
 
-Coordonates: x=312 y=434
+Coordonates: x=339 y=437
 
-Coordonates: x=336 y=421
+Coordonates: x=309 y=445
 
-Coordonates: x=341 y=417
+Coordonates: x=328 y=416
 
-Coordonates: x=322 y=413
+Coordonates: x=320 y=448
 
-Coordonates: x=318 y=408
+Coordonates: x=312 y=431
 
-Coordonates: x=321 y=405
+Coordonates: x=326 y=403
 
-Coordonates: x=315 y=435
+Coordonates: x=335 y=415
 
-Coordonates: x=334 y=426
+Coordonates: x=323 y=430
 
-Coordonates: x=342 y=417
+Coordonates: x=314 y=417
 
-Coordonates: x=324 y=412
+Coordonates: x=321 y=414
 
-Coordonates: x=306 y=414
+Coordonates: x=332 y=411
 
-Coordonates: x=321 y=412
+Coordonates: x=321 y=408
 
-Coordonates: x=333 y=406
-
-Coordonates: x=334 y=428
-
-Coordonates: x=331 y=425
-
-Coordonates: x=313 y=428
-
-Coordonates: x=330 y=399
-
-Coordonates: x=301 y=412
-
-Coordonates: x=325 y=414
-
-Coordonates: x=333 y=427
-
-Coordonates: x=318 y=423
-
-Coordonates: x=332 y=418
-
-Coordonates: x=336 y=418
-
-Coordonates: x=317 y=431
-
-Coordonates: x=343 y=424
-
-Coordonates: x=311 y=414
-
-Coordonates: x=316 y=414
-
-Coordonates: x=321 y=431
-
-Coordonates: x=322 y=436
-
-Coordonates: x=319 y=412
-
-Coordonates: x=345 y=415
-
-Coordonates: x=332 y=425
-
-Coordonates: x=312 y=418
-
-Coordonates: x=333 y=428
-
-Coordonates: x=321 y=419
-
-Coordonates: x=331 y=404
-
-Coordonates: x=327 y=404
-
-Coordonates: x=332 y=393
-
-Coordonates: x=338 y=422
-
-Coordonates: x=327 y=428
-
-Coordonates: x=317 y=421
-
-Coordonates: x=313 y=429
-
-Coordonates: x=305 y=430
-
-Coordonates: x=333 y=423
-
-Coordonates: x=328 y=419
-
-Coordonates: x=343 y=430
-
-Coordonates: x=315 y=423
-
-Coordonates: x=333 y=412
-
-Coordonates: x=345 y=423
-
-Coordonates: x=328 y=415
-
-Coordonates: x=307 y=419
-
-Coordonates: x=315 y=409
-
-Coordonates: x=323 y=408
-
-Coordonates: x=305 y=406
-
-Coordonates: x=339 y=406
-
-Coordonates: x=329 y=411
-
-Coordonates: x=323 y=412
-
-Coordonates: x=328 y=405
-
-Coordonates: x=337 y=416
-
-Coordonates: x=340 y=429
-
-Coordonates: x=333 y=422
-
-Coordonates: x=328 y=423
-
-Coordonates: x=336 y=436
-
-Coordonates: x=336 y=426
-
-Coordonates: x=324 y=427
-
-Coordonates: x=326 y=415
-
-Coordonates: x=340 y=410
-
-Coordonates: x=292 y=428
-
-Coordonates: x=321 y=419
-
-Coordonates: x=352 y=406
-
-Coordonates: x=330 y=428
-
-Coordonates: x=337 y=442
-
-Coordonates: x=317 y=406
-
-Coordonates: x=311 y=424
-
-Coordonates: x=313 y=415
-
-Coordonates: x=338 y=428
-
-Coordonates: x=321 y=416
-
-Coordonates: x=345 y=406
-
-Coordonates: x=327 y=406
-
-Coordonates: x=335 y=426
+Coordonates: x=354 y=422
 
 Coordonates: x=309 y=426
 
-Coordonates: x=337 y=424
+Coordonates: x=334 y=428
 
-Coordonates: x=316 y=419
+Coordonates: x=351 y=416
 
-Coordonates: x=319 y=421
+Coordonates: x=324 y=425
 
-Coordonates: x=351 y=412
+Coordonates: x=319 y=413
 
-Coordonates: x=317 y=431
+Coordonates: x=307 y=430
 
-Coordonates: x=315 y=425
+Coordonates: x=317 y=425
 
-Coordonates: x=314 y=419
+Coordonates: x=330 y=421
 
-Coordonates: x=310 y=410
+Coordonates: x=331 y=420
 
-Coordonates: x=345 y=415
+Coordonates: x=336 y=408
 
-Coordonates: x=334 y=420
+Coordonates: x=355 y=429
 
-Coordonates: x=341 y=431
+Coordonates: x=345 y=419
 
-Coordonates: x=313 y=428
+Coordonates: x=332 y=424
 
-Coordonates: x=324 y=413
+Coordonates: x=314 y=417
 
-Coordonates: x=363 y=411
+Coordonates: x=353 y=419
+
+Coordonates: x=331 y=400
+
+Coordonates: x=327 y=416
+
+Coordonates: x=317 y=410
+
+Coordonates: x=346 y=410
+
+Coordonates: x=347 y=423
+
+Coordonates: x=320 y=411
+
+Coordonates: x=352 y=428
+
+Coordonates: x=342 y=428
+
+Coordonates: x=331 y=425
+
+Coordonates: x=337 y=405
+
+Coordonates: x=312 y=430
+
+Coordonates: x=342 y=409
+
+Coordonates: x=310 y=414
+
+Coordonates: x=331 y=423
+
+Coordonates: x=319 y=410
+
+Coordonates: x=336 y=412
+
+Coordonates: x=314 y=410
+
+Coordonates: x=318 y=409
+
+Coordonates: x=303 y=412
+
+Coordonates: x=306 y=427
+
+Coordonates: x=335 y=423
+
+Coordonates: x=330 y=426
+
+Coordonates: x=346 y=419
+
+Coordonates: x=322 y=414
+
+Coordonates: x=320 y=419
+
+Coordonates: x=312 y=421
+
+Coordonates: x=311 y=408
+
+Coordonates: x=326 y=427
+
+Coordonates: x=344 y=411
+
+Coordonates: x=341 y=412
+
+Coordonates: x=318 y=420
+
+Coordonates: x=336 y=420
 
 Coordonates: x=327 y=404
 
-Coordonates: x=351 y=411
+Coordonates: x=336 y=416
 
-Coordonates: x=348 y=426
+Coordonates: x=332 y=429
 
-Coordonates: x=310 y=416
+Coordonates: x=347 y=424
 
-Coordonates: x=343 y=410
+Coordonates: x=340 y=417
 
-Coordonates: x=330 y=416
+Coordonates: x=309 y=408
 
-Coordonates: x=325 y=416
+Coordonates: x=311 y=435
 
-Coordonates: x=333 y=411
+Coordonates: x=314 y=431
 
-Coordonates: x=331 y=416
+Coordonates: x=314 y=417
 
-Coordonates: x=304 y=403
+Coordonates: x=333 y=422
 
-Coordonates: x=321 y=426
+Coordonates: x=331 y=396
 
-Coordonates: x=323 y=404
+Coordonates: x=328 y=412
 
-Coordonates: x=350 y=416
+Coordonates: x=342 y=422
+
+Coordonates: x=307 y=427
+
+Coordonates: x=327 y=413
+
+Coordonates: x=345 y=414
+
+Coordonates: x=361 y=404
 
 Coordonates: x=324 y=420
 
-Coordonates: x=325 y=430
+Coordonates: x=307 y=437
+
+Coordonates: x=330 y=413
+
+Coordonates: x=355 y=432
+
+Coordonates: x=324 y=405
+
+Coordonates: x=318 y=426
+
+Coordonates: x=322 y=409
+
+Coordonates: x=317 y=418
+
+Coordonates: x=335 y=400
+
+Coordonates: x=341 y=437
+
+Coordonates: x=336 y=404
+
+Coordonates: x=332 y=445
+
+Coordonates: x=346 y=433
+
+Coordonates: x=340 y=423
+
+Coordonates: x=323 y=400
+
+Coordonates: x=331 y=411
+
+Coordonates: x=345 y=430
+
+Coordonates: x=322 y=421
 
 Coordonates: x=337 y=410
 
-Coordonates: x=321 y=410
+Coordonates: x=307 y=433
+
+Coordonates: x=310 y=434
+
+Coordonates: x=330 y=429
+
+Coordonates: x=317 y=428
+
+Coordonates: x=320 y=412
+
+Coordonates: x=343 y=408
+
+Coordonates: x=317 y=412
+
+Coordonates: x=311 y=402
+
+Coordonates: x=326 y=419
+
+Coordonates: x=336 y=428
+
+Coordonates: x=319 y=428
+
+Coordonates: x=323 y=424
+
+Coordonates: x=335 y=409
+
+Coordonates: x=336 y=410
+
+Coordonates: x=306 y=414
+
+Coordonates: x=323 y=409
+
+Coordonates: x=320 y=419
+
+Coordonates: x=329 y=421
+
+Coordonates: x=336 y=427
+
+Coordonates: x=319 y=411
+
+Coordonates: x=335 y=440
+
+Coordonates: x=332 y=432
+
+Coordonates: x=307 y=424
+
+Coordonates: x=328 y=410
+
+Coordonates: x=336 y=398
+
+Coordonates: x=323 y=430
+
+Coordonates: x=331 y=429
+
+Coordonates: x=322 y=419
+
+Coordonates: x=342 y=445
+
+Coordonates: x=337 y=440
+
+Coordonates: x=336 y=426
+
+Coordonates: x=310 y=419
+
+Coordonates: x=324 y=412
+
+Coordonates: x=336 y=423
+
+Coordonates: x=358 y=429
+
+Coordonates: x=313 y=423
+
+Coordonates: x=338 y=421
+
+Coordonates: x=323 y=427
+
+Coordonates: x=306 y=424
+
+Coordonates: x=314 y=421
+
+Coordonates: x=337 y=421
+
+Coordonates: x=318 y=421
+
+Coordonates: x=341 y=420
+
+Coordonates: x=344 y=410
+
+Coordonates: x=342 y=419
+
+Coordonates: x=322 y=413
+
+Coordonates: x=325 y=420
+
+Coordonates: x=336 y=413
+
+Coordonates: x=310 y=412
+
+Coordonates: x=339 y=426
+
+Coordonates: x=323 y=428
+
+Coordonates: x=321 y=419
+
+Coordonates: x=352 y=447
+
+Coordonates: x=333 y=427
+
+Coordonates: x=331 y=424
+
+Coordonates: x=328 y=407
+
+Coordonates: x=325 y=429
+
+Coordonates: x=343 y=439
+
+Coordonates: x=329 y=429
+
+Coordonates: x=346 y=423
+
+Coordonates: x=325 y=440
+
+Coordonates: x=331 y=404
+
+Coordonates: x=322 y=440
+
+Coordonates: x=320 y=405
+
+Coordonates: x=337 y=405
+
+Coordonates: x=335 y=434
+
+Coordonates: x=346 y=428
+
+Coordonates: x=325 y=420
+
+Coordonates: x=312 y=412
+
+Coordonates: x=314 y=420
+
+Coordonates: x=330 y=421
+
+Coordonates: x=333 y=419
+
+Coordonates: x=316 y=426
+
+Coordonates: x=332 y=401
+
+Coordonates: x=306 y=429
+
+Coordonates: x=312 y=423
+
+Coordonates: x=330 y=427
+
+Coordonates: x=297 y=422
+
+Coordonates: x=336 y=440
+
+Coordonates: x=326 y=419
+
+Coordonates: x=325 y=422
+
+Coordonates: x=328 y=423
+
+Coordonates: x=330 y=444
+
+Coordonates: x=305 y=408
+
+Coordonates: x=313 y=412
+
+Coordonates: x=320 y=408
+
+Coordonates: x=345 y=418
+
+Coordonates: x=297 y=422
+
+Coordonates: x=317 y=410
+
+Coordonates: x=293 y=412
+
+Coordonates: x=320 y=417
+
+Coordonates: x=327 y=418
+
+Coordonates: x=345 y=413
+
+Coordonates: x=319 y=409
+
+Coordonates: x=346 y=420
+
+Coordonates: x=339 y=417
+
+Coordonates: x=314 y=431
+
+Coordonates: x=322 y=415
+
+Coordonates: x=334 y=434
+
+Coordonates: x=323 y=425
+
+Coordonates: x=333 y=423
+
+Coordonates: x=313 y=427
+
+Coordonates: x=325 y=429
+
+Coordonates: x=315 y=424
+
+Coordonates: x=332 y=428
+
+Coordonates: x=313 y=450
+
+Coordonates: x=338 y=421
+
+Coordonates: x=320 y=422
+
+Coordonates: x=321 y=433
+
+Coordonates: x=311 y=401
+
+Coordonates: x=344 y=420
+
+Coordonates: x=314 y=429
+
+Coordonates: x=356 y=425
+
+Coordonates: x=315 y=415
+
+Coordonates: x=325 y=431
+
+Coordonates: x=346 y=425
+
+Coordonates: x=331 y=417
+
+Coordonates: x=336 y=432
+
+Coordonates: x=328 y=416
+
+Coordonates: x=311 y=418
+
+Coordonates: x=325 y=418
+
+Coordonates: x=325 y=413
+
+Coordonates: x=323 y=414
+
+Coordonates: x=346 y=440
+
+Coordonates: x=332 y=416
+
+Coordonates: x=341 y=426
+
+Coordonates: x=344 y=429
+
+Coordonates: x=321 y=414
+
+Coordonates: x=330 y=424
+
+Coordonates: x=328 y=415
+
+Coordonates: x=328 y=409
+
+Coordonates: x=330 y=419
+
+Coordonates: x=346 y=409
+
+Coordonates: x=340 y=429
+
+Coordonates: x=346 y=418
+
+Coordonates: x=330 y=415
+
+Coordonates: x=360 y=403
+
+Coordonates: x=328 y=423
+
+Coordonates: x=297 y=405
+
+Coordonates: x=325 y=416
+
+Coordonates: x=336 y=422
+
+Coordonates: x=334 y=410
+
+Coordonates: x=297 y=418
+
+Coordonates: x=322 y=408
+
+Coordonates: x=341 y=399
+
+Coordonates: x=317 y=419
+
+Coordonates: x=327 y=433
+
+Coordonates: x=311 y=420
+
+Coordonates: x=327 y=446
+
+Coordonates: x=317 y=426
+
+Coordonates: x=338 y=433
+
+Coordonates: x=323 y=416
+
+Coordonates: x=321 y=409
+
+Coordonates: x=337 y=426
+
+Coordonates: x=316 y=398
+
+Coordonates: x=322 y=417
+
+Coordonates: x=345 y=421
+
+Coordonates: x=307 y=429
+
+Coordonates: x=330 y=436
+
+Coordonates: x=328 y=417
+
+Coordonates: x=329 y=429
+
+Coordonates: x=318 y=428
+
+Coordonates: x=336 y=421
+
+Coordonates: x=310 y=432
+
+Coordonates: x=330 y=421
+
+Coordonates: x=351 y=414
+
+Coordonates: x=318 y=424
+
+Coordonates: x=309 y=433
+
+Coordonates: x=336 y=442
+
+Coordonates: x=334 y=414
+
+Coordonates: x=315 y=419
+
+Coordonates: x=328 y=421
+
+Coordonates: x=328 y=419
+
+Coordonates: x=323 y=404
+
+Coordonates: x=338 y=417
+
+Coordonates: x=321 y=421
+
+Coordonates: x=321 y=419
+
+Coordonates: x=329 y=437
+
+Coordonates: x=321 y=413
+
+Coordonates: x=331 y=417
+
+Coordonates: x=335 y=424
+
+Coordonates: x=333 y=420
+
+Coordonates: x=317 y=405
+
+Coordonates: x=324 y=425
+
+Coordonates: x=336 y=437
+
+Coordonates: x=331 y=433
+
+Coordonates: x=315 y=438
+
+Coordonates: x=342 y=430
+
+Coordonates: x=323 y=436
+
+Coordonates: x=328 y=416
+
+Coordonates: x=316 y=421
+
+Coordonates: x=328 y=426
+
+Coordonates: x=312 y=423
+
+Coordonates: x=334 y=406
+
+Coordonates: x=317 y=422
+
+Coordonates: x=326 y=398
+
+Coordonates: x=340 y=415
+
+Coordonates: x=349 y=416
+
+Coordonates: x=354 y=428
+
+Coordonates: x=327 y=414
+
+Coordonates: x=337 y=420
+
+Coordonates: x=329 y=421
+
+Coordonates: x=329 y=428
+
+Coordonates: x=327 y=414
+
+Coordonates: x=323 y=419
+
+Coordonates: x=319 y=424
+
+Coordonates: x=336 y=423
+
+Coordonates: x=325 y=418
+
+Coordonates: x=328 y=413
+
+Coordonates: x=302 y=385
+
+Coordonates: x=332 y=425
+
+Coordonates: x=337 y=429
+
+Coordonates: x=323 y=417
+
+Coordonates: x=335 y=397
+
+Coordonates: x=319 y=426
+
+Coordonates: x=327 y=413
+
+Coordonates: x=332 y=421
+
+Coordonates: x=322 y=418
+
+Coordonates: x=320 y=399
+
+Coordonates: x=314 y=413
+
+Coordonates: x=332 y=418
+
+Coordonates: x=331 y=437
+
+Coordonates: x=329 y=411
+
+Coordonates: x=321 y=415
+
+Coordonates: x=324 y=404
+
+Coordonates: x=318 y=414
+
+Coordonates: x=333 y=414
+
+Coordonates: x=314 y=432
+
+Coordonates: x=326 y=435
+
+Coordonates: x=331 y=406
+
+Coordonates: x=328 y=422
+
+Coordonates: x=346 y=427
+
+Coordonates: x=330 y=424
+
+Coordonates: x=328 y=412
+
+Coordonates: x=326 y=404
+
+Coordonates: x=320 y=411
+
+Coordonates: x=305 y=427
+
+Coordonates: x=336 y=434
+
+Coordonates: x=323 y=431
+
+Coordonates: x=319 y=419
+
+Coordonates: x=312 y=427
+
+Coordonates: x=348 y=407
+
+Coordonates: x=343 y=425
+
+Coordonates: x=319 y=422
+
+Coordonates: x=317 y=412
+
+Coordonates: x=341 y=414
+
+Coordonates: x=328 y=427
+
+Coordonates: x=324 y=415
+
+Coordonates: x=308 y=424
+
+Coordonates: x=303 y=417
+
+Coordonates: x=326 y=435
+
+Coordonates: x=309 y=420
+
+Coordonates: x=327 y=410
+
+Coordonates: x=328 y=416
+
+Coordonates: x=329 y=414
+
+Coordonates: x=326 y=413
+
+Coordonates: x=320 y=422
+
+Coordonates: x=331 y=410
+
+Coordonates: x=331 y=422
+
+Coordonates: x=314 y=419
+
+Coordonates: x=322 y=433
+
+Coordonates: x=308 y=415
+
+Coordonates: x=317 y=415
+
+Coordonates: x=324 y=425
+
+Coordonates: x=315 y=425
+
+Coordonates: x=318 y=409
+
+Coordonates: x=344 y=404
+
+Coordonates: x=326 y=410
+
+Coordonates: x=347 y=423
+
+Coordonates: x=319 y=440
+
+Coordonates: x=355 y=416
+
+Coordonates: x=348 y=403
+
+Coordonates: x=325 y=419
+
+Coordonates: x=323 y=422
+
+Coordonates: x=310 y=418
+
+Coordonates: x=343 y=412
+
+Coordonates: x=334 y=423
+
+Coordonates: x=320 y=421
+
+Coordonates: x=312 y=416
+
+Coordonates: x=331 y=412
+
+Coordonates: x=323 y=412
+
+Coordonates: x=325 y=421
+
+Coordonates: x=320 y=420
+
+Coordonates: x=348 y=402
+
+Coordonates: x=326 y=423
+
+Coordonates: x=339 y=428
+
+Coordonates: x=323 y=437
+
+Coordonates: x=306 y=405
+
+Coordonates: x=328 y=414
+
+Coordonates: x=333 y=403
+
+Coordonates: x=334 y=425
+
+Coordonates: x=327 y=413
+
+Coordonates: x=325 y=420
+
+Coordonates: x=336 y=417
+
+Coordonates: x=329 y=433
+
+Coordonates: x=325 y=417
+
+Coordonates: x=336 y=424
+
+Coordonates: x=329 y=418
+
+Coordonates: x=302 y=427
+
+Coordonates: x=329 y=401
+
+Coordonates: x=353 y=419
+
+Coordonates: x=329 y=425
+
+Coordonates: x=335 y=411
+
+Coordonates: x=327 y=412
+
+Coordonates: x=348 y=429
+
+Coordonates: x=336 y=423
+
+Coordonates: x=325 y=434
+
+Coordonates: x=337 y=411
+
+Coordonates: x=306 y=410
+
+Coordonates: x=316 y=425
+
+Coordonates: x=301 y=409
+
+Coordonates: x=336 y=421
+
+Coordonates: x=322 y=417
+
+Coordonates: x=313 y=423
+
+Coordonates: x=325 y=435
+
+Coordonates: x=326 y=420
+
+Coordonates: x=333 y=421
+
+Coordonates: x=322 y=418
+
+Coordonates: x=339 y=414
+
+Coordonates: x=346 y=414
+
+Coordonates: x=317 y=422
+
+Coordonates: x=302 y=416
+
+Coordonates: x=309 y=422
+
+Coordonates: x=352 y=404
+
+Coordonates: x=341 y=414
+
+Coordonates: x=328 y=421
+
+Coordonates: x=334 y=425
+
+Coordonates: x=326 y=424
+
+Coordonates: x=337 y=410
+
+Coordonates: x=334 y=421
+
+Coordonates: x=350 y=432
+
+Coordonates: x=333 y=420
+
+Coordonates: x=330 y=439
+
+Coordonates: x=323 y=421
+
+Coordonates: x=320 y=421
+
+Coordonates: x=314 y=411
+
+Coordonates: x=338 y=414
+
+Coordonates: x=331 y=423
+
+Coordonates: x=327 y=421
+
+Coordonates: x=339 y=420
+
+Coordonates: x=347 y=430
+
+Coordonates: x=329 y=439
+
+Coordonates: x=314 y=418
+
+Coordonates: x=330 y=420
+
+Coordonates: x=322 y=422
+
+Coordonates: x=339 y=400
+
+Coordonates: x=328 y=426
+
+Coordonates: x=333 y=429
+
+Coordonates: x=312 y=417
+
+Coordonates: x=337 y=414
+
+Coordonates: x=325 y=432
+
+Coordonates: x=333 y=405
+
+Coordonates: x=332 y=432
+
+Coordonates: x=331 y=417
+
+Coordonates: x=317 y=412
+
+Coordonates: x=317 y=430
+
+Coordonates: x=298 y=415
+
+Coordonates: x=348 y=435
+
+Coordonates: x=355 y=404
+
+Coordonates: x=321 y=421
+
+Coordonates: x=329 y=423
+
+Coordonates: x=346 y=428
+
+Coordonates: x=317 y=406
+
+Coordonates: x=320 y=421
+
+Coordonates: x=316 y=421
+
+Coordonates: x=319 y=428
+
+Coordonates: x=325 y=429
+
+Coordonates: x=350 y=417
+
+Coordonates: x=316 y=421
+
+Coordonates: x=324 y=418
+
+Coordonates: x=313 y=405
+
+Coordonates: x=338 y=401
+
+Coordonates: x=323 y=412
+
+Coordonates: x=331 y=414
+
+Coordonates: x=340 y=411
+
+Coordonates: x=318 y=405
+
+Coordonates: x=321 y=405
+
+Coordonates: x=336 y=417
+
+Coordonates: x=327 y=442
+
+Coordonates: x=311 y=438
+
+Coordonates: x=317 y=436
+
+Coordonates: x=330 y=424
+
+Coordonates: x=331 y=419
+
+Coordonates: x=320 y=420
+
+Coordonates: x=321 y=426
+
+Coordonates: x=341 y=427
+
+Coordonates: x=323 y=436
+
+Coordonates: x=344 y=438
+
+Coordonates: x=326 y=436
+
+Coordonates: x=317 y=409
+
+Coordonates: x=330 y=430
+
+Coordonates: x=328 y=436
+
+Coordonates: x=312 y=430
+
+Coordonates: x=329 y=426
+
+Coordonates: x=356 y=414
+
+Coordonates: x=334 y=417
+
+Coordonates: x=343 y=428
+
+Coordonates: x=299 y=423
+
+Coordonates: x=331 y=428
+
+Coordonates: x=306 y=414
+
+Coordonates: x=323 y=413
+
+Coordonates: x=320 y=417
+
+Coordonates: x=322 y=421
+
+Coordonates: x=323 y=427
+
+Coordonates: x=336 y=415
+
+Coordonates: x=319 y=415
+
+Coordonates: x=319 y=429
+
+Coordonates: x=326 y=416
+
+Coordonates: x=345 y=438
+
+Coordonates: x=305 y=431
+
+Coordonates: x=342 y=416
+
+Coordonates: x=316 y=423
+
+Coordonates: x=325 y=411
+
+Coordonates: x=328 y=413
+
+Coordonates: x=348 y=407
+
+Coordonates: x=308 y=419
+
+Coordonates: x=332 y=417
+
+Coordonates: x=323 y=424
+
+Coordonates: x=309 y=430
+
+Coordonates: x=330 y=412
+
+Coordonates: x=322 y=421
+
+Coordonates: x=325 y=418
+
+Coordonates: x=334 y=427
+
+Coordonates: x=310 y=431
+
+Coordonates: x=320 y=418
+
+Coordonates: x=319 y=408
+
+Coordonates: x=342 y=414
+
+Coordonates: x=322 y=407
+
+Coordonates: x=329 y=414
+
+Coordonates: x=343 y=421
+
+Coordonates: x=332 y=416
+
+Coordonates: x=356 y=436
+
+Coordonates: x=307 y=419
+
+Coordonates: x=312 y=414
+
+Coordonates: x=327 y=412
+
+Coordonates: x=345 y=416
+
+Coordonates: x=353 y=440
+
+Coordonates: x=328 y=408
+
+Coordonates: x=346 y=439
+
+Coordonates: x=318 y=435
+
+Coordonates: x=335 y=413
+
+Coordonates: x=319 y=418
+
+Coordonates: x=321 y=419
+
+Coordonates: x=344 y=404
+
+Coordonates: x=316 y=411
+
+Coordonates: x=320 y=418
+
+Coordonates: x=332 y=417
+
+Coordonates: x=326 y=430
+
+Coordonates: x=326 y=432
+
+Coordonates: x=319 y=434
+
+Coordonates: x=320 y=434
+
+Coordonates: x=309 y=419
+
+Coordonates: x=335 y=433
+
+Coordonates: x=342 y=430
+
+Coordonates: x=353 y=417
+
+Coordonates: x=317 y=422
+
+Coordonates: x=316 y=412
+
+Coordonates: x=316 y=432
+
+Coordonates: x=338 y=421
+
+Coordonates: x=339 y=417
+
+Coordonates: x=326 y=422
+
+Coordonates: x=324 y=424
+
+Coordonates: x=330 y=426
+
+Coordonates: x=317 y=411
+
+Coordonates: x=334 y=440
+
+Coordonates: x=329 y=417
+
+Coordonates: x=308 y=413
+
+Coordonates: x=314 y=414
+
+Coordonates: x=324 y=418
+
+Coordonates: x=314 y=439
+
+Coordonates: x=334 y=398
+
+Coordonates: x=330 y=426
+
+Coordonates: x=316 y=440
+
+Coordonates: x=322 y=396
+
+Coordonates: x=325 y=427
+
+Coordonates: x=328 y=420
+
+Coordonates: x=344 y=404
+
+Coordonates: x=331 y=415
+
+Coordonates: x=321 y=411
+
+Coordonates: x=358 y=436
+
+Coordonates: x=323 y=431
+
+Coordonates: x=335 y=405
+
+Coordonates: x=304 y=410
+
+Coordonates: x=327 y=437
+
+Coordonates: x=341 y=415
+
+Coordonates: x=311 y=421
+
+Coordonates: x=318 y=420
+
+Coordonates: x=299 y=427
+
+Coordonates: x=312 y=419
+
+Coordonates: x=338 y=407
+
+Coordonates: x=324 y=414
+
+Coordonates: x=318 y=423
+
+Coordonates: x=339 y=427
+
+Coordonates: x=331 y=424
+
+Coordonates: x=322 y=430
+
+Coordonates: x=317 y=425
+
+Coordonates: x=340 y=419
+
+Coordonates: x=326 y=424
+
+Coordonates: x=303 y=426
+
+Coordonates: x=336 y=422
+
+Coordonates: x=315 y=435
+
+Coordonates: x=331 y=433
+
+Coordonates: x=330 y=419
+
+Coordonates: x=326 y=424
+
+Coordonates: x=315 y=438
+
+Coordonates: x=332 y=390
+
+Coordonates: x=331 y=418
+
+Coordonates: x=337 y=421
+
+Coordonates: x=328 y=417
+
+Coordonates: x=330 y=433
+
+Coordonates: x=312 y=422
+
+Coordonates: x=345 y=416
+
+Coordonates: x=325 y=418
+
+Coordonates: x=324 y=430
+
+Coordonates: x=321 y=429
+
+Coordonates: x=345 y=410
+
+Coordonates: x=313 y=445
+
+Coordonates: x=342 y=429
+
+Coordonates: x=316 y=409
+
+Coordonates: x=308 y=425
+
+Coordonates: x=345 y=419
+
+Coordonates: x=323 y=440
+
+Coordonates: x=318 y=428
+
+Coordonates: x=328 y=420
+
+Coordonates: x=314 y=428
+
+Coordonates: x=316 y=429
+
+Coordonates: x=331 y=434
+
+Coordonates: x=325 y=416
+
+Coordonates: x=334 y=429
+
+Coordonates: x=307 y=414
+
+Coordonates: x=312 y=423
+
+Coordonates: x=334 y=419
+
+Coordonates: x=342 y=415
+
+Coordonates: x=331 y=413
+
+Coordonates: x=323 y=409
+
+Coordonates: x=347 y=413
+
+Coordonates: x=312 y=422
+
+Coordonates: x=342 y=417
+
+Coordonates: x=334 y=414
+
+Coordonates: x=315 y=400
+
+Coordonates: x=325 y=419
+
+Coordonates: x=319 y=441
+
+Coordonates: x=339 y=424
+
+Coordonates: x=323 y=410
+
+Coordonates: x=311 y=399
+
+Coordonates: x=339 y=410
+
+Coordonates: x=332 y=412
+
+Coordonates: x=333 y=442
+
+Coordonates: x=331 y=422
+
+Coordonates: x=319 y=417
+
+Coordonates: x=314 y=424
+
+Coordonates: x=326 y=420
+
+Coordonates: x=315 y=402
+
+Coordonates: x=314 y=414
+
+Coordonates: x=332 y=416
+
+Coordonates: x=336 y=422
+
+Coordonates: x=325 y=422
+
+Coordonates: x=355 y=418
+
+Coordonates: x=333 y=409
+
+Coordonates: x=337 y=418
+
+Coordonates: x=291 y=411
+
+Coordonates: x=336 y=428
+
+Coordonates: x=330 y=430
+
+Coordonates: x=347 y=401
+
+Coordonates: x=340 y=415
+
+Coordonates: x=320 y=418
+
+Coordonates: x=335 y=409
+
+Coordonates: x=335 y=417
+
+Coordonates: x=328 y=418
+
+Coordonates: x=316 y=419
+
+Coordonates: x=305 y=416
+
+Coordonates: x=342 y=428
+
+Coordonates: x=305 y=421
+
+Coordonates: x=327 y=422
+
+Coordonates: x=322 y=429
+
+Coordonates: x=325 y=427
+
+Coordonates: x=317 y=437
+
+Coordonates: x=335 y=429
+
+Coordonates: x=311 y=410
+
+Coordonates: x=324 y=425
+
+Coordonates: x=337 y=426
+
+Coordonates: x=337 y=411
+
+Coordonates: x=319 y=402
+
+Coordonates: x=314 y=419
+
+Coordonates: x=329 y=430
+
+Coordonates: x=335 y=412
+
+Coordonates: x=322 y=414
+
+Coordonates: x=319 y=425
+
+Coordonates: x=326 y=404
+
+Coordonates: x=317 y=417
+
+Coordonates: x=323 y=428
+
+Coordonates: x=325 y=423
+
+Coordonates: x=327 y=395
+
+Coordonates: x=340 y=422
+
+Coordonates: x=309 y=414
+
+Coordonates: x=326 y=427
+
+Coordonates: x=298 y=422
+
+Coordonates: x=311 y=412
+
+Coordonates: x=318 y=422
+
+Coordonates: x=331 y=415
+
+Coordonates: x=333 y=413
+
+Coordonates: x=353 y=417
+
+Coordonates: x=316 y=401
+
+Coordonates: x=314 y=416
+
+Coordonates: x=313 y=435
+
+Coordonates: x=319 y=429
+
+Coordonates: x=344 y=423
+
+Coordonates: x=344 y=418
+
+Coordonates: x=307 y=404
+
+Coordonates: x=322 y=416
+
+Coordonates: x=326 y=428
+
+Coordonates: x=336 y=420
+
+Coordonates: x=326 y=428
+
+Coordonates: x=330 y=424
+
+Coordonates: x=318 y=413
+
+Coordonates: x=322 y=418
+
+Coordonates: x=344 y=415
+
+Coordonates: x=323 y=410
+
+Coordonates: x=351 y=415
+
+Coordonates: x=302 y=422
+
+Coordonates: x=333 y=427
+
+Coordonates: x=343 y=424
+
+Coordonates: x=328 y=424
+
+Coordonates: x=337 y=420
+
+Coordonates: x=339 y=428
+
+Coordonates: x=305 y=418
+
+Coordonates: x=323 y=417
+
+Coordonates: x=319 y=438
+
+Coordonates: x=331 y=409
+
+Coordonates: x=346 y=419
+
+Coordonates: x=323 y=415
+
+Coordonates: x=333 y=420
+
+Coordonates: x=331 y=422
+
+Coordonates: x=320 y=413
+
+Coordonates: x=326 y=405
+
+Coordonates: x=323 y=397
+
+Coordonates: x=331 y=417
+
+Coordonates: x=339 y=434
+
+Coordonates: x=321 y=431
+
+Coordonates: x=336 y=422
+
+Coordonates: x=329 y=433
+
+Coordonates: x=316 y=425
+
+Coordonates: x=331 y=426
+
+Coordonates: x=319 y=421
+
+Coordonates: x=305 y=412
+
+Coordonates: x=322 y=425
+
+Coordonates: x=327 y=419
+
+Coordonates: x=320 y=443
+
+Coordonates: x=297 y=421
+
+Coordonates: x=324 y=436
+
+Coordonates: x=333 y=440
+
+Coordonates: x=329 y=418
+
+Coordonates: x=332 y=425
+
+Coordonates: x=334 y=417
+
+Coordonates: x=309 y=429
+
+Coordonates: x=326 y=396
+
+Coordonates: x=334 y=408
+
+Coordonates: x=323 y=414
+
+Coordonates: x=335 y=408
+
+Coordonates: x=332 y=420
+
+Coordonates: x=337 y=437
+
+Coordonates: x=346 y=393
+
+Coordonates: x=334 y=406
+
+Coordonates: x=312 y=410
+
+Coordonates: x=315 y=423
+
+Coordonates: x=326 y=424
+
+Coordonates: x=330 y=417
+
+Coordonates: x=331 y=417
+
+Coordonates: x=301 y=414
+
+Coordonates: x=334 y=433
+
+Coordonates: x=328 y=426
+
+Coordonates: x=337 y=427
+
+Coordonates: x=323 y=408
+
+Coordonates: x=310 y=418
+
+Coordonates: x=311 y=422
+
+Coordonates: x=339 y=440
+
+Coordonates: x=331 y=405
+
+Coordonates: x=316 y=437
+
+Coordonates: x=345 y=410
+
+Coordonates: x=316 y=413
+
+Coordonates: x=321 y=406
+
+Coordonates: x=334 y=424
+
+Coordonates: x=325 y=411
+
+Coordonates: x=339 y=409
+
+Coordonates: x=323 y=433
+
+Coordonates: x=301 y=433
+
+Coordonates: x=325 y=414
+
+Coordonates: x=320 y=415
+
+Coordonates: x=332 y=432
+
+Coordonates: x=328 y=421
+
+Coordonates: x=300 y=431
+
+Coordonates: x=314 y=419
+
+Coordonates: x=315 y=421
+
+Coordonates: x=339 y=417
+
+Coordonates: x=344 y=413
 
 Coordonates: x=324 y=403
 
-Coordonates: x=332 y=403
+Coordonates: x=339 y=422
 
-Coordonates: x=338 y=422
+Coordonates: x=322 y=414
 
-Coordonates: x=340 y=412
+Coordonates: x=334 y=421
+
+Coordonates: x=308 y=426
+
+Coordonates: x=339 y=413
+
+Coordonates: x=318 y=421
+
+Coordonates: x=328 y=422
+
+Coordonates: x=337 y=425
+
+Coordonates: x=310 y=419
+
+Coordonates: x=333 y=418
+
+Coordonates: x=331 y=410
+
+Coordonates: x=323 y=401
+
+Coordonates: x=314 y=422
+
+Coordonates: x=322 y=428
+
+Coordonates: x=329 y=420
+
+Coordonates: x=327 y=422
+
+Coordonates: x=319 y=435
+
+Coordonates: x=321 y=431
+
+Coordonates: x=346 y=407
+
+Coordonates: x=319 y=417
+
+Coordonates: x=344 y=434
+
+Coordonates: x=329 y=412
+
+Coordonates: x=326 y=421
+
+Coordonates: x=327 y=418
+
+Coordonates: x=312 y=411
+
+Coordonates: x=333 y=420
+
+Coordonates: x=324 y=402
+
+Coordonates: x=340 y=432
+
+Coordonates: x=329 y=408
+
+Coordonates: x=335 y=424
+
+Coordonates: x=315 y=434
+
+Coordonates: x=316 y=420
+
+Coordonates: x=316 y=439
+
+Coordonates: x=320 y=416
+
+Coordonates: x=336 y=413
+
+Coordonates: x=325 y=423
+
+Coordonates: x=331 y=424
+
+Coordonates: x=311 y=425
+
+Coordonates: x=345 y=414
+
+Coordonates: x=339 y=427
+
+Coordonates: x=343 y=416
+
+Coordonates: x=319 y=418
+
+Coordonates: x=332 y=414
+
+Coordonates: x=343 y=416
+
+Coordonates: x=317 y=407
+
+Coordonates: x=322 y=425
+
+Coordonates: x=314 y=425
+
+Coordonates: x=316 y=424
+
+Coordonates: x=326 y=421
+
+Coordonates: x=342 y=410
+
+Coordonates: x=337 y=408
+
+Coordonates: x=329 y=410
+
+Coordonates: x=307 y=411
+
+Coordonates: x=314 y=422
+
+Coordonates: x=325 y=427
+
+Coordonates: x=323 y=428
+
+Coordonates: x=303 y=410
+
+Coordonates: x=344 y=424
+
+Coordonates: x=330 y=425
+
+Coordonates: x=344 y=410
+
+Coordonates: x=317 y=396
+
+Coordonates: x=341 y=422
+
+Coordonates: x=304 y=405
+
+Coordonates: x=324 y=416
+
+Coordonates: x=329 y=425
+
+Coordonates: x=326 y=424
+
+Coordonates: x=326 y=418
+
+Coordonates: x=335 y=429
+
+Coordonates: x=339 y=433
+
+Coordonates: x=323 y=415
+
+Coordonates: x=334 y=409
+
+Coordonates: x=327 y=423
+
+Coordonates: x=336 y=414
+
+Coordonates: x=325 y=410
+
+Coordonates: x=330 y=420
+
+Coordonates: x=342 y=420
+
+Coordonates: x=326 y=427
+
+Coordonates: x=309 y=402
+
+Coordonates: x=343 y=420
+
+Coordonates: x=328 y=396
+
+Coordonates: x=348 y=421
+
+Coordonates: x=322 y=430
+
+Coordonates: x=336 y=432
+
+Coordonates: x=339 y=437
+
+Coordonates: x=355 y=425
+
+Coordonates: x=312 y=420
+
+Coordonates: x=337 y=413
+
+Coordonates: x=326 y=415
+
+Coordonates: x=317 y=432
+
+Coordonates: x=325 y=416
+
+Coordonates: x=332 y=414
+
+Coordonates: x=315 y=424
+
+Coordonates: x=334 y=419
+
+Coordonates: x=332 y=420
+
+Coordonates: x=338 y=421
+
+Coordonates: x=317 y=411
+
+Coordonates: x=326 y=407
+
+Coordonates: x=292 y=430
+
+Coordonates: x=320 y=430
+
+Coordonates: x=331 y=415
+
+Coordonates: x=336 y=435
+
+Coordonates: x=310 y=421
+
+Coordonates: x=323 y=423
+
+Coordonates: x=325 y=431
+
+Coordonates: x=315 y=431
+
+Coordonates: x=323 y=431
+
+Coordonates: x=319 y=420
+
+Coordonates: x=314 y=433
+
+Coordonates: x=317 y=421
+
+Coordonates: x=318 y=416
+
+Coordonates: x=310 y=441
+
+Coordonates: x=333 y=412
+
+Coordonates: x=318 y=413
+
+Coordonates: x=336 y=421
+
+Coordonates: x=328 y=415
+
+Coordonates: x=302 y=421
+
+Coordonates: x=311 y=420
+
+Coordonates: x=329 y=426
+
+Coordonates: x=326 y=422
+
+Coordonates: x=338 y=419
+
+Coordonates: x=327 y=422
+
+Coordonates: x=332 y=407
+
+Coordonates: x=341 y=420
+
+Coordonates: x=326 y=404
+
+Coordonates: x=345 y=409
+
+Coordonates: x=342 y=426
+
+Coordonates: x=319 y=421
+
+Coordonates: x=331 y=422
+
+Coordonates: x=308 y=423
+
+Coordonates: x=337 y=421
+
+Coordonates: x=325 y=427
+
+Coordonates: x=326 y=427
+
+Coordonates: x=317 y=427
+
+Coordonates: x=301 y=405
+
+Coordonates: x=335 y=410
+
+Coordonates: x=332 y=420
+
+Coordonates: x=321 y=418
+
+Coordonates: x=332 y=413
+
+Coordonates: x=320 y=418
+
+Coordonates: x=346 y=419
+
+Coordonates: x=312 y=423
+
+Coordonates: x=314 y=404
+
+Coordonates: x=333 y=415
+
+Coordonates: x=333 y=414
+
+Coordonates: x=334 y=425
+
+Coordonates: x=335 y=420
+
+Coordonates: x=320 y=423
+
+Coordonates: x=326 y=416
+
+Coordonates: x=320 y=430
+
+Coordonates: x=333 y=434
+
+Coordonates: x=330 y=412
+
+Coordonates: x=329 y=444
+
+Coordonates: x=304 y=409
+
+Coordonates: x=339 y=404
+
+Coordonates: x=331 y=421
+
+Coordonates: x=317 y=434
+
+Coordonates: x=318 y=409
+
+Coordonates: x=309 y=411
+
+Coordonates: x=339 y=425
+
+Coordonates: x=336 y=405
+
+Coordonates: x=321 y=431
 
