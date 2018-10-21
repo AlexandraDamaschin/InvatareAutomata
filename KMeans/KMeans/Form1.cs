@@ -55,7 +55,7 @@ namespace KMeans
         #region calculate new x and y
         public int CalculateNewX(int x)
         {
-            int newX = x + 300;
+            int newX = 300 + x;
             return newX;
         }
 
