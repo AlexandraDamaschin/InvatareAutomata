@@ -24,6 +24,14 @@ namespace KMeans
         public Form1()
         {
             InitializeComponent();
+            init();
+            points = new List<DataPoint>();
+            streamReader = new System.IO.StreamReader("xy.txt");
+        }
+
+        private void init()
+        {
+
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
