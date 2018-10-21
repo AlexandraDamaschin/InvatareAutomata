@@ -112,5 +112,36 @@ namespace KMeans
             graphics.Dispose();
         }
 
+        public void groupPoints()
+        {
+            string line;
+            int minDistance, distance, parent = 0;
+            Point point;
+
+            for (int i = 0; i < noOfCenters; i++)
+            {
+                int newX = CalculateNewX(cX[i]);
+                int newY = CalculateNewY(cY[i]);
+                //draw center
+                drawCenter(newX, newY, colors[i]);
+            }
+
+            while ((line = streamReader.ReadLine()) != null)
+            {
+                minDistance = 1000;
+                point = getPoint(line);
+            }
+        }
+
+        private Point getPoint(string line)
+        {
+            int commaIndex = line.IndexOf(",");
+            string x = line.Substring(0, commaIndex);
+            string y = line.Substring(commaIndex + 1);
+
+            Point point = new Point(Convert.ToInt32(x), Convert.ToInt32(y));
+            return point;
+        }
+
     }
 }
