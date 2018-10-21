@@ -28,13 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.pictureBox = new System.Windows.Forms.PictureBox();
+            this.label = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pictureBox
+            // 
+            this.pictureBox.Location = new System.Drawing.Point(124, 12);
+            this.pictureBox.Name = "pictureBox";
+            this.pictureBox.Size = new System.Drawing.Size(600, 600);
+            this.pictureBox.TabIndex = 0;
+            this.pictureBox.TabStop = false;
+            this.pictureBox.Click += new System.EventHandler(this.pictureBox_Click);
+            // 
+            // label
+            // 
+            this.label.AutoSize = true;
+            this.label.Location = new System.Drawing.Point(749, 285);
+            this.label.Name = "label";
+            this.label.Size = new System.Drawing.Size(35, 13);
+            this.label.TabIndex = 1;
+            this.label.Text = "label";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(874, 637);
+            this.Controls.Add(this.label);
+            this.Controls.Add(this.pictureBox);
+            this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox;
+        private System.Windows.Forms.Label label;
     }
 }
 
