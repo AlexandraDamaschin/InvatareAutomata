@@ -16,10 +16,11 @@ namespace KMeans
         private System.IO.StreamReader streamReader;
         private List<DataPoint> points;
         Random random;
-        Color[] colors = { Color.Blue, Color.Red, Color.Yellow, Color.Magenta, Color.Green };
+        Color[] colors = {
+                Color.Blue, Color.Red, Color.Yellow, Color.Magenta, Color.Green,
+                Color.Pink, Color.Plum,Color.Orange, Color.Maroon, Color.Turquoise};
         int noOfCenters;
-        int[] cX;
-        int[] cY;
+        int[] cX, cY;
         int min = -300;
         int max = 300;
 
@@ -28,7 +29,7 @@ namespace KMeans
             InitializeComponent();
             init();
             points = new List<DataPoint>();
-            streamReader = new System.IO.StreamReader("xy.txt");
+            streamReader = new System.IO.StreamReader("newCoordonates.txt");
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
@@ -63,7 +64,7 @@ namespace KMeans
         #region calculate new x and y
         public int CalculateNewX(int x)
         {
-            int newX = 300 + x;
+            int newX = x + 300;
             return newX;
         }
 
@@ -162,11 +163,11 @@ namespace KMeans
             int sumX = 0, sumY = 0, nr = 0;
             foreach (DataPoint point in points)
             {
-                if (point.center == center)
+                if (point.Center == center)
                 {
                     nr++;
-                    sumX += point.x;
-                    sumY += point.y;
+                    sumX += point.X;
+                    sumY += point.Y;
                 }
             }
             if (nr != 0)
@@ -179,10 +180,11 @@ namespace KMeans
 
         private Point getPoint(string line)
         {
-            int commaIndex = line.IndexOf(",");
-            string x = line.Substring(0, commaIndex);
-            string y = line.Substring(commaIndex + 1);
+            string x, y;
+            int commaIndex = line.IndexOf(" ");
 
+            x = line.Substring(0, commaIndex);
+            y = line.Substring(commaIndex + 1);
             Point point = new Point(Convert.ToInt32(x), Convert.ToInt32(y));
             return point;
         }
