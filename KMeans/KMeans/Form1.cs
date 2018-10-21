@@ -31,6 +31,11 @@ namespace KMeans
             streamReader = new System.IO.StreamReader("xy.txt");
         }
 
+        private void pictureBox_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void init()
         {
             random = new Random(DateTime.Now.Millisecond);
@@ -66,9 +71,10 @@ namespace KMeans
         }
         #endregion
 
-        private void pictureBox_Click(object sender, EventArgs e)
+        public void drawCenter(int x, int y, Color color)
         {
 
         }
+
     }
 }
