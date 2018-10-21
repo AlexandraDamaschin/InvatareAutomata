@@ -99,18 +99,14 @@ namespace KMeans
 
         public void drawAxis()
         {
-            Graphics graphics = Graphics.FromHwnd(pictureBox.Handle);
-            SolidBrush solidBrush = new SolidBrush(Color.Black);
-            //y axis
-            Point point = new Point(300, 0);
-            Rectangle rectangleAxisY = new Rectangle(point, new Size(1, 600));
-            graphics.FillRectangle(solidBrush, rectangleAxisY);
+            Graphics oX_oY;
+            oX_oY = this.CreateGraphics();
 
-            //x axis
-            point = new Point(0, 300);
-            Rectangle rectangleAxisX = new Rectangle(point, new Size(600, 1));
-            graphics.FillRectangle(solidBrush, rectangleAxisY);
-            graphics.Dispose();
+            //create oX from 0 to 600
+            oX_oY.DrawLine(Pens.Black, 0, 300, 600, 300);
+
+            //create oY from 0 to 600
+            oX_oY.DrawLine(Pens.Black, 300, 0, 300, 600);
         }
 
         public void groupPoints()
