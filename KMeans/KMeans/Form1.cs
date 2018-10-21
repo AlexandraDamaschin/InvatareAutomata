@@ -30,7 +30,6 @@ namespace KMeans
             init();
             points = new List<DataPoint>();
             streamReader = new System.IO.StreamReader("newCoordonates.txt");
-            drawAxis();
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
