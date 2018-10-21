@@ -181,11 +181,14 @@ namespace KMeans
         private Point getPoint(string line)
         {
             string x, y;
-            int commaIndex = line.IndexOf(" ");
-
-            x = line.Substring(0, commaIndex);
-            y = line.Substring(commaIndex + 1);
-            Point point = new Point(Convert.ToInt32(x), Convert.ToInt32(y));
+            Point point = new Point();
+            int separator = line.IndexOf(" ");
+            if (separator > 0)
+            {
+                x = line.Substring(0, separator);
+                y = line.Substring(separator + 1);
+                point = new Point(Convert.ToInt32(x), Convert.ToInt32(y));
+            }
             return point;
         }
 
