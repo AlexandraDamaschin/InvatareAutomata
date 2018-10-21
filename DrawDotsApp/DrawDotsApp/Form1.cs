@@ -35,35 +35,35 @@ namespace DrawDotsApp
                         Color colorZ1 = Color.FromArgb(x1Argb, y1Argb, z1Argb);
                         SolidBrush brushZ1 = new SolidBrush(colorZ1);
                         Pen penColorZ1 = new Pen(brushZ1);
-                        DrawPoints(ValueZ1(), penColorZ1, 1);
+                        DrawPoints(ValueZ1(), penColorZ1);
                         break;
                     case 2:
                         int x2Argb = 51, y2Argb = 255, z2Argb = 255; //blue
                         Color colorZ2 = Color.FromArgb(x2Argb, y2Argb, z2Argb);
                         SolidBrush brushZ2 = new SolidBrush(colorZ2);
                         Pen penColorZ2 = new Pen(brushZ2);
-                        DrawPoints(ValueZ2(), penColorZ2, 2);
+                        DrawPoints(ValueZ2(), penColorZ2);
                         break;
                     case 3:
                         int x3Argb = 196, y3Argb = 255, z3Argb = 15; //green
                         Color colorZ3 = Color.FromArgb(x3Argb, y3Argb, z3Argb);
                         SolidBrush brushZ3 = new SolidBrush(colorZ3);
                         Pen penColorZ3 = new Pen(brushZ3);
-                        DrawPoints(ValueZ3(), penColorZ3, 3);
+                        DrawPoints(ValueZ3(), penColorZ3);
                         break;
                     case 4:
                         int x4Argb = 150, y4Argb = 0, z4Argb = 232; //purple
                         Color colorZ4 = Color.FromArgb(x4Argb, y4Argb, z4Argb);
                         SolidBrush brushZ4 = new SolidBrush(colorZ4);
                         Pen penColorZ4 = new Pen(brushZ4);
-                        DrawPoints(ValueZ4(), penColorZ4, 4);
+                        DrawPoints(ValueZ4(), penColorZ4);
                         break;
                     case 5:
                         int x5Argb = 255, y5Argb = 255, z5Argb = 0; //yellow
                         Color colorZ5 = Color.FromArgb(x5Argb, y5Argb, z5Argb);
                         SolidBrush brushZ5 = new SolidBrush(colorZ5);
                         Pen penColorZ5 = new Pen(brushZ5);
-                        DrawPoints(ValueZ5(), penColorZ5, 5);
+                        DrawPoints(ValueZ5(), penColorZ5);
                         break;
                 }
                 randomZone.Add(numberOfZone);
@@ -172,7 +172,7 @@ namespace DrawDotsApp
         #endregion
 
         //draw random points
-        public void DrawPoints(List<float> zone, Pen pointsPen, int zoneNumber)
+        public void DrawPoints(List<float> zone, Pen pointsPen)
         {
             float mX = zone[0];
             float mY = zone[1];
@@ -217,8 +217,8 @@ namespace DrawDotsApp
                 graph.DrawEllipse(pointsPen, x, y, 1, 1);
                 graph.Dispose();
 
-                writetext.WriteLine("Coordonates: " + "x=" + x.ToString() + " y=" + y.ToString() + " " + zoneNumber + "\n");
-                docEx2.WriteLine(x.ToString() + "," + y.ToString() + "," + zoneNumber + "\n");
+                writetext.WriteLine("Coordonates: " + "x=" + x.ToString() + " y=" + y.ToString() + "\n");
+                docEx2.WriteLine(x.ToString() + "," + y.ToString() + "\n");
             }
             //close wroten file 
             writetext.Close();

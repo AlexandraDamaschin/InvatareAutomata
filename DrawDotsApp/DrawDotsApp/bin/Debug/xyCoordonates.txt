@@ -1,2000 +1,2000 @@
-Coordonates: x=177 y=173 4
+Coordonates: x=347 y=431
 
-Coordonates: x=171 y=137 4
+Coordonates: x=355 y=392
 
-Coordonates: x=169 y=182 4
+Coordonates: x=311 y=419
 
-Coordonates: x=170 y=172 4
+Coordonates: x=324 y=418
 
-Coordonates: x=163 y=162 4
+Coordonates: x=323 y=413
 
-Coordonates: x=173 y=165 4
+Coordonates: x=316 y=419
 
-Coordonates: x=177 y=165 4
+Coordonates: x=319 y=405
 
-Coordonates: x=163 y=154 4
+Coordonates: x=331 y=425
 
-Coordonates: x=172 y=144 4
+Coordonates: x=338 y=434
 
-Coordonates: x=171 y=139 4
+Coordonates: x=318 y=408
 
-Coordonates: x=170 y=209 4
+Coordonates: x=311 y=427
 
-Coordonates: x=204 y=155 4
+Coordonates: x=309 y=411
 
-Coordonates: x=162 y=171 4
+Coordonates: x=321 y=426
 
-Coordonates: x=186 y=166 4
+Coordonates: x=346 y=412
 
-Coordonates: x=175 y=168 4
+Coordonates: x=310 y=434
 
-Coordonates: x=173 y=166 4
+Coordonates: x=312 y=441
 
-Coordonates: x=159 y=158 4
+Coordonates: x=337 y=436
 
-Coordonates: x=202 y=156 4
+Coordonates: x=338 y=411
 
-Coordonates: x=194 y=164 4
+Coordonates: x=343 y=417
 
-Coordonates: x=165 y=170 4
+Coordonates: x=320 y=424
 
-Coordonates: x=168 y=171 4
+Coordonates: x=311 y=406
 
-Coordonates: x=181 y=166 4
+Coordonates: x=317 y=407
 
-Coordonates: x=174 y=147 4
+Coordonates: x=309 y=393
 
-Coordonates: x=161 y=176 4
+Coordonates: x=332 y=419
 
-Coordonates: x=168 y=157 4
+Coordonates: x=350 y=426
 
-Coordonates: x=192 y=157 4
+Coordonates: x=335 y=415
 
-Coordonates: x=135 y=177 4
+Coordonates: x=312 y=437
 
-Coordonates: x=153 y=163 4
+Coordonates: x=328 y=428
 
-Coordonates: x=190 y=169 4
+Coordonates: x=322 y=430
 
-Coordonates: x=180 y=172 4
+Coordonates: x=334 y=427
 
-Coordonates: x=167 y=165 4
+Coordonates: x=321 y=385
 
-Coordonates: x=182 y=162 4
+Coordonates: x=321 y=413
 
-Coordonates: x=162 y=146 4
+Coordonates: x=331 y=415
 
-Coordonates: x=162 y=156 4
+Coordonates: x=319 y=420
 
-Coordonates: x=144 y=193 4
+Coordonates: x=320 y=411
 
-Coordonates: x=195 y=184 4
+Coordonates: x=343 y=418
 
-Coordonates: x=152 y=168 4
+Coordonates: x=316 y=410
 
-Coordonates: x=172 y=155 4
+Coordonates: x=337 y=425
 
-Coordonates: x=199 y=164 4
+Coordonates: x=338 y=416
 
-Coordonates: x=193 y=170 4
+Coordonates: x=321 y=421
 
-Coordonates: x=173 y=165 4
+Coordonates: x=337 y=431
 
-Coordonates: x=198 y=165 4
+Coordonates: x=341 y=418
 
-Coordonates: x=162 y=127 4
+Coordonates: x=301 y=413
 
-Coordonates: x=152 y=156 4
+Coordonates: x=335 y=433
 
-Coordonates: x=167 y=164 4
+Coordonates: x=321 y=410
 
-Coordonates: x=170 y=162 4
+Coordonates: x=320 y=407
 
-Coordonates: x=168 y=154 4
+Coordonates: x=323 y=393
 
-Coordonates: x=171 y=168 4
+Coordonates: x=304 y=405
 
-Coordonates: x=190 y=166 4
+Coordonates: x=336 y=424
 
-Coordonates: x=207 y=166 4
+Coordonates: x=299 y=409
 
-Coordonates: x=161 y=139 4
+Coordonates: x=329 y=414
 
-Coordonates: x=156 y=181 4
+Coordonates: x=315 y=421
 
-Coordonates: x=152 y=181 4
+Coordonates: x=340 y=417
 
-Coordonates: x=175 y=183 4
+Coordonates: x=312 y=407
 
-Coordonates: x=172 y=182 4
+Coordonates: x=322 y=403
 
-Coordonates: x=185 y=162 4
+Coordonates: x=320 y=419
 
-Coordonates: x=173 y=149 4
+Coordonates: x=327 y=412
 
-Coordonates: x=193 y=174 4
+Coordonates: x=330 y=420
 
-Coordonates: x=144 y=174 4
+Coordonates: x=346 y=426
 
-Coordonates: x=177 y=161 4
+Coordonates: x=331 y=399
 
-Coordonates: x=152 y=171 4
+Coordonates: x=320 y=422
 
-Coordonates: x=165 y=164 4
+Coordonates: x=319 y=416
 
-Coordonates: x=170 y=170 4
+Coordonates: x=338 y=441
 
-Coordonates: x=180 y=166 4
+Coordonates: x=323 y=416
 
-Coordonates: x=207 y=181 4
+Coordonates: x=329 y=423
 
-Coordonates: x=188 y=154 4
+Coordonates: x=324 y=416
 
-Coordonates: x=195 y=162 4
+Coordonates: x=301 y=416
 
-Coordonates: x=166 y=165 4
+Coordonates: x=334 y=420
 
-Coordonates: x=193 y=183 4
+Coordonates: x=352 y=431
 
-Coordonates: x=175 y=195 4
+Coordonates: x=333 y=431
 
-Coordonates: x=154 y=158 4
+Coordonates: x=325 y=411
 
-Coordonates: x=185 y=179 4
+Coordonates: x=328 y=427
 
-Coordonates: x=183 y=185 4
+Coordonates: x=339 y=435
 
-Coordonates: x=145 y=151 4
+Coordonates: x=313 y=410
 
-Coordonates: x=162 y=174 4
+Coordonates: x=325 y=422
 
-Coordonates: x=184 y=155 4
+Coordonates: x=343 y=413
 
-Coordonates: x=170 y=139 4
+Coordonates: x=330 y=428
 
-Coordonates: x=180 y=152 4
+Coordonates: x=314 y=427
 
-Coordonates: x=185 y=176 4
+Coordonates: x=316 y=412
 
-Coordonates: x=194 y=149 4
+Coordonates: x=335 y=411
 
-Coordonates: x=183 y=170 4
+Coordonates: x=353 y=426
 
-Coordonates: x=193 y=162 4
+Coordonates: x=309 y=427
 
-Coordonates: x=179 y=175 4
+Coordonates: x=342 y=418
 
-Coordonates: x=175 y=174 4
+Coordonates: x=342 y=400
 
-Coordonates: x=201 y=173 4
+Coordonates: x=324 y=426
 
-Coordonates: x=177 y=182 4
+Coordonates: x=309 y=420
 
-Coordonates: x=165 y=165 4
+Coordonates: x=319 y=413
 
-Coordonates: x=191 y=180 4
+Coordonates: x=318 y=412
 
-Coordonates: x=180 y=171 4
+Coordonates: x=322 y=432
 
-Coordonates: x=181 y=175 4
+Coordonates: x=335 y=399
 
-Coordonates: x=171 y=158 4
+Coordonates: x=310 y=414
 
-Coordonates: x=156 y=149 4
+Coordonates: x=305 y=421
 
-Coordonates: x=149 y=151 4
+Coordonates: x=335 y=421
 
-Coordonates: x=165 y=182 4
+Coordonates: x=319 y=413
 
-Coordonates: x=157 y=181 4
+Coordonates: x=312 y=422
 
-Coordonates: x=184 y=150 4
+Coordonates: x=327 y=418
 
-Coordonates: x=182 y=160 4
+Coordonates: x=343 y=419
 
-Coordonates: x=169 y=179 4
+Coordonates: x=326 y=420
 
-Coordonates: x=179 y=129 4
+Coordonates: x=322 y=425
 
-Coordonates: x=183 y=159 4
+Coordonates: x=332 y=427
 
-Coordonates: x=159 y=176 4
+Coordonates: x=318 y=419
 
-Coordonates: x=201 y=155 4
+Coordonates: x=312 y=427
 
-Coordonates: x=152 y=172 4
+Coordonates: x=324 y=433
 
-Coordonates: x=195 y=154 4
+Coordonates: x=335 y=430
 
-Coordonates: x=166 y=182 4
+Coordonates: x=344 y=428
 
-Coordonates: x=162 y=162 4
+Coordonates: x=325 y=426
 
-Coordonates: x=153 y=146 4
+Coordonates: x=311 y=410
 
-Coordonates: x=185 y=161 4
+Coordonates: x=330 y=427
 
-Coordonates: x=168 y=165 4
+Coordonates: x=324 y=426
 
-Coordonates: x=178 y=174 4
+Coordonates: x=338 y=414
 
-Coordonates: x=172 y=168 4
+Coordonates: x=351 y=430
 
-Coordonates: x=176 y=174 4
+Coordonates: x=301 y=408
 
-Coordonates: x=186 y=159 4
+Coordonates: x=321 y=408
 
-Coordonates: x=157 y=153 4
+Coordonates: x=313 y=431
 
-Coordonates: x=191 y=178 4
+Coordonates: x=312 y=423
 
-Coordonates: x=182 y=178 4
+Coordonates: x=312 y=420
 
-Coordonates: x=181 y=164 4
+Coordonates: x=332 y=434
 
-Coordonates: x=203 y=156 4
+Coordonates: x=327 y=400
 
-Coordonates: x=213 y=184 4
+Coordonates: x=321 y=425
 
-Coordonates: x=179 y=153 4
+Coordonates: x=326 y=423
 
-Coordonates: x=145 y=146 4
+Coordonates: x=336 y=420
 
-Coordonates: x=157 y=183 4
+Coordonates: x=332 y=408
 
-Coordonates: x=174 y=167 4
+Coordonates: x=329 y=416
 
-Coordonates: x=167 y=165 4
+Coordonates: x=313 y=424
 
-Coordonates: x=203 y=163 4
+Coordonates: x=307 y=408
 
-Coordonates: x=169 y=170 4
+Coordonates: x=324 y=424
 
-Coordonates: x=162 y=173 4
+Coordonates: x=323 y=426
 
-Coordonates: x=189 y=155 4
+Coordonates: x=340 y=415
 
-Coordonates: x=173 y=156 4
+Coordonates: x=328 y=421
 
-Coordonates: x=141 y=199 4
+Coordonates: x=331 y=424
 
-Coordonates: x=179 y=119 4
+Coordonates: x=337 y=429
 
-Coordonates: x=179 y=171 4
+Coordonates: x=318 y=423
 
-Coordonates: x=168 y=148 4
+Coordonates: x=313 y=431
 
-Coordonates: x=148 y=160 4
+Coordonates: x=316 y=414
 
-Coordonates: x=182 y=173 4
+Coordonates: x=326 y=417
 
-Coordonates: x=199 y=174 4
+Coordonates: x=314 y=415
 
-Coordonates: x=160 y=171 4
+Coordonates: x=354 y=411
 
-Coordonates: x=186 y=157 4
+Coordonates: x=309 y=417
 
-Coordonates: x=162 y=166 4
+Coordonates: x=313 y=423
 
-Coordonates: x=156 y=175 4
+Coordonates: x=339 y=420
 
-Coordonates: x=170 y=181 4
+Coordonates: x=344 y=428
 
-Coordonates: x=154 y=163 4
+Coordonates: x=311 y=410
 
-Coordonates: x=175 y=169 4
+Coordonates: x=323 y=402
 
-Coordonates: x=194 y=160 4
+Coordonates: x=321 y=416
 
-Coordonates: x=177 y=181 4
+Coordonates: x=326 y=428
 
-Coordonates: x=194 y=169 4
+Coordonates: x=336 y=422
 
-Coordonates: x=181 y=149 4
+Coordonates: x=316 y=416
 
-Coordonates: x=150 y=174 4
+Coordonates: x=337 y=429
 
-Coordonates: x=146 y=172 4
+Coordonates: x=302 y=421
 
-Coordonates: x=179 y=149 4
+Coordonates: x=325 y=435
 
-Coordonates: x=166 y=160 4
+Coordonates: x=326 y=418
 
-Coordonates: x=175 y=171 4
+Coordonates: x=346 y=416
 
-Coordonates: x=182 y=153 4
+Coordonates: x=326 y=414
 
-Coordonates: x=179 y=162 4
+Coordonates: x=350 y=431
 
-Coordonates: x=191 y=160 4
+Coordonates: x=345 y=429
 
-Coordonates: x=176 y=139 4
+Coordonates: x=326 y=420
 
-Coordonates: x=175 y=180 4
+Coordonates: x=333 y=429
 
-Coordonates: x=185 y=165 4
+Coordonates: x=332 y=415
 
-Coordonates: x=175 y=175 4
+Coordonates: x=305 y=410
 
-Coordonates: x=203 y=160 4
+Coordonates: x=336 y=414
 
-Coordonates: x=156 y=169 4
+Coordonates: x=315 y=440
 
-Coordonates: x=184 y=156 4
+Coordonates: x=313 y=410
 
-Coordonates: x=180 y=181 4
+Coordonates: x=333 y=424
 
-Coordonates: x=160 y=154 4
+Coordonates: x=313 y=421
 
-Coordonates: x=174 y=153 4
+Coordonates: x=324 y=431
 
-Coordonates: x=174 y=166 4
+Coordonates: x=330 y=419
 
-Coordonates: x=148 y=163 4
+Coordonates: x=343 y=439
 
-Coordonates: x=201 y=146 4
+Coordonates: x=341 y=423
 
-Coordonates: x=131 y=183 4
+Coordonates: x=308 y=412
 
-Coordonates: x=159 y=184 4
+Coordonates: x=314 y=412
 
-Coordonates: x=189 y=143 4
+Coordonates: x=324 y=421
 
-Coordonates: x=180 y=180 4
+Coordonates: x=329 y=421
 
-Coordonates: x=185 y=172 4
+Coordonates: x=311 y=411
 
-Coordonates: x=171 y=179 4
+Coordonates: x=347 y=419
 
-Coordonates: x=176 y=188 4
+Coordonates: x=346 y=416
 
-Coordonates: x=175 y=156 4
+Coordonates: x=344 y=404
 
-Coordonates: x=186 y=153 4
+Coordonates: x=330 y=417
 
-Coordonates: x=185 y=168 4
+Coordonates: x=318 y=419
 
-Coordonates: x=166 y=167 4
+Coordonates: x=323 y=399
 
-Coordonates: x=184 y=182 4
+Coordonates: x=333 y=427
 
-Coordonates: x=146 y=182 4
+Coordonates: x=329 y=421
 
-Coordonates: x=188 y=165 4
+Coordonates: x=342 y=415
 
-Coordonates: x=180 y=161 4
+Coordonates: x=294 y=412
 
-Coordonates: x=174 y=185 4
+Coordonates: x=316 y=423
 
-Coordonates: x=163 y=164 4
+Coordonates: x=308 y=416
 
-Coordonates: x=194 y=150 4
+Coordonates: x=328 y=415
 
-Coordonates: x=172 y=174 4
+Coordonates: x=339 y=426
 
-Coordonates: x=187 y=159 4
+Coordonates: x=329 y=409
 
-Coordonates: x=178 y=135 4
+Coordonates: x=340 y=434
 
-Coordonates: x=164 y=153 4
+Coordonates: x=328 y=426
 
-Coordonates: x=191 y=131 4
+Coordonates: x=328 y=417
 
-Coordonates: x=165 y=186 4
+Coordonates: x=317 y=423
 
-Coordonates: x=153 y=147 4
+Coordonates: x=315 y=429
 
-Coordonates: x=164 y=168 4
+Coordonates: x=307 y=408
 
-Coordonates: x=178 y=161 4
+Coordonates: x=334 y=423
 
-Coordonates: x=169 y=144 4
+Coordonates: x=319 y=416
 
-Coordonates: x=141 y=164 4
+Coordonates: x=332 y=416
 
-Coordonates: x=152 y=164 4
+Coordonates: x=323 y=430
 
-Coordonates: x=175 y=174 4
+Coordonates: x=319 y=434
 
-Coordonates: x=162 y=178 4
+Coordonates: x=318 y=419
 
-Coordonates: x=190 y=163 4
+Coordonates: x=335 y=413
 
-Coordonates: x=144 y=173 4
+Coordonates: x=304 y=430
 
-Coordonates: x=177 y=192 4
+Coordonates: x=316 y=433
 
-Coordonates: x=171 y=183 4
+Coordonates: x=348 y=416
 
-Coordonates: x=168 y=167 4
+Coordonates: x=357 y=416
 
-Coordonates: x=195 y=138 4
+Coordonates: x=310 y=414
 
-Coordonates: x=192 y=184 4
+Coordonates: x=332 y=418
 
-Coordonates: x=176 y=158 4
+Coordonates: x=318 y=446
 
-Coordonates: x=156 y=151 4
+Coordonates: x=329 y=421
 
-Coordonates: x=213 y=160 4
+Coordonates: x=334 y=424
 
-Coordonates: x=161 y=158 4
+Coordonates: x=335 y=419
 
-Coordonates: x=152 y=162 4
+Coordonates: x=335 y=409
 
-Coordonates: x=174 y=169 4
+Coordonates: x=327 y=418
 
-Coordonates: x=180 y=165 4
+Coordonates: x=322 y=410
 
-Coordonates: x=156 y=144 4
+Coordonates: x=329 y=418
 
-Coordonates: x=183 y=179 4
+Coordonates: x=316 y=420
 
-Coordonates: x=193 y=155 4
+Coordonates: x=315 y=413
 
-Coordonates: x=160 y=157 4
+Coordonates: x=320 y=418
 
-Coordonates: x=162 y=146 4
+Coordonates: x=328 y=419
 
-Coordonates: x=166 y=162 4
+Coordonates: x=333 y=417
 
-Coordonates: x=174 y=171 4
+Coordonates: x=342 y=420
 
-Coordonates: x=189 y=168 4
+Coordonates: x=346 y=409
 
-Coordonates: x=170 y=172 4
+Coordonates: x=324 y=432
 
-Coordonates: x=161 y=145 4
+Coordonates: x=318 y=418
 
-Coordonates: x=165 y=180 4
+Coordonates: x=319 y=407
 
-Coordonates: x=188 y=166 4
+Coordonates: x=326 y=392
 
-Coordonates: x=203 y=170 4
+Coordonates: x=318 y=427
 
-Coordonates: x=181 y=157 4
+Coordonates: x=330 y=421
 
-Coordonates: x=164 y=158 4
+Coordonates: x=337 y=427
 
-Coordonates: x=198 y=183 4
+Coordonates: x=316 y=427
 
-Coordonates: x=167 y=164 4
+Coordonates: x=324 y=432
 
-Coordonates: x=167 y=178 4
+Coordonates: x=336 y=420
 
-Coordonates: x=165 y=175 4
+Coordonates: x=317 y=442
 
-Coordonates: x=161 y=147 4
+Coordonates: x=316 y=421
 
-Coordonates: x=137 y=177 4
+Coordonates: x=315 y=421
 
-Coordonates: x=168 y=169 4
+Coordonates: x=320 y=435
 
-Coordonates: x=187 y=169 4
+Coordonates: x=318 y=423
 
-Coordonates: x=197 y=190 4
+Coordonates: x=331 y=423
 
-Coordonates: x=161 y=160 4
+Coordonates: x=304 y=436
 
-Coordonates: x=157 y=151 4
+Coordonates: x=339 y=423
 
-Coordonates: x=156 y=188 4
+Coordonates: x=349 y=427
 
-Coordonates: x=140 y=156 4
+Coordonates: x=347 y=425
 
-Coordonates: x=155 y=169 4
+Coordonates: x=327 y=437
 
-Coordonates: x=163 y=149 4
+Coordonates: x=322 y=411
 
-Coordonates: x=172 y=171 4
+Coordonates: x=319 y=417
 
-Coordonates: x=193 y=166 4
+Coordonates: x=317 y=402
 
-Coordonates: x=177 y=152 4
+Coordonates: x=329 y=406
 
-Coordonates: x=161 y=184 4
+Coordonates: x=340 y=428
 
-Coordonates: x=184 y=166 4
+Coordonates: x=346 y=408
 
-Coordonates: x=212 y=173 4
+Coordonates: x=334 y=424
 
-Coordonates: x=180 y=169 4
+Coordonates: x=325 y=421
 
-Coordonates: x=179 y=170 4
+Coordonates: x=310 y=416
 
-Coordonates: x=175 y=163 4
+Coordonates: x=337 y=428
 
-Coordonates: x=180 y=163 4
+Coordonates: x=324 y=406
 
-Coordonates: x=204 y=143 4
+Coordonates: x=319 y=409
 
-Coordonates: x=140 y=181 4
+Coordonates: x=324 y=426
 
-Coordonates: x=148 y=176 4
+Coordonates: x=310 y=410
 
-Coordonates: x=182 y=176 4
+Coordonates: x=328 y=427
 
-Coordonates: x=164 y=153 4
+Coordonates: x=344 y=417
 
-Coordonates: x=183 y=166 4
+Coordonates: x=342 y=422
 
-Coordonates: x=180 y=183 4
+Coordonates: x=333 y=422
 
-Coordonates: x=189 y=185 4
+Coordonates: x=332 y=415
 
-Coordonates: x=187 y=151 4
+Coordonates: x=324 y=423
 
-Coordonates: x=158 y=171 4
+Coordonates: x=355 y=381
 
-Coordonates: x=166 y=165 4
+Coordonates: x=325 y=426
 
-Coordonates: x=209 y=166 4
+Coordonates: x=320 y=410
 
-Coordonates: x=185 y=166 4
+Coordonates: x=346 y=419
 
-Coordonates: x=177 y=168 4
+Coordonates: x=314 y=421
 
-Coordonates: x=180 y=167 4
+Coordonates: x=327 y=429
 
-Coordonates: x=186 y=155 4
+Coordonates: x=322 y=409
 
-Coordonates: x=193 y=168 4
+Coordonates: x=348 y=422
 
-Coordonates: x=189 y=174 4
+Coordonates: x=331 y=401
 
-Coordonates: x=190 y=190 4
+Coordonates: x=336 y=400
 
-Coordonates: x=179 y=175 4
+Coordonates: x=291 y=427
 
-Coordonates: x=167 y=188 4
+Coordonates: x=326 y=410
 
-Coordonates: x=166 y=183 4
+Coordonates: x=319 y=410
 
-Coordonates: x=149 y=166 4
+Coordonates: x=324 y=424
 
-Coordonates: x=190 y=169 4
+Coordonates: x=339 y=412
 
-Coordonates: x=162 y=165 4
+Coordonates: x=336 y=434
 
-Coordonates: x=166 y=160 4
+Coordonates: x=312 y=427
 
-Coordonates: x=179 y=196 4
+Coordonates: x=328 y=419
 
-Coordonates: x=162 y=145 4
+Coordonates: x=315 y=417
 
-Coordonates: x=179 y=155 4
+Coordonates: x=330 y=409
 
-Coordonates: x=197 y=150 4
+Coordonates: x=335 y=394
 
-Coordonates: x=187 y=163 4
+Coordonates: x=317 y=433
 
-Coordonates: x=159 y=154 4
+Coordonates: x=318 y=424
 
-Coordonates: x=183 y=172 4
+Coordonates: x=316 y=418
 
-Coordonates: x=172 y=160 4
+Coordonates: x=341 y=414
 
-Coordonates: x=154 y=159 4
+Coordonates: x=318 y=411
 
-Coordonates: x=149 y=152 4
+Coordonates: x=296 y=416
 
-Coordonates: x=185 y=148 4
+Coordonates: x=325 y=393
 
-Coordonates: x=133 y=171 4
+Coordonates: x=323 y=401
 
-Coordonates: x=177 y=180 4
+Coordonates: x=323 y=412
 
-Coordonates: x=157 y=172 4
+Coordonates: x=311 y=439
 
-Coordonates: x=148 y=168 4
+Coordonates: x=327 y=424
 
-Coordonates: x=155 y=159 4
+Coordonates: x=328 y=412
 
-Coordonates: x=174 y=145 4
+Coordonates: x=320 y=420
 
-Coordonates: x=164 y=158 4
+Coordonates: x=336 y=423
 
-Coordonates: x=175 y=154 4
+Coordonates: x=324 y=424
 
-Coordonates: x=157 y=189 4
+Coordonates: x=326 y=421
 
-Coordonates: x=165 y=172 4
+Coordonates: x=340 y=415
 
-Coordonates: x=188 y=167 4
+Coordonates: x=345 y=417
 
-Coordonates: x=201 y=170 4
+Coordonates: x=305 y=413
 
-Coordonates: x=170 y=184 4
+Coordonates: x=323 y=422
 
-Coordonates: x=152 y=174 4
+Coordonates: x=320 y=403
 
-Coordonates: x=172 y=147 4
+Coordonates: x=323 y=421
 
-Coordonates: x=177 y=166 4
+Coordonates: x=318 y=417
 
-Coordonates: x=179 y=167 4
+Coordonates: x=319 y=405
 
-Coordonates: x=162 y=165 4
+Coordonates: x=320 y=410
 
-Coordonates: x=192 y=176 4
+Coordonates: x=324 y=425
 
-Coordonates: x=182 y=154 4
+Coordonates: x=336 y=418
 
-Coordonates: x=182 y=145 4
+Coordonates: x=324 y=409
 
-Coordonates: x=169 y=152 4
+Coordonates: x=318 y=425
 
-Coordonates: x=123 y=142 4
+Coordonates: x=342 y=424
 
-Coordonates: x=157 y=178 4
+Coordonates: x=319 y=412
 
-Coordonates: x=163 y=158 4
+Coordonates: x=312 y=418
 
-Coordonates: x=170 y=164 4
+Coordonates: x=328 y=407
 
-Coordonates: x=157 y=157 4
+Coordonates: x=325 y=422
 
-Coordonates: x=178 y=159 4
+Coordonates: x=341 y=420
 
-Coordonates: x=168 y=150 4
+Coordonates: x=323 y=394
 
-Coordonates: x=149 y=143 4
+Coordonates: x=319 y=424
 
-Coordonates: x=189 y=173 4
+Coordonates: x=339 y=403
 
-Coordonates: x=153 y=158 4
+Coordonates: x=323 y=424
 
-Coordonates: x=190 y=158 4
+Coordonates: x=337 y=435
 
-Coordonates: x=158 y=167 4
+Coordonates: x=329 y=416
 
-Coordonates: x=171 y=176 4
+Coordonates: x=329 y=425
 
-Coordonates: x=169 y=169 4
+Coordonates: x=301 y=415
 
-Coordonates: x=186 y=173 4
+Coordonates: x=324 y=420
 
-Coordonates: x=187 y=175 4
+Coordonates: x=332 y=435
 
-Coordonates: x=182 y=160 4
+Coordonates: x=314 y=430
 
-Coordonates: x=152 y=175 4
+Coordonates: x=323 y=421
 
-Coordonates: x=155 y=147 4
+Coordonates: x=316 y=418
 
-Coordonates: x=153 y=179 4
+Coordonates: x=321 y=418
 
-Coordonates: x=196 y=166 4
+Coordonates: x=315 y=435
 
-Coordonates: x=170 y=147 4
+Coordonates: x=341 y=424
 
-Coordonates: x=192 y=149 4
+Coordonates: x=317 y=406
 
-Coordonates: x=155 y=169 4
+Coordonates: x=331 y=423
 
-Coordonates: x=184 y=175 4
+Coordonates: x=331 y=414
 
-Coordonates: x=159 y=154 4
+Coordonates: x=315 y=412
 
-Coordonates: x=187 y=169 4
+Coordonates: x=330 y=429
 
-Coordonates: x=166 y=169 4
+Coordonates: x=342 y=437
 
-Coordonates: x=167 y=172 4
+Coordonates: x=342 y=415
 
-Coordonates: x=187 y=163 4
+Coordonates: x=331 y=423
 
-Coordonates: x=189 y=168 4
+Coordonates: x=301 y=397
 
-Coordonates: x=194 y=175 4
+Coordonates: x=317 y=416
 
-Coordonates: x=162 y=169 4
+Coordonates: x=330 y=454
 
-Coordonates: x=192 y=177 4
+Coordonates: x=327 y=430
 
-Coordonates: x=171 y=172 4
+Coordonates: x=337 y=411
 
-Coordonates: x=178 y=174 4
+Coordonates: x=329 y=414
 
-Coordonates: x=168 y=150 4
+Coordonates: x=313 y=424
 
-Coordonates: x=146 y=175 4
+Coordonates: x=340 y=430
 
-Coordonates: x=164 y=171 4
+Coordonates: x=307 y=425
 
-Coordonates: x=142 y=181 4
+Coordonates: x=339 y=423
 
-Coordonates: x=189 y=181 4
+Coordonates: x=331 y=414
 
-Coordonates: x=188 y=162 4
+Coordonates: x=333 y=407
 
-Coordonates: x=173 y=165 4
+Coordonates: x=314 y=433
 
-Coordonates: x=157 y=163 4
+Coordonates: x=336 y=434
 
-Coordonates: x=191 y=167 4
+Coordonates: x=305 y=430
 
-Coordonates: x=170 y=144 4
+Coordonates: x=328 y=420
 
-Coordonates: x=158 y=184 4
+Coordonates: x=320 y=415
 
-Coordonates: x=180 y=169 4
+Coordonates: x=325 y=426
 
-Coordonates: x=214 y=149 4
+Coordonates: x=335 y=435
 
-Coordonates: x=185 y=183 4
+Coordonates: x=352 y=436
 
-Coordonates: x=175 y=167 4
+Coordonates: x=321 y=419
 
-Coordonates: x=163 y=184 4
+Coordonates: x=331 y=418
 
-Coordonates: x=196 y=164 4
+Coordonates: x=330 y=412
 
-Coordonates: x=189 y=180 4
+Coordonates: x=300 y=432
 
-Coordonates: x=176 y=169 4
+Coordonates: x=315 y=429
 
-Coordonates: x=177 y=166 4
+Coordonates: x=314 y=432
 
-Coordonates: x=193 y=159 4
+Coordonates: x=329 y=417
 
-Coordonates: x=199 y=183 4
+Coordonates: x=332 y=426
 
-Coordonates: x=175 y=188 4
+Coordonates: x=311 y=392
 
-Coordonates: x=158 y=195 4
+Coordonates: x=327 y=417
 
-Coordonates: x=181 y=163 4
+Coordonates: x=340 y=424
 
-Coordonates: x=168 y=159 4
+Coordonates: x=338 y=430
 
-Coordonates: x=170 y=168 4
+Coordonates: x=329 y=432
 
-Coordonates: x=158 y=167 4
+Coordonates: x=316 y=427
 
-Coordonates: x=164 y=169 4
+Coordonates: x=345 y=424
 
-Coordonates: x=171 y=167 4
+Coordonates: x=328 y=401
 
-Coordonates: x=160 y=154 4
+Coordonates: x=332 y=439
 
-Coordonates: x=183 y=162 4
+Coordonates: x=341 y=426
 
-Coordonates: x=180 y=157 4
+Coordonates: x=342 y=420
 
-Coordonates: x=198 y=173 4
+Coordonates: x=327 y=420
 
-Coordonates: x=163 y=180 4
+Coordonates: x=311 y=428
 
-Coordonates: x=193 y=183 4
+Coordonates: x=326 y=418
 
-Coordonates: x=171 y=156 4
+Coordonates: x=331 y=421
 
-Coordonates: x=146 y=164 4
+Coordonates: x=343 y=415
 
-Coordonates: x=181 y=171 4
+Coordonates: x=309 y=415
 
-Coordonates: x=159 y=168 4
+Coordonates: x=324 y=416
 
-Coordonates: x=170 y=163 4
+Coordonates: x=324 y=407
 
-Coordonates: x=188 y=169 4
+Coordonates: x=354 y=443
 
-Coordonates: x=174 y=170 4
+Coordonates: x=326 y=432
 
-Coordonates: x=178 y=150 4
+Coordonates: x=325 y=426
 
-Coordonates: x=169 y=138 4
+Coordonates: x=307 y=420
 
-Coordonates: x=141 y=141 4
+Coordonates: x=311 y=408
 
-Coordonates: x=172 y=167 4
+Coordonates: x=328 y=430
 
-Coordonates: x=160 y=163 4
+Coordonates: x=329 y=427
 
-Coordonates: x=187 y=140 4
+Coordonates: x=334 y=433
 
-Coordonates: x=158 y=161 4
+Coordonates: x=302 y=424
 
-Coordonates: x=170 y=184 4
+Coordonates: x=322 y=426
 
-Coordonates: x=167 y=165 4
+Coordonates: x=320 y=416
 
-Coordonates: x=190 y=151 4
+Coordonates: x=322 y=411
 
-Coordonates: x=163 y=157 4
+Coordonates: x=322 y=429
 
-Coordonates: x=156 y=179 4
+Coordonates: x=323 y=423
 
-Coordonates: x=190 y=147 4
+Coordonates: x=323 y=420
 
-Coordonates: x=176 y=178 4
+Coordonates: x=317 y=432
 
-Coordonates: x=162 y=146 4
+Coordonates: x=328 y=429
 
-Coordonates: x=150 y=170 4
+Coordonates: x=327 y=414
 
-Coordonates: x=176 y=161 4
+Coordonates: x=312 y=402
 
-Coordonates: x=180 y=158 4
+Coordonates: x=329 y=403
 
-Coordonates: x=167 y=177 4
+Coordonates: x=335 y=420
 
-Coordonates: x=158 y=156 4
+Coordonates: x=320 y=416
 
-Coordonates: x=182 y=158 4
+Coordonates: x=326 y=411
 
-Coordonates: x=173 y=180 4
+Coordonates: x=319 y=437
 
-Coordonates: x=185 y=191 4
+Coordonates: x=329 y=418
 
-Coordonates: x=179 y=186 4
+Coordonates: x=322 y=418
 
-Coordonates: x=188 y=122 4
+Coordonates: x=300 y=401
 
-Coordonates: x=172 y=160 4
+Coordonates: x=323 y=434
 
-Coordonates: x=163 y=143 4
+Coordonates: x=335 y=413
 
-Coordonates: x=179 y=187 4
+Coordonates: x=336 y=425
 
-Coordonates: x=172 y=176 4
+Coordonates: x=333 y=419
 
-Coordonates: x=180 y=166 4
+Coordonates: x=335 y=423
 
-Coordonates: x=179 y=162 4
+Coordonates: x=333 y=424
 
-Coordonates: x=174 y=156 4
+Coordonates: x=329 y=419
 
-Coordonates: x=172 y=172 4
+Coordonates: x=318 y=436
 
-Coordonates: x=183 y=159 4
+Coordonates: x=342 y=436
 
-Coordonates: x=154 y=158 4
+Coordonates: x=304 y=414
 
-Coordonates: x=167 y=165 4
+Coordonates: x=335 y=408
 
-Coordonates: x=190 y=163 4
+Coordonates: x=331 y=409
 
-Coordonates: x=166 y=149 4
+Coordonates: x=326 y=413
 
-Coordonates: x=183 y=174 4
+Coordonates: x=305 y=415
 
-Coordonates: x=170 y=191 4
+Coordonates: x=322 y=430
 
-Coordonates: x=180 y=160 4
+Coordonates: x=330 y=415
 
-Coordonates: x=181 y=156 4
+Coordonates: x=311 y=415
 
-Coordonates: x=149 y=191 4
+Coordonates: x=333 y=412
 
-Coordonates: x=185 y=179 4
+Coordonates: x=318 y=409
 
-Coordonates: x=164 y=153 4
+Coordonates: x=324 y=412
 
-Coordonates: x=146 y=145 4
+Coordonates: x=317 y=416
 
-Coordonates: x=168 y=162 4
+Coordonates: x=342 y=419
 
-Coordonates: x=171 y=165 4
+Coordonates: x=335 y=407
 
-Coordonates: x=174 y=163 4
+Coordonates: x=313 y=407
 
-Coordonates: x=170 y=167 4
+Coordonates: x=314 y=425
 
-Coordonates: x=173 y=170 4
+Coordonates: x=319 y=421
 
-Coordonates: x=176 y=163 4
+Coordonates: x=330 y=433
 
-Coordonates: x=132 y=168 4
+Coordonates: x=345 y=422
 
-Coordonates: x=163 y=164 4
+Coordonates: x=301 y=410
 
-Coordonates: x=195 y=174 4
+Coordonates: x=316 y=408
 
-Coordonates: x=187 y=179 4
+Coordonates: x=308 y=419
 
-Coordonates: x=207 y=168 4
+Coordonates: x=308 y=422
 
-Coordonates: x=169 y=159 4
+Coordonates: x=330 y=421
 
-Coordonates: x=173 y=152 4
+Coordonates: x=324 y=416
 
-Coordonates: x=141 y=163 4
+Coordonates: x=329 y=401
 
-Coordonates: x=186 y=156 4
+Coordonates: x=319 y=412
 
-Coordonates: x=155 y=175 4
+Coordonates: x=328 y=413
 
-Coordonates: x=165 y=160 4
+Coordonates: x=315 y=410
 
-Coordonates: x=182 y=189 4
+Coordonates: x=329 y=425
 
-Coordonates: x=182 y=158 4
+Coordonates: x=309 y=448
 
-Coordonates: x=143 y=149 4
+Coordonates: x=317 y=424
 
-Coordonates: x=196 y=171 4
+Coordonates: x=323 y=437
 
-Coordonates: x=150 y=160 4
+Coordonates: x=320 y=424
 
-Coordonates: x=159 y=178 4
+Coordonates: x=333 y=425
 
-Coordonates: x=176 y=164 4
+Coordonates: x=311 y=421
 
-Coordonates: x=163 y=162 4
+Coordonates: x=326 y=432
 
-Coordonates: x=178 y=157 4
+Coordonates: x=325 y=411
 
-Coordonates: x=153 y=177 4
+Coordonates: x=352 y=432
 
-Coordonates: x=162 y=152 4
+Coordonates: x=322 y=403
 
-Coordonates: x=166 y=159 4
+Coordonates: x=324 y=413
 
-Coordonates: x=158 y=178 4
+Coordonates: x=324 y=422
 
-Coordonates: x=169 y=187 4
+Coordonates: x=339 y=416
 
-Coordonates: x=202 y=159 4
+Coordonates: x=335 y=419
 
-Coordonates: x=183 y=151 4
+Coordonates: x=317 y=411
 
-Coordonates: x=167 y=172 4
+Coordonates: x=307 y=411
 
-Coordonates: x=180 y=156 4
+Coordonates: x=315 y=402
 
-Coordonates: x=160 y=153 4
+Coordonates: x=327 y=412
 
-Coordonates: x=164 y=160 4
+Coordonates: x=326 y=426
 
-Coordonates: x=164 y=145 4
+Coordonates: x=338 y=408
 
-Coordonates: x=198 y=161 4
+Coordonates: x=326 y=421
 
-Coordonates: x=146 y=159 4
+Coordonates: x=330 y=406
 
-Coordonates: x=162 y=164 4
+Coordonates: x=337 y=402
 
-Coordonates: x=176 y=165 4
+Coordonates: x=327 y=407
 
-Coordonates: x=172 y=154 4
+Coordonates: x=330 y=428
 
-Coordonates: x=171 y=164 4
+Coordonates: x=324 y=421
 
-Coordonates: x=150 y=166 4
+Coordonates: x=313 y=415
 
-Coordonates: x=157 y=178 4
+Coordonates: x=325 y=418
 
-Coordonates: x=156 y=164 4
+Coordonates: x=316 y=405
 
-Coordonates: x=207 y=179 4
+Coordonates: x=336 y=409
 
-Coordonates: x=172 y=163 4
+Coordonates: x=313 y=405
 
-Coordonates: x=174 y=181 4
+Coordonates: x=324 y=427
 
-Coordonates: x=161 y=179 4
+Coordonates: x=328 y=416
 
-Coordonates: x=176 y=153 4
+Coordonates: x=330 y=415
 
-Coordonates: x=182 y=160 4
+Coordonates: x=339 y=411
 
-Coordonates: x=173 y=162 4
+Coordonates: x=302 y=436
 
-Coordonates: x=168 y=173 4
+Coordonates: x=312 y=421
 
-Coordonates: x=202 y=179 4
+Coordonates: x=336 y=438
 
-Coordonates: x=165 y=181 4
+Coordonates: x=341 y=416
 
-Coordonates: x=191 y=193 4
+Coordonates: x=335 y=409
 
-Coordonates: x=174 y=146 4
+Coordonates: x=324 y=445
 
-Coordonates: x=149 y=179 4
+Coordonates: x=323 y=411
 
-Coordonates: x=177 y=179 4
+Coordonates: x=337 y=424
 
-Coordonates: x=181 y=161 4
+Coordonates: x=338 y=412
 
-Coordonates: x=159 y=138 4
+Coordonates: x=309 y=424
 
-Coordonates: x=178 y=168 4
+Coordonates: x=314 y=420
 
-Coordonates: x=152 y=149 4
+Coordonates: x=318 y=428
 
-Coordonates: x=182 y=170 4
+Coordonates: x=318 y=410
 
-Coordonates: x=192 y=168 4
+Coordonates: x=334 y=418
 
-Coordonates: x=199 y=157 4
+Coordonates: x=334 y=407
 
-Coordonates: x=164 y=187 4
+Coordonates: x=325 y=423
 
-Coordonates: x=185 y=153 4
+Coordonates: x=328 y=419
 
-Coordonates: x=155 y=155 4
+Coordonates: x=312 y=422
 
-Coordonates: x=185 y=167 4
+Coordonates: x=316 y=418
 
-Coordonates: x=177 y=163 4
+Coordonates: x=335 y=430
 
-Coordonates: x=180 y=158 4
+Coordonates: x=336 y=424
 
-Coordonates: x=169 y=167 4
+Coordonates: x=333 y=412
 
-Coordonates: x=171 y=162 4
+Coordonates: x=335 y=429
 
-Coordonates: x=197 y=153 4
+Coordonates: x=355 y=411
 
-Coordonates: x=148 y=146 4
+Coordonates: x=338 y=418
 
-Coordonates: x=183 y=185 4
+Coordonates: x=328 y=402
 
-Coordonates: x=179 y=134 4
+Coordonates: x=330 y=420
 
-Coordonates: x=147 y=144 4
+Coordonates: x=323 y=420
 
-Coordonates: x=180 y=152 4
+Coordonates: x=322 y=421
 
-Coordonates: x=185 y=152 4
+Coordonates: x=345 y=426
 
-Coordonates: x=159 y=183 4
+Coordonates: x=310 y=421
 
-Coordonates: x=187 y=142 4
+Coordonates: x=334 y=429
 
-Coordonates: x=169 y=155 4
+Coordonates: x=321 y=408
 
-Coordonates: x=173 y=190 4
+Coordonates: x=344 y=412
 
-Coordonates: x=181 y=181 4
+Coordonates: x=335 y=406
 
-Coordonates: x=180 y=169 4
+Coordonates: x=308 y=410
 
-Coordonates: x=155 y=160 4
+Coordonates: x=339 y=415
 
-Coordonates: x=190 y=169 4
+Coordonates: x=340 y=402
 
-Coordonates: x=166 y=147 4
+Coordonates: x=333 y=406
 
-Coordonates: x=147 y=174 4
+Coordonates: x=333 y=426
 
-Coordonates: x=166 y=160 4
+Coordonates: x=335 y=435
 
-Coordonates: x=173 y=185 4
+Coordonates: x=331 y=419
 
-Coordonates: x=197 y=159 4
+Coordonates: x=334 y=445
 
-Coordonates: x=191 y=157 4
+Coordonates: x=346 y=423
 
-Coordonates: x=163 y=166 4
+Coordonates: x=313 y=398
 
-Coordonates: x=178 y=179 4
+Coordonates: x=310 y=421
 
-Coordonates: x=143 y=161 4
+Coordonates: x=324 y=414
 
-Coordonates: x=184 y=170 4
+Coordonates: x=342 y=424
 
-Coordonates: x=170 y=175 4
+Coordonates: x=317 y=424
 
-Coordonates: x=155 y=171 4
+Coordonates: x=321 y=412
 
-Coordonates: x=174 y=180 4
+Coordonates: x=334 y=418
 
-Coordonates: x=159 y=157 4
+Coordonates: x=328 y=411
 
-Coordonates: x=162 y=147 4
+Coordonates: x=352 y=425
 
-Coordonates: x=164 y=180 4
+Coordonates: x=315 y=422
 
-Coordonates: x=167 y=157 4
+Coordonates: x=358 y=422
 
-Coordonates: x=203 y=148 4
+Coordonates: x=326 y=415
 
-Coordonates: x=161 y=174 4
+Coordonates: x=327 y=417
 
-Coordonates: x=169 y=160 4
+Coordonates: x=319 y=409
 
-Coordonates: x=174 y=153 4
+Coordonates: x=333 y=418
 
-Coordonates: x=171 y=160 4
+Coordonates: x=329 y=424
 
-Coordonates: x=173 y=169 4
+Coordonates: x=320 y=431
 
-Coordonates: x=197 y=160 4
+Coordonates: x=329 y=409
 
-Coordonates: x=179 y=159 4
+Coordonates: x=345 y=421
 
-Coordonates: x=159 y=160 4
+Coordonates: x=350 y=430
 
-Coordonates: x=191 y=150 4
+Coordonates: x=324 y=429
 
-Coordonates: x=176 y=165 4
+Coordonates: x=315 y=410
 
-Coordonates: x=160 y=170 4
+Coordonates: x=313 y=400
 
-Coordonates: x=151 y=165 4
+Coordonates: x=324 y=432
 
-Coordonates: x=137 y=158 4
+Coordonates: x=334 y=411
 
-Coordonates: x=180 y=192 4
+Coordonates: x=342 y=421
 
-Coordonates: x=161 y=167 4
+Coordonates: x=341 y=413
 
-Coordonates: x=174 y=167 4
+Coordonates: x=338 y=423
 
-Coordonates: x=139 y=153 4
+Coordonates: x=326 y=430
 
-Coordonates: x=166 y=176 4
+Coordonates: x=343 y=439
 
-Coordonates: x=180 y=168 4
+Coordonates: x=350 y=420
 
-Coordonates: x=172 y=152 4
+Coordonates: x=331 y=410
 
-Coordonates: x=142 y=157 4
+Coordonates: x=313 y=416
 
-Coordonates: x=190 y=146 4
+Coordonates: x=319 y=405
 
-Coordonates: x=168 y=155 4
+Coordonates: x=322 y=409
 
-Coordonates: x=179 y=146 4
+Coordonates: x=336 y=414
 
-Coordonates: x=185 y=186 4
+Coordonates: x=334 y=435
 
-Coordonates: x=179 y=169 4
+Coordonates: x=340 y=429
 
-Coordonates: x=175 y=142 4
+Coordonates: x=323 y=417
 
-Coordonates: x=188 y=166 4
+Coordonates: x=324 y=414
 
-Coordonates: x=169 y=179 4
+Coordonates: x=328 y=426
 
-Coordonates: x=182 y=146 4
+Coordonates: x=309 y=417
 
-Coordonates: x=148 y=161 4
+Coordonates: x=319 y=404
 
-Coordonates: x=146 y=197 4
+Coordonates: x=329 y=413
 
-Coordonates: x=183 y=143 4
+Coordonates: x=321 y=437
 
-Coordonates: x=177 y=170 4
+Coordonates: x=341 y=395
 
-Coordonates: x=191 y=164 4
+Coordonates: x=299 y=424
 
-Coordonates: x=160 y=153 4
+Coordonates: x=329 y=410
 
-Coordonates: x=208 y=170 4
+Coordonates: x=328 y=428
 
-Coordonates: x=183 y=190 4
+Coordonates: x=325 y=423
 
-Coordonates: x=162 y=142 4
+Coordonates: x=318 y=408
 
-Coordonates: x=170 y=158 4
+Coordonates: x=340 y=417
 
-Coordonates: x=179 y=167 4
+Coordonates: x=322 y=416
 
-Coordonates: x=159 y=159 4
+Coordonates: x=314 y=413
 
-Coordonates: x=171 y=177 4
+Coordonates: x=320 y=441
 
-Coordonates: x=171 y=168 4
+Coordonates: x=316 y=419
 
-Coordonates: x=169 y=145 4
+Coordonates: x=313 y=423
 
-Coordonates: x=183 y=161 4
+Coordonates: x=345 y=421
 
-Coordonates: x=176 y=173 4
+Coordonates: x=320 y=409
 
-Coordonates: x=193 y=153 4
+Coordonates: x=313 y=419
 
-Coordonates: x=164 y=183 4
+Coordonates: x=313 y=419
 
-Coordonates: x=176 y=160 4
+Coordonates: x=306 y=427
 
-Coordonates: x=182 y=156 4
+Coordonates: x=320 y=407
 
-Coordonates: x=165 y=149 4
+Coordonates: x=313 y=405
 
-Coordonates: x=185 y=160 4
+Coordonates: x=338 y=428
 
-Coordonates: x=165 y=144 4
+Coordonates: x=317 y=425
 
-Coordonates: x=174 y=184 4
+Coordonates: x=314 y=429
 
-Coordonates: x=153 y=157 4
+Coordonates: x=360 y=410
 
-Coordonates: x=186 y=182 4
+Coordonates: x=327 y=400
 
-Coordonates: x=164 y=178 4
+Coordonates: x=322 y=420
 
-Coordonates: x=188 y=182 4
+Coordonates: x=322 y=416
 
-Coordonates: x=170 y=151 4
+Coordonates: x=337 y=408
 
-Coordonates: x=171 y=154 4
+Coordonates: x=304 y=432
 
-Coordonates: x=153 y=173 4
+Coordonates: x=312 y=412
 
-Coordonates: x=162 y=159 4
+Coordonates: x=323 y=409
 
-Coordonates: x=181 y=177 4
+Coordonates: x=330 y=403
 
-Coordonates: x=183 y=136 4
+Coordonates: x=314 y=419
 
-Coordonates: x=168 y=150 4
+Coordonates: x=333 y=431
 
-Coordonates: x=175 y=159 4
+Coordonates: x=314 y=413
 
-Coordonates: x=183 y=185 4
+Coordonates: x=326 y=427
 
-Coordonates: x=171 y=172 4
+Coordonates: x=331 y=430
 
-Coordonates: x=143 y=176 4
+Coordonates: x=331 y=435
 
-Coordonates: x=162 y=156 4
+Coordonates: x=338 y=427
 
-Coordonates: x=163 y=181 4
+Coordonates: x=333 y=422
 
-Coordonates: x=171 y=177 4
+Coordonates: x=330 y=428
 
-Coordonates: x=177 y=163 4
+Coordonates: x=341 y=412
 
-Coordonates: x=158 y=178 4
+Coordonates: x=325 y=417
 
-Coordonates: x=211 y=172 4
+Coordonates: x=319 y=437
 
-Coordonates: x=170 y=169 4
+Coordonates: x=335 y=417
 
-Coordonates: x=170 y=172 4
+Coordonates: x=328 y=407
 
-Coordonates: x=180 y=136 4
+Coordonates: x=331 y=417
 
-Coordonates: x=147 y=185 4
+Coordonates: x=344 y=431
 
-Coordonates: x=169 y=151 4
+Coordonates: x=316 y=437
 
-Coordonates: x=169 y=161 4
+Coordonates: x=334 y=421
 
-Coordonates: x=138 y=160 4
+Coordonates: x=326 y=412
 
-Coordonates: x=192 y=152 4
+Coordonates: x=334 y=423
 
-Coordonates: x=183 y=165 4
+Coordonates: x=332 y=409
 
-Coordonates: x=159 y=164 4
+Coordonates: x=307 y=430
 
-Coordonates: x=186 y=177 4
+Coordonates: x=335 y=415
 
-Coordonates: x=177 y=152 4
+Coordonates: x=336 y=400
 
-Coordonates: x=168 y=166 4
+Coordonates: x=338 y=416
 
-Coordonates: x=170 y=157 4
+Coordonates: x=341 y=402
 
-Coordonates: x=172 y=152 4
+Coordonates: x=329 y=432
 
-Coordonates: x=197 y=172 4
+Coordonates: x=317 y=427
 
-Coordonates: x=151 y=185 4
+Coordonates: x=330 y=422
 
-Coordonates: x=177 y=173 4
+Coordonates: x=338 y=410
 
-Coordonates: x=197 y=182 4
+Coordonates: x=335 y=426
 
-Coordonates: x=178 y=183 4
+Coordonates: x=326 y=422
 
-Coordonates: x=176 y=154 4
+Coordonates: x=337 y=404
 
-Coordonates: x=179 y=177 4
+Coordonates: x=335 y=426
 
-Coordonates: x=195 y=169 4
+Coordonates: x=330 y=425
 
-Coordonates: x=180 y=167 4
+Coordonates: x=339 y=418
 
-Coordonates: x=191 y=172 4
+Coordonates: x=308 y=440
 
-Coordonates: x=168 y=174 4
+Coordonates: x=338 y=403
 
-Coordonates: x=194 y=160 4
+Coordonates: x=330 y=413
 
-Coordonates: x=160 y=134 4
+Coordonates: x=318 y=414
 
-Coordonates: x=166 y=170 4
+Coordonates: x=338 y=428
 
-Coordonates: x=183 y=159 4
+Coordonates: x=330 y=413
 
-Coordonates: x=181 y=169 4
+Coordonates: x=320 y=421
 
-Coordonates: x=176 y=169 4
+Coordonates: x=323 y=407
 
-Coordonates: x=159 y=172 4
+Coordonates: x=307 y=423
 
-Coordonates: x=176 y=147 4
+Coordonates: x=334 y=384
 
-Coordonates: x=171 y=160 4
+Coordonates: x=320 y=434
 
-Coordonates: x=180 y=183 4
+Coordonates: x=320 y=428
 
-Coordonates: x=176 y=173 4
+Coordonates: x=322 y=420
 
-Coordonates: x=182 y=162 4
+Coordonates: x=312 y=428
 
-Coordonates: x=173 y=179 4
+Coordonates: x=337 y=425
 
-Coordonates: x=183 y=167 4
+Coordonates: x=336 y=425
 
-Coordonates: x=175 y=181 4
+Coordonates: x=319 y=429
 
-Coordonates: x=185 y=178 4
+Coordonates: x=324 y=429
 
-Coordonates: x=199 y=176 4
+Coordonates: x=335 y=429
 
-Coordonates: x=170 y=149 4
+Coordonates: x=327 y=437
 
-Coordonates: x=162 y=170 4
+Coordonates: x=330 y=422
 
-Coordonates: x=170 y=150 4
+Coordonates: x=328 y=419
 
-Coordonates: x=167 y=170 4
+Coordonates: x=324 y=409
 
-Coordonates: x=181 y=164 4
+Coordonates: x=336 y=435
 
-Coordonates: x=180 y=185 4
+Coordonates: x=325 y=418
 
-Coordonates: x=173 y=163 4
+Coordonates: x=329 y=426
 
-Coordonates: x=190 y=160 4
+Coordonates: x=330 y=432
 
-Coordonates: x=174 y=158 4
+Coordonates: x=336 y=427
 
-Coordonates: x=164 y=162 4
+Coordonates: x=312 y=403
 
-Coordonates: x=173 y=145 4
+Coordonates: x=338 y=418
 
-Coordonates: x=163 y=194 4
+Coordonates: x=336 y=401
 
-Coordonates: x=166 y=159 4
+Coordonates: x=342 y=426
 
-Coordonates: x=171 y=157 4
+Coordonates: x=349 y=433
 
-Coordonates: x=195 y=157 4
+Coordonates: x=324 y=413
 
-Coordonates: x=148 y=128 4
+Coordonates: x=313 y=421
 
-Coordonates: x=170 y=150 4
+Coordonates: x=315 y=438
 
-Coordonates: x=170 y=159 4
+Coordonates: x=308 y=445
 
-Coordonates: x=180 y=165 4
+Coordonates: x=326 y=447
 
-Coordonates: x=145 y=166 4
+Coordonates: x=341 y=415
 
-Coordonates: x=178 y=168 4
+Coordonates: x=332 y=410
 
-Coordonates: x=180 y=168 4
+Coordonates: x=320 y=423
 
-Coordonates: x=167 y=157 4
+Coordonates: x=333 y=427
 
-Coordonates: x=166 y=192 4
+Coordonates: x=336 y=406
 
-Coordonates: x=166 y=174 4
+Coordonates: x=309 y=412
 
-Coordonates: x=173 y=137 4
+Coordonates: x=332 y=415
 
-Coordonates: x=149 y=162 4
+Coordonates: x=307 y=421
 
-Coordonates: x=172 y=177 4
+Coordonates: x=326 y=421
 
-Coordonates: x=164 y=171 4
+Coordonates: x=347 y=422
 
-Coordonates: x=180 y=167 4
+Coordonates: x=302 y=425
 
-Coordonates: x=164 y=172 4
+Coordonates: x=316 y=412
 
-Coordonates: x=160 y=179 4
+Coordonates: x=316 y=415
 
-Coordonates: x=175 y=152 4
+Coordonates: x=332 y=427
 
-Coordonates: x=182 y=163 4
+Coordonates: x=318 y=421
 
-Coordonates: x=170 y=138 4
+Coordonates: x=334 y=418
 
-Coordonates: x=173 y=161 4
+Coordonates: x=307 y=424
 
-Coordonates: x=157 y=190 4
+Coordonates: x=337 y=409
 
-Coordonates: x=191 y=158 4
+Coordonates: x=331 y=410
 
-Coordonates: x=179 y=185 4
+Coordonates: x=332 y=420
 
-Coordonates: x=187 y=171 4
+Coordonates: x=325 y=418
 
-Coordonates: x=191 y=152 4
+Coordonates: x=328 y=412
 
-Coordonates: x=202 y=167 4
+Coordonates: x=306 y=416
 
-Coordonates: x=190 y=137 4
+Coordonates: x=328 y=414
 
-Coordonates: x=150 y=183 4
+Coordonates: x=353 y=427
 
-Coordonates: x=165 y=161 4
+Coordonates: x=325 y=419
 
-Coordonates: x=191 y=165 4
+Coordonates: x=306 y=404
 
-Coordonates: x=162 y=163 4
+Coordonates: x=341 y=420
 
-Coordonates: x=168 y=177 4
+Coordonates: x=319 y=434
 
-Coordonates: x=167 y=146 4
+Coordonates: x=337 y=410
 
-Coordonates: x=177 y=184 4
+Coordonates: x=338 y=412
 
-Coordonates: x=163 y=167 4
+Coordonates: x=324 y=424
 
-Coordonates: x=164 y=175 4
+Coordonates: x=335 y=434
 
-Coordonates: x=187 y=178 4
+Coordonates: x=350 y=421
 
-Coordonates: x=174 y=156 4
+Coordonates: x=342 y=410
 
-Coordonates: x=199 y=145 4
+Coordonates: x=321 y=406
 
-Coordonates: x=182 y=157 4
+Coordonates: x=313 y=413
 
-Coordonates: x=180 y=167 4
+Coordonates: x=323 y=418
 
-Coordonates: x=157 y=149 4
+Coordonates: x=339 y=424
 
-Coordonates: x=157 y=164 4
+Coordonates: x=334 y=432
 
-Coordonates: x=170 y=147 4
+Coordonates: x=314 y=433
 
-Coordonates: x=167 y=176 4
+Coordonates: x=301 y=420
 
-Coordonates: x=175 y=163 4
+Coordonates: x=310 y=430
 
-Coordonates: x=171 y=176 4
+Coordonates: x=337 y=425
 
-Coordonates: x=177 y=174 4
+Coordonates: x=337 y=432
 
-Coordonates: x=184 y=172 4
+Coordonates: x=305 y=428
 
-Coordonates: x=160 y=172 4
+Coordonates: x=340 y=417
 
-Coordonates: x=172 y=169 4
+Coordonates: x=340 y=439
 
-Coordonates: x=170 y=163 4
+Coordonates: x=326 y=410
 
-Coordonates: x=179 y=161 4
+Coordonates: x=308 y=431
 
-Coordonates: x=170 y=163 4
+Coordonates: x=320 y=424
 
-Coordonates: x=184 y=154 4
+Coordonates: x=319 y=421
 
-Coordonates: x=183 y=180 4
+Coordonates: x=329 y=434
 
-Coordonates: x=179 y=157 4
+Coordonates: x=326 y=414
 
-Coordonates: x=169 y=160 4
+Coordonates: x=326 y=414
 
-Coordonates: x=165 y=140 4
+Coordonates: x=322 y=407
 
-Coordonates: x=164 y=137 4
+Coordonates: x=308 y=430
 
-Coordonates: x=186 y=163 4
+Coordonates: x=312 y=444
 
-Coordonates: x=154 y=160 4
+Coordonates: x=334 y=430
 
-Coordonates: x=153 y=158 4
+Coordonates: x=327 y=421
 
-Coordonates: x=182 y=153 4
+Coordonates: x=326 y=410
 
-Coordonates: x=176 y=165 4
+Coordonates: x=325 y=406
 
-Coordonates: x=165 y=152 4
+Coordonates: x=339 y=419
 
-Coordonates: x=174 y=117 4
+Coordonates: x=332 y=416
 
-Coordonates: x=171 y=155 4
+Coordonates: x=314 y=408
 
-Coordonates: x=193 y=180 4
+Coordonates: x=333 y=414
 
-Coordonates: x=169 y=164 4
+Coordonates: x=318 y=428
 
-Coordonates: x=173 y=155 4
+Coordonates: x=351 y=428
 
-Coordonates: x=198 y=174 4
+Coordonates: x=307 y=409
 
-Coordonates: x=160 y=161 4
+Coordonates: x=331 y=430
 
-Coordonates: x=174 y=174 4
+Coordonates: x=323 y=397
 
-Coordonates: x=196 y=166 4
+Coordonates: x=308 y=419
 
-Coordonates: x=181 y=158 4
+Coordonates: x=335 y=427
 
-Coordonates: x=151 y=178 4
+Coordonates: x=329 y=425
 
-Coordonates: x=175 y=179 4
+Coordonates: x=316 y=405
 
-Coordonates: x=183 y=144 4
+Coordonates: x=315 y=415
 
-Coordonates: x=168 y=187 4
+Coordonates: x=337 y=417
 
-Coordonates: x=149 y=135 4
+Coordonates: x=349 y=414
 
-Coordonates: x=167 y=170 4
+Coordonates: x=335 y=426
 
-Coordonates: x=169 y=158 4
+Coordonates: x=341 y=427
 
-Coordonates: x=183 y=186 4
+Coordonates: x=339 y=426
 
-Coordonates: x=165 y=176 4
+Coordonates: x=339 y=425
 
-Coordonates: x=178 y=176 4
+Coordonates: x=331 y=432
 
-Coordonates: x=158 y=137 4
+Coordonates: x=331 y=425
 
-Coordonates: x=180 y=154 4
+Coordonates: x=338 y=425
 
-Coordonates: x=162 y=161 4
+Coordonates: x=315 y=418
 
-Coordonates: x=191 y=161 4
+Coordonates: x=340 y=417
 
-Coordonates: x=181 y=174 4
+Coordonates: x=333 y=399
 
-Coordonates: x=155 y=147 4
+Coordonates: x=357 y=417
 
-Coordonates: x=146 y=182 4
+Coordonates: x=332 y=403
 
-Coordonates: x=177 y=153 4
+Coordonates: x=324 y=432
 
-Coordonates: x=159 y=156 4
+Coordonates: x=330 y=395
 
-Coordonates: x=202 y=168 4
+Coordonates: x=332 y=423
 
-Coordonates: x=182 y=146 4
+Coordonates: x=331 y=420
 
-Coordonates: x=143 y=139 4
+Coordonates: x=333 y=417
 
-Coordonates: x=194 y=178 4
+Coordonates: x=326 y=413
 
-Coordonates: x=173 y=168 4
+Coordonates: x=325 y=427
 
-Coordonates: x=135 y=185 4
+Coordonates: x=347 y=423
 
-Coordonates: x=156 y=176 4
+Coordonates: x=343 y=421
 
-Coordonates: x=179 y=153 4
+Coordonates: x=307 y=421
 
-Coordonates: x=156 y=149 4
+Coordonates: x=314 y=404
 
-Coordonates: x=179 y=173 4
+Coordonates: x=316 y=415
 
-Coordonates: x=176 y=170 4
+Coordonates: x=327 y=399
 
-Coordonates: x=190 y=191 4
+Coordonates: x=334 y=417
 
-Coordonates: x=177 y=161 4
+Coordonates: x=331 y=399
 
-Coordonates: x=181 y=184 4
+Coordonates: x=336 y=421
 
-Coordonates: x=176 y=170 4
+Coordonates: x=344 y=413
 
-Coordonates: x=171 y=165 4
+Coordonates: x=321 y=417
 
-Coordonates: x=188 y=174 4
+Coordonates: x=351 y=410
 
-Coordonates: x=194 y=163 4
+Coordonates: x=345 y=420
 
-Coordonates: x=194 y=175 4
+Coordonates: x=334 y=425
 
-Coordonates: x=160 y=185 4
+Coordonates: x=338 y=434
 
-Coordonates: x=167 y=186 4
+Coordonates: x=341 y=420
 
-Coordonates: x=191 y=174 4
+Coordonates: x=320 y=427
 
-Coordonates: x=166 y=149 4
+Coordonates: x=329 y=415
 
-Coordonates: x=153 y=151 4
+Coordonates: x=307 y=445
 
-Coordonates: x=173 y=172 4
+Coordonates: x=309 y=421
 
-Coordonates: x=169 y=180 4
+Coordonates: x=313 y=435
 
-Coordonates: x=207 y=163 4
+Coordonates: x=343 y=430
 
-Coordonates: x=180 y=181 4
+Coordonates: x=330 y=431
 
-Coordonates: x=185 y=160 4
+Coordonates: x=319 y=418
 
-Coordonates: x=166 y=153 4
+Coordonates: x=316 y=424
 
-Coordonates: x=161 y=146 4
+Coordonates: x=334 y=424
 
-Coordonates: x=160 y=161 4
+Coordonates: x=343 y=443
 
-Coordonates: x=181 y=168 4
+Coordonates: x=313 y=419
 
-Coordonates: x=163 y=171 4
+Coordonates: x=345 y=436
 
-Coordonates: x=169 y=163 4
+Coordonates: x=340 y=403
 
-Coordonates: x=191 y=153 4
+Coordonates: x=326 y=420
 
-Coordonates: x=176 y=166 4
+Coordonates: x=335 y=413
 
-Coordonates: x=182 y=160 4
+Coordonates: x=322 y=422
 
-Coordonates: x=158 y=182 4
+Coordonates: x=338 y=405
 
-Coordonates: x=205 y=148 4
+Coordonates: x=334 y=423
 
-Coordonates: x=164 y=152 4
+Coordonates: x=326 y=407
 
-Coordonates: x=166 y=152 4
+Coordonates: x=326 y=425
 
-Coordonates: x=186 y=157 4
+Coordonates: x=324 y=416
 
-Coordonates: x=164 y=160 4
+Coordonates: x=325 y=439
 
-Coordonates: x=183 y=141 4
+Coordonates: x=315 y=407
 
-Coordonates: x=184 y=148 4
+Coordonates: x=335 y=424
 
-Coordonates: x=184 y=162 4
+Coordonates: x=309 y=411
 
-Coordonates: x=171 y=185 4
+Coordonates: x=331 y=425
 
-Coordonates: x=167 y=169 4
+Coordonates: x=327 y=423
 
-Coordonates: x=185 y=140 4
+Coordonates: x=322 y=420
 
-Coordonates: x=162 y=160 4
+Coordonates: x=329 y=434
 
-Coordonates: x=191 y=178 4
+Coordonates: x=328 y=424
 
-Coordonates: x=153 y=167 4
+Coordonates: x=330 y=411
 
-Coordonates: x=164 y=174 4
+Coordonates: x=316 y=418
 
-Coordonates: x=148 y=178 4
+Coordonates: x=333 y=425
 
-Coordonates: x=159 y=184 4
+Coordonates: x=338 y=417
 
-Coordonates: x=177 y=150 4
+Coordonates: x=315 y=410
 
-Coordonates: x=169 y=166 4
+Coordonates: x=332 y=397
 
-Coordonates: x=177 y=168 4
+Coordonates: x=327 y=410
 
-Coordonates: x=186 y=163 4
+Coordonates: x=298 y=430
 
-Coordonates: x=161 y=175 4
+Coordonates: x=350 y=426
 
-Coordonates: x=183 y=172 4
+Coordonates: x=330 y=418
 
-Coordonates: x=168 y=167 4
+Coordonates: x=325 y=411
 
-Coordonates: x=166 y=163 4
+Coordonates: x=322 y=438
 
-Coordonates: x=145 y=182 4
+Coordonates: x=308 y=408
 
-Coordonates: x=178 y=162 4
+Coordonates: x=329 y=420
 
-Coordonates: x=158 y=159 4
+Coordonates: x=327 y=422
 
-Coordonates: x=154 y=175 4
+Coordonates: x=339 y=429
 
-Coordonates: x=169 y=178 4
+Coordonates: x=356 y=422
 
-Coordonates: x=151 y=148 4
+Coordonates: x=332 y=435
 
-Coordonates: x=168 y=183 4
+Coordonates: x=339 y=421
 
-Coordonates: x=193 y=170 4
+Coordonates: x=339 y=408
 
-Coordonates: x=172 y=163 4
+Coordonates: x=316 y=418
 
-Coordonates: x=185 y=175 4
+Coordonates: x=326 y=439
 
-Coordonates: x=194 y=170 4
+Coordonates: x=324 y=414
 
-Coordonates: x=190 y=156 4
+Coordonates: x=315 y=426
 
-Coordonates: x=191 y=188 4
+Coordonates: x=322 y=416
 
-Coordonates: x=193 y=182 4
+Coordonates: x=338 y=441
 
-Coordonates: x=162 y=153 4
+Coordonates: x=329 y=411
 
-Coordonates: x=146 y=160 4
+Coordonates: x=329 y=394
 
-Coordonates: x=170 y=151 4
+Coordonates: x=314 y=428
 
-Coordonates: x=180 y=159 4
+Coordonates: x=286 y=436
 
-Coordonates: x=171 y=147 4
+Coordonates: x=316 y=418
 
-Coordonates: x=166 y=175 4
+Coordonates: x=307 y=414
 
-Coordonates: x=180 y=166 4
+Coordonates: x=345 y=418
 
-Coordonates: x=190 y=178 4
+Coordonates: x=312 y=400
 
-Coordonates: x=195 y=155 4
+Coordonates: x=344 y=413
 
-Coordonates: x=160 y=150 4
+Coordonates: x=313 y=427
 
-Coordonates: x=172 y=151 4
+Coordonates: x=325 y=419
 
-Coordonates: x=193 y=178 4
+Coordonates: x=326 y=415
 
-Coordonates: x=168 y=180 4
+Coordonates: x=342 y=422
 
-Coordonates: x=148 y=174 4
+Coordonates: x=333 y=427
 
-Coordonates: x=181 y=145 4
+Coordonates: x=327 y=417
 
-Coordonates: x=163 y=163 4
+Coordonates: x=341 y=429
 
-Coordonates: x=189 y=168 4
+Coordonates: x=323 y=423
 
-Coordonates: x=186 y=183 4
+Coordonates: x=321 y=407
 
-Coordonates: x=177 y=160 4
+Coordonates: x=319 y=401
 
-Coordonates: x=172 y=176 4
+Coordonates: x=325 y=446
 
-Coordonates: x=173 y=178 4
+Coordonates: x=320 y=422
 
-Coordonates: x=186 y=145 4
+Coordonates: x=324 y=420
 
-Coordonates: x=180 y=157 4
+Coordonates: x=333 y=418
 
-Coordonates: x=168 y=153 4
+Coordonates: x=322 y=403
 
-Coordonates: x=164 y=174 4
+Coordonates: x=326 y=427
 
-Coordonates: x=205 y=155 4
+Coordonates: x=328 y=421
 
-Coordonates: x=154 y=150 4
+Coordonates: x=321 y=402
 
-Coordonates: x=189 y=174 4
+Coordonates: x=321 y=450
 
-Coordonates: x=163 y=189 4
+Coordonates: x=312 y=422
 
-Coordonates: x=214 y=176 4
+Coordonates: x=339 y=435
 
-Coordonates: x=194 y=158 4
+Coordonates: x=335 y=425
 
-Coordonates: x=179 y=157 4
+Coordonates: x=316 y=423
 
-Coordonates: x=176 y=164 4
+Coordonates: x=332 y=431
 
-Coordonates: x=165 y=172 4
+Coordonates: x=313 y=433
 
-Coordonates: x=183 y=163 4
+Coordonates: x=306 y=398
 
-Coordonates: x=189 y=165 4
+Coordonates: x=317 y=436
 
-Coordonates: x=177 y=164 4
+Coordonates: x=370 y=425
 
-Coordonates: x=150 y=176 4
+Coordonates: x=337 y=413
 
-Coordonates: x=196 y=153 4
+Coordonates: x=333 y=418
 
-Coordonates: x=168 y=145 4
+Coordonates: x=338 y=416
 
-Coordonates: x=191 y=182 4
+Coordonates: x=318 y=411
 
-Coordonates: x=164 y=154 4
+Coordonates: x=333 y=424
 
-Coordonates: x=147 y=170 4
+Coordonates: x=312 y=423
 
-Coordonates: x=183 y=173 4
+Coordonates: x=325 y=419
 
-Coordonates: x=160 y=152 4
+Coordonates: x=313 y=434
 
-Coordonates: x=140 y=145 4
+Coordonates: x=320 y=428
 
-Coordonates: x=168 y=151 4
+Coordonates: x=330 y=424
 
-Coordonates: x=159 y=173 4
+Coordonates: x=328 y=403
 
-Coordonates: x=140 y=163 4
+Coordonates: x=337 y=409
 
-Coordonates: x=155 y=149 4
+Coordonates: x=344 y=418
 
-Coordonates: x=190 y=157 4
+Coordonates: x=341 y=438
 
-Coordonates: x=167 y=158 4
+Coordonates: x=332 y=422
 
-Coordonates: x=172 y=141 4
+Coordonates: x=334 y=406
 
-Coordonates: x=203 y=187 4
+Coordonates: x=297 y=419
 
-Coordonates: x=219 y=153 4
+Coordonates: x=339 y=421
 
-Coordonates: x=185 y=172 4
+Coordonates: x=314 y=427
 
-Coordonates: x=159 y=158 4
+Coordonates: x=311 y=409
 
-Coordonates: x=162 y=166 4
+Coordonates: x=324 y=414
 
-Coordonates: x=166 y=167 4
+Coordonates: x=315 y=435
 
-Coordonates: x=177 y=163 4
+Coordonates: x=317 y=406
 
-Coordonates: x=178 y=153 4
+Coordonates: x=319 y=429
 
-Coordonates: x=158 y=167 4
+Coordonates: x=332 y=415
 
-Coordonates: x=189 y=178 4
+Coordonates: x=342 y=420
 
-Coordonates: x=171 y=151 4
+Coordonates: x=316 y=422
 
-Coordonates: x=166 y=153 4
+Coordonates: x=322 y=430
 
-Coordonates: x=190 y=169 4
+Coordonates: x=324 y=422
 
-Coordonates: x=162 y=179 4
+Coordonates: x=331 y=418
 
-Coordonates: x=160 y=157 4
+Coordonates: x=318 y=427
 
-Coordonates: x=191 y=150 4
+Coordonates: x=350 y=418
 
-Coordonates: x=188 y=154 4
+Coordonates: x=331 y=411
 
-Coordonates: x=187 y=167 4
+Coordonates: x=311 y=425
 
-Coordonates: x=182 y=153 4
+Coordonates: x=335 y=435
 
-Coordonates: x=166 y=181 4
+Coordonates: x=317 y=426
 
-Coordonates: x=156 y=157 4
+Coordonates: x=314 y=421
 
-Coordonates: x=142 y=159 4
+Coordonates: x=328 y=429
 
-Coordonates: x=187 y=183 4
+Coordonates: x=343 y=421
 
-Coordonates: x=190 y=182 4
+Coordonates: x=329 y=415
 
-Coordonates: x=153 y=178 4
+Coordonates: x=332 y=419
 
-Coordonates: x=160 y=161 4
+Coordonates: x=340 y=413
 
-Coordonates: x=174 y=161 4
+Coordonates: x=336 y=419
 
-Coordonates: x=180 y=164 4
+Coordonates: x=348 y=429
 
-Coordonates: x=177 y=137 4
+Coordonates: x=323 y=417
 
-Coordonates: x=167 y=177 4
+Coordonates: x=326 y=431
 
-Coordonates: x=188 y=174 4
+Coordonates: x=315 y=402
 
-Coordonates: x=168 y=155 4
+Coordonates: x=325 y=430
 
-Coordonates: x=174 y=158 4
+Coordonates: x=307 y=425
 
-Coordonates: x=154 y=166 4
+Coordonates: x=303 y=427
 
-Coordonates: x=188 y=171 4
+Coordonates: x=339 y=416
 
-Coordonates: x=149 y=156 4
+Coordonates: x=331 y=422
 
-Coordonates: x=155 y=158 4
+Coordonates: x=335 y=420
 
-Coordonates: x=171 y=181 4
+Coordonates: x=302 y=401
 
-Coordonates: x=185 y=168 4
+Coordonates: x=323 y=434
 
-Coordonates: x=173 y=162 4
+Coordonates: x=342 y=423
 
-Coordonates: x=184 y=170 4
+Coordonates: x=335 y=408
 
-Coordonates: x=165 y=152 4
+Coordonates: x=320 y=412
 
-Coordonates: x=174 y=174 4
+Coordonates: x=329 y=422
 
-Coordonates: x=177 y=162 4
+Coordonates: x=319 y=411
 
-Coordonates: x=197 y=184 4
+Coordonates: x=337 y=399
 
-Coordonates: x=175 y=169 4
+Coordonates: x=347 y=431
 
-Coordonates: x=185 y=166 4
+Coordonates: x=324 y=411
 
-Coordonates: x=166 y=162 4
+Coordonates: x=299 y=423
 
-Coordonates: x=161 y=166 4
+Coordonates: x=320 y=419
 
-Coordonates: x=194 y=165 4
+Coordonates: x=317 y=407
 
-Coordonates: x=188 y=168 4
+Coordonates: x=330 y=423
 
-Coordonates: x=187 y=172 4
+Coordonates: x=311 y=410
 
-Coordonates: x=169 y=158 4
+Coordonates: x=314 y=414
 
-Coordonates: x=164 y=168 4
+Coordonates: x=367 y=418
 
-Coordonates: x=147 y=163 4
+Coordonates: x=346 y=417
 
-Coordonates: x=214 y=170 4
+Coordonates: x=326 y=426
 
-Coordonates: x=178 y=184 4
+Coordonates: x=321 y=418
 
-Coordonates: x=210 y=166 4
+Coordonates: x=329 y=438
 
-Coordonates: x=179 y=166 4
+Coordonates: x=337 y=430
 
-Coordonates: x=151 y=165 4
+Coordonates: x=306 y=392
 
-Coordonates: x=176 y=170 4
+Coordonates: x=315 y=416
 
-Coordonates: x=201 y=150 4
+Coordonates: x=332 y=417
 
-Coordonates: x=147 y=168 4
+Coordonates: x=307 y=414
 
-Coordonates: x=165 y=162 4
+Coordonates: x=328 y=431
 
-Coordonates: x=199 y=181 4
+Coordonates: x=338 y=423
 
-Coordonates: x=175 y=173 4
+Coordonates: x=312 y=437
 
-Coordonates: x=188 y=155 4
+Coordonates: x=332 y=409
 
-Coordonates: x=182 y=155 4
+Coordonates: x=336 y=417
 
-Coordonates: x=168 y=179 4
+Coordonates: x=325 y=421
 
-Coordonates: x=183 y=140 4
+Coordonates: x=342 y=421
 
-Coordonates: x=152 y=135 4
+Coordonates: x=323 y=423
 
-Coordonates: x=167 y=170 4
+Coordonates: x=360 y=423
 
-Coordonates: x=178 y=171 4
+Coordonates: x=311 y=414
 
-Coordonates: x=176 y=178 4
+Coordonates: x=331 y=422
 
-Coordonates: x=166 y=148 4
+Coordonates: x=329 y=430
 
-Coordonates: x=151 y=170 4
+Coordonates: x=320 y=413
 
-Coordonates: x=189 y=167 4
+Coordonates: x=323 y=433
 
-Coordonates: x=187 y=156 4
+Coordonates: x=325 y=430
 
-Coordonates: x=183 y=167 4
+Coordonates: x=335 y=420
 
-Coordonates: x=186 y=171 4
+Coordonates: x=308 y=421
 
-Coordonates: x=182 y=163 4
+Coordonates: x=311 y=417
 
-Coordonates: x=175 y=162 4
+Coordonates: x=343 y=413
 
-Coordonates: x=179 y=159 4
+Coordonates: x=306 y=408
 
-Coordonates: x=170 y=154 4
+Coordonates: x=315 y=435
 
-Coordonates: x=195 y=169 4
+Coordonates: x=331 y=402
 
-Coordonates: x=170 y=179 4
+Coordonates: x=329 y=426
 
-Coordonates: x=188 y=162 4
+Coordonates: x=328 y=415
 
-Coordonates: x=193 y=157 4
+Coordonates: x=316 y=419
 
-Coordonates: x=181 y=160 4
+Coordonates: x=324 y=413
 
-Coordonates: x=155 y=165 4
+Coordonates: x=322 y=422
 
-Coordonates: x=163 y=185 4
+Coordonates: x=328 y=425
 
-Coordonates: x=161 y=202 4
+Coordonates: x=317 y=422
 
