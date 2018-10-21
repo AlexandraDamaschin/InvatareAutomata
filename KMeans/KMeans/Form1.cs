@@ -30,6 +30,7 @@ namespace KMeans
             init();
             points = new List<DataPoint>();
             streamReader = new System.IO.StreamReader("newCoordonates.txt");
+            drawAxis();
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
@@ -37,7 +38,6 @@ namespace KMeans
             drawAxis();
             points = new List<DataPoint>();
             groupPoints();
-
         }
 
         private void init()
@@ -75,6 +75,7 @@ namespace KMeans
         }
         #endregion
 
+        #region draw
         public void drawPoint(int x, int y, Color color)
         {
             //FromHwnd= method is used to create a Graphics object from the specified handler of a window
@@ -108,6 +109,7 @@ namespace KMeans
             //create oY from 0 to 600
             oX_oY.DrawLine(Pens.Black, 300, 0, 300, 600);
         }
+        #endregion
 
         public void groupPoints()
         {
@@ -153,6 +155,7 @@ namespace KMeans
             }
         }
 
+        #region get
         private Point getCenter(int center)
         {
             Point pointCenter = new Point();
@@ -193,6 +196,7 @@ namespace KMeans
             double distance = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
             return distance;
         }
+        #endregion
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
