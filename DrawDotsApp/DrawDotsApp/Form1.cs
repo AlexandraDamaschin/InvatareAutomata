@@ -218,7 +218,7 @@ namespace DrawDotsApp
                 graph.Dispose();
 
                 writetext.WriteLine("Coordonates: " + "x=" + x.ToString() + " y=" + y.ToString() + "\n");
-                docEx2.WriteLine(x.ToString() + "," + y.ToString() + "\n");
+                docEx2.WriteLine(x.ToString() + "," + y.ToString() + ",");
             }
             //close wroten file 
             writetext.Close();

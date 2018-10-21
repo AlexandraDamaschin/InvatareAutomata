@@ -1,0 +1,10 @@
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\bin\Debug\KMeans.exe.config
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\bin\Debug\KMeans.exe
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\bin\Debug\KMeans.pdb
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.Form1.resources
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.exe
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.pdb
