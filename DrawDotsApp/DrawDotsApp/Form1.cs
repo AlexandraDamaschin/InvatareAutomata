@@ -35,35 +35,35 @@ namespace DrawDotsApp
                         Color colorZ1 = Color.FromArgb(x1Argb, y1Argb, z1Argb);
                         SolidBrush brushZ1 = new SolidBrush(colorZ1);
                         Pen penColorZ1 = new Pen(brushZ1);
-                        DrawPoints(ValueZ1(), penColorZ1);
+                        DrawPoints(ValueZ1(), penColorZ1, 1);
                         break;
                     case 2:
                         int x2Argb = 51, y2Argb = 255, z2Argb = 255; //blue
                         Color colorZ2 = Color.FromArgb(x2Argb, y2Argb, z2Argb);
                         SolidBrush brushZ2 = new SolidBrush(colorZ2);
                         Pen penColorZ2 = new Pen(brushZ2);
-                        DrawPoints(ValueZ2(), penColorZ2);
+                        DrawPoints(ValueZ2(), penColorZ2, 2);
                         break;
                     case 3:
                         int x3Argb = 196, y3Argb = 255, z3Argb = 15; //green
                         Color colorZ3 = Color.FromArgb(x3Argb, y3Argb, z3Argb);
                         SolidBrush brushZ3 = new SolidBrush(colorZ3);
                         Pen penColorZ3 = new Pen(brushZ3);
-                        DrawPoints(ValueZ3(), penColorZ3);
+                        DrawPoints(ValueZ3(), penColorZ3, 3);
                         break;
                     case 4:
                         int x4Argb = 150, y4Argb = 0, z4Argb = 232; //purple
                         Color colorZ4 = Color.FromArgb(x4Argb, y4Argb, z4Argb);
                         SolidBrush brushZ4 = new SolidBrush(colorZ4);
                         Pen penColorZ4 = new Pen(brushZ4);
-                        DrawPoints(ValueZ4(), penColorZ4);
+                        DrawPoints(ValueZ4(), penColorZ4, 4);
                         break;
                     case 5:
                         int x5Argb = 255, y5Argb = 255, z5Argb = 0; //yellow
                         Color colorZ5 = Color.FromArgb(x5Argb, y5Argb, z5Argb);
                         SolidBrush brushZ5 = new SolidBrush(colorZ5);
                         Pen penColorZ5 = new Pen(brushZ5);
-                        DrawPoints(ValueZ5(), penColorZ5);
+                        DrawPoints(ValueZ5(), penColorZ5, 5);
                         break;
                 }
                 randomZone.Add(numberOfZone);
@@ -83,16 +83,16 @@ namespace DrawDotsApp
             oX_oY.DrawLine(Pens.Black, 300, 0, 300, 600);
 
             //Grade oX by 5
-            //for (int x = 0; x <= 600; x = x + 5)
-            //{
-            //    oX_oY.DrawLine(Pens.Black, x, 299, x, 302);
-            //}
+            for (int x = 0; x <= 600; x = x + 5)
+            {
+                oX_oY.DrawLine(Pens.Black, x, 299, x, 302);
+            }
 
-            ////Grade oY by 5
-            //for (int y = 0; y <= 600; y = y + 5)
-            //{
-            //    oX_oY.DrawLine(Pens.Black, 299, y, 302, y);
-            //}
+            //Grade oY by 5
+            for (int y = 0; y <= 600; y = y + 5)
+            {
+                oX_oY.DrawLine(Pens.Black, 299, y, 302, y);
+            }
 
             oX_oY.Dispose();
         }
@@ -172,7 +172,7 @@ namespace DrawDotsApp
         #endregion
 
         //draw random points
-        public void DrawPoints(List<float> zone, Pen pointsPen)
+        public void DrawPoints(List<float> zone, Pen pointsPen, int zoneNumber)
         {
             float mX = zone[0];
             float mY = zone[1];
@@ -182,6 +182,7 @@ namespace DrawDotsApp
             Random random = new Random();
 
             StreamWriter writetext = new StreamWriter("xyCoordonates.txt");
+            StreamWriter docEx2 = new StreamWriter("xy.txt");
 
             //draw 1000 random points
             for (int k = 0; k < 1000; k++)
@@ -210,15 +211,18 @@ namespace DrawDotsApp
                     pas = (float)random.NextDouble();
                 }
                 while (Gy < pas);
-                writetext.WriteLine("Coordonates: " + "x="+x.ToString() + " y=" + y.ToString() + "\n");
 
                 Graphics graph;
                 graph = this.CreateGraphics();
                 graph.DrawEllipse(pointsPen, x, y, 1, 1);
                 graph.Dispose();
+
+                writetext.WriteLine("Coordonates: " + "x=" + x.ToString() + " y=" + y.ToString() + " " + zoneNumber + "\n");
+                docEx2.WriteLine(x.ToString() + "," + y.ToString() + "," + zoneNumber + "\n");
             }
             //close wroten file 
             writetext.Close();
+            docEx2.Close();
         }
     }
 }
