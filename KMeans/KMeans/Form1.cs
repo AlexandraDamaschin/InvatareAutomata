@@ -33,6 +33,9 @@ namespace KMeans
 
         private void pictureBox_Click(object sender, EventArgs e)
         {
+            drawAxis();
+            points = new List<DataPoint>();
+            groupPoints();
 
         }
 
@@ -70,6 +73,17 @@ namespace KMeans
             return newY;
         }
         #endregion
+
+        public void drawPoint(int x, int y, Color color)
+        {
+            //FromHwnd= method is used to create a Graphics object from the specified handler of a window
+            Graphics graphics = Graphics.FromHwnd(pictureBox.Handle);
+            SolidBrush solidBrush = new SolidBrush(color);
+            Point point = new Point(x, y);
+            Rectangle rectangle = new Rectangle(point, new Size(1, 1));
+            graphics.FillRectangle(solidBrush, rectangle);
+            graphics.Dispose();
+        }
 
         public void drawCenter(int x, int y, Color color)
         {
