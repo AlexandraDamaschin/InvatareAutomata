@@ -29,7 +29,7 @@ namespace KMeans
             InitializeComponent();
             init();
             points = new List<DataPoint>();
-            streamReader = new System.IO.StreamReader("newCoordonates.txt");
+            streamReader = new System.IO.StreamReader("xy.txt");
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
