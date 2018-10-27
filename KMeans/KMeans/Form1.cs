@@ -11,6 +11,7 @@ namespace KMeans
         private System.IO.StreamReader streamReader;
         private List<DataPoint> points;
         Random random;
+        //random colors
         Color[] colors = {
                 Color.Blue, Color.Red, Color.Yellow, Color.Magenta, Color.Green,
                 Color.Pink, Color.Plum,Color.Orange, Color.Maroon, Color.Turquoise};
