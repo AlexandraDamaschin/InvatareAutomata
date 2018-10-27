@@ -47,7 +47,7 @@ namespace KMeans
             {
                 cX[i] = random.Next(min, max);
                 cY[i] = random.Next(min, max);
-                //set label text to see current x and y 
+                //set label text to see random x and y 
                 label.Text = cX[i] + " " + cY[i];
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
@@ -112,11 +112,11 @@ namespace KMeans
             int minDistance, distance, parent = 0;
             Point point;
 
+            //draw all random centers
             for (int i = 0; i < noOfCenters; i++)
             {
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
-                //draw center
                 drawCenter(newX, newY, colors[i]);
             }
 
@@ -124,6 +124,7 @@ namespace KMeans
             {
                 minDistance = 1000;
                 point = getPoint(line);
+                //for each point calculate distance
                 for (int i = 0; i < noOfCenters; i++)
                 {
                     distance = (int)getDistance(point.X, point.Y, cX[i], cY[i]);
@@ -139,6 +140,7 @@ namespace KMeans
                 //draw center
                 drawCenter(newX, newY, colors[parent]);
             }
+
             for (int i = 0; i < noOfCenters; i++)
             {
                 Point pointNewCenter = getCenter(i);
@@ -155,6 +157,8 @@ namespace KMeans
         {
             Point pointCenter = new Point();
             int sumX = 0, sumY = 0, nr = 0;
+
+            //calculate center for each point 
             foreach (DataPoint point in points)
             {
                 if (point.Center == center)
@@ -164,6 +168,7 @@ namespace KMeans
                     sumY += point.Y;
                 }
             }
+
             if (nr != 0)
             {
                 pointCenter.X = sumX / nr;
@@ -172,6 +177,7 @@ namespace KMeans
             return pointCenter;
         }
 
+        //get point from xy file
         private Point getPoint(string line)
         {
             string x, y;
@@ -197,5 +203,6 @@ namespace KMeans
         {
             streamReader.Close();
         }
+
     }
 }
