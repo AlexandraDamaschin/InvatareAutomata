@@ -37,7 +37,7 @@ namespace KMeans
 
         private void init()
         {
-            random = new Random(DateTime.Now.Millisecond);
+            random = new Random();
             noOfCenters = random.Next(2, 10); //random zones [2,10]
             //random x and y for centroid
             cX = new int[noOfCenters];
@@ -198,6 +198,21 @@ namespace KMeans
             return distance;
         }
         #endregion
+
+        private void button_try_again_Click(object sender, EventArgs e)
+        {
+            init();
+            points = new List<DataPoint>();
+            streamReader = new System.IO.StreamReader("xy.txt");
+            drawAxis();
+            points = new List<DataPoint>();
+            groupPoints();
+        }
+
+        private void button_clear_picture_box_Click(object sender, EventArgs e)
+        {
+            pictureBox.Image = null;
+        }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
