@@ -28,7 +28,6 @@ namespace KMeans
         private void pictureBox_Click(object sender, EventArgs e)
         {
             init();
-            points = new List<DataPoint>();
             streamReader = new System.IO.StreamReader("xy.txt");
             drawAxis();
             points = new List<DataPoint>();
@@ -77,7 +76,7 @@ namespace KMeans
             Graphics graphics = Graphics.FromHwnd(pictureBox.Handle);
             SolidBrush solidBrush = new SolidBrush(color);
             Point point = new Point(x, y);
-            Rectangle rectangle = new Rectangle(point, new Size(1, 1));
+            Rectangle rectangle = new Rectangle(point, new Size(2, 2));
             graphics.FillRectangle(solidBrush, rectangle);
             graphics.Dispose();
         }
@@ -88,7 +87,7 @@ namespace KMeans
             SolidBrush solidBrush = new SolidBrush(color);
             Point point = new Point(x - 3, y - 3);
             Pen pen = new Pen(color);
-            Rectangle rectangle = new Rectangle(point, new Size(6, 6));
+            Rectangle rectangle = new Rectangle(point, new Size(8, 8));
             graphics.DrawEllipse(pen, rectangle);
             graphics.Dispose();
         }
@@ -141,8 +140,8 @@ namespace KMeans
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
-                //draw center
-                drawCenter(newX, newY, colors[parent]);
+                //draw point
+                drawPoint(newX, newY, colors[parent]);
             }
 
             for (int i = 0; i < noOfCenters; i++)
@@ -157,6 +156,7 @@ namespace KMeans
         }
 
         #region get
+        //geometric sum (a+b)/2
         private Point getCenter(int center)
         {
             Point pointCenter = new Point();
@@ -206,7 +206,6 @@ namespace KMeans
         private void button_try_again_Click(object sender, EventArgs e)
         {
             init();
-            points = new List<DataPoint>();
             streamReader = new System.IO.StreamReader("xy.txt");
             drawAxis();
             points = new List<DataPoint>();
