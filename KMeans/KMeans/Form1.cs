@@ -26,6 +26,7 @@ namespace KMeans
             init();
             points = new List<DataPoint>();
             streamReader = new System.IO.StreamReader("xy.txt");
+            drawAxis();
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
@@ -59,7 +60,7 @@ namespace KMeans
         #region calculate new x and y
         public int CalculateNewX(int x)
         {
-            int newX = x + 300;
+            int newX = 300 + x;
             return newX;
         }
 
@@ -95,14 +96,18 @@ namespace KMeans
 
         public void drawAxis()
         {
-            Graphics oX_oY;
-            oX_oY = this.CreateGraphics();
+            Graphics graphics = Graphics.FromHwnd(pictureBox.Handle);
+            SolidBrush brush = new SolidBrush(Color.Black);
+            // y axis
+            Point pointY = new Point(300, 0);
+            Rectangle yAxis = new Rectangle(pointY, new Size(1, 600));
+            graphics.FillRectangle(brush, yAxis);
 
-            //create oX from 0 to 600
-            oX_oY.DrawLine(Pens.Black, 0, 300, 600, 300);
+            Point pointX = new Point(0, 300);
+            Rectangle xAxis = new Rectangle(pointX, new Size(600, 1));
+            graphics.FillRectangle(brush, xAxis);
 
-            //create oY from 0 to 600
-            oX_oY.DrawLine(Pens.Black, 300, 0, 300, 600);
+            graphics.Dispose();
         }
         #endregion
 

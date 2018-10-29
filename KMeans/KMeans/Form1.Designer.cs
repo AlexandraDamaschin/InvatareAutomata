@@ -37,7 +37,8 @@
             // 
             // pictureBox
             // 
-            this.pictureBox.Location = new System.Drawing.Point(124, 12);
+            this.pictureBox.BackColor = System.Drawing.SystemColors.Control;
+            this.pictureBox.Location = new System.Drawing.Point(2, 2);
             this.pictureBox.Name = "pictureBox";
             this.pictureBox.Size = new System.Drawing.Size(600, 600);
             this.pictureBox.TabIndex = 0;
@@ -46,10 +47,9 @@
             // 
             // label
             // 
-            this.label.AutoSize = true;
-            this.label.Location = new System.Drawing.Point(749, 285);
+            this.label.Location = new System.Drawing.Point(749, 317);
             this.label.Name = "label";
-            this.label.Size = new System.Drawing.Size(42, 20);
+            this.label.Size = new System.Drawing.Size(90, 30);
             this.label.TabIndex = 1;
             this.label.Text = "label";
             // 
@@ -86,7 +86,6 @@
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
