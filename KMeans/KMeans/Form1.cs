@@ -23,14 +23,13 @@ namespace KMeans
         public Form1()
         {
             InitializeComponent();
-            init();
-            points = new List<DataPoint>();
-            streamReader = new System.IO.StreamReader("xy.txt");
-            drawAxis();
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
         {
+            init();
+            points = new List<DataPoint>();
+            streamReader = new System.IO.StreamReader("xy.txt");
             drawAxis();
             points = new List<DataPoint>();
             groupPoints();
