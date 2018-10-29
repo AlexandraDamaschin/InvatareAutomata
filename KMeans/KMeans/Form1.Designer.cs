@@ -30,7 +30,6 @@
         {
             this.pictureBox = new System.Windows.Forms.PictureBox();
             this.label = new System.Windows.Forms.Label();
-            this.button_try_again = new System.Windows.Forms.Button();
             this.button_clear_picture_box = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.SuspendLayout();
@@ -53,16 +52,6 @@
             this.label.TabIndex = 1;
             this.label.Text = "label";
             // 
-            // button_try_again
-            // 
-            this.button_try_again.Location = new System.Drawing.Point(753, 94);
-            this.button_try_again.Name = "button_try_again";
-            this.button_try_again.Size = new System.Drawing.Size(83, 32);
-            this.button_try_again.TabIndex = 2;
-            this.button_try_again.Text = "Try again";
-            this.button_try_again.UseVisualStyleBackColor = true;
-            this.button_try_again.Click += new System.EventHandler(this.button_try_again_Click);
-            // 
             // button_clear_picture_box
             // 
             this.button_clear_picture_box.Location = new System.Drawing.Point(740, 37);
@@ -78,7 +67,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(874, 637);
             this.Controls.Add(this.button_clear_picture_box);
-            this.Controls.Add(this.button_try_again);
             this.Controls.Add(this.label);
             this.Controls.Add(this.pictureBox);
             this.Name = "Form1";
@@ -93,7 +81,6 @@
 
         private System.Windows.Forms.PictureBox pictureBox;
         private System.Windows.Forms.Label label;
-        private System.Windows.Forms.Button button_try_again;
         private System.Windows.Forms.Button button_clear_picture_box;
     }
 }

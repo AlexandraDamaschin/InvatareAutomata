@@ -47,13 +47,12 @@ namespace KMeans
                 cX[i] = random.Next(min, max);
                 cY[i] = random.Next(min, max);
                 //set label text to see random x and y 
-                String labelText = cX[i] + " " + cY[i];
-                label.Text = labelText;
+                label.Text = cX[i] + " " + cY[i];
                 Refresh();
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
                 //draw center
-                drawCenter(newX, newY, colors[i]);
+              //  drawCenter(newX, newY, colors[i]);
                
             }
         }
@@ -205,15 +204,6 @@ namespace KMeans
             return distance;
         }
         #endregion
-
-        private void button_try_again_Click(object sender, EventArgs e)
-        {
-            init();
-            streamReader = new System.IO.StreamReader("xy.txt");
-            drawAxis();
-            points = new List<DataPoint>();
-            groupPoints();
-        }
 
         private void button_clear_picture_box_Click(object sender, EventArgs e)
         {
