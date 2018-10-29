@@ -52,7 +52,7 @@ namespace KMeans
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
                 //draw center
-                //drawCenter(newX, newY, colors[i]);
+                drawCenter(newX, newY, colors[i]);
             }
         }
 
@@ -88,7 +88,7 @@ namespace KMeans
             SolidBrush solidBrush = new SolidBrush(color);
             Point point = new Point(x - 3, y - 3);
             Pen pen = new Pen(color);
-            Rectangle rectangle = new Rectangle(point, new Size(8, 8));
+            Rectangle rectangle = new Rectangle(point, new Size(6, 6));
             graphics.DrawEllipse(pen, rectangle);
             graphics.Dispose();
         }
@@ -141,8 +141,7 @@ namespace KMeans
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
-                //draw point
-                drawPoint(newX, newY, colors[parent]);
+                drawCenter(newX, newY, colors[parent]);
             }
 
             for (int i = 0; i < noOfCenters; i++)
@@ -197,6 +196,7 @@ namespace KMeans
             return point;
         }
 
+        //euclidian distance
         private double getDistance(int x1, int y1, int x2, int y2)
         {
             double distance = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));

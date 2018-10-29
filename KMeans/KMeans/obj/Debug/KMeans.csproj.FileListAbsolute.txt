@@ -7,3 +7,4 @@ C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.exe
 C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.pdb
+C:\AlexandraFiles\Faculty\InvatareAutomata-Volo\Projects\KMeans\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
