@@ -47,11 +47,14 @@ namespace KMeans
                 cX[i] = random.Next(min, max);
                 cY[i] = random.Next(min, max);
                 //set label text to see random x and y 
-                label.Text = cX[i] + " " + cY[i];
+                String labelText = cX[i] + " " + cY[i];
+                label.Text = labelText;
+                Refresh();
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
                 //draw center
                 drawCenter(newX, newY, colors[i]);
+               
             }
         }
 
