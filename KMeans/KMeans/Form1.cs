@@ -52,8 +52,7 @@ namespace KMeans
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
                 //draw center
-              //  drawCenter(newX, newY, colors[i]);
-               
+                //drawCenter(newX, newY, colors[i]);
             }
         }
 
