@@ -37,7 +37,7 @@ namespace KMeans
         private void init()
         {
             random = new Random();
-            noOfCenters = random.Next(2, 10); 
+            noOfCenters = random.Next(2, 10);
             //random x and y for centroid
             cX = new int[noOfCenters];
             cY = new int[noOfCenters];
@@ -138,6 +138,7 @@ namespace KMeans
                         parent = i;
                     }
                 }
+
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
