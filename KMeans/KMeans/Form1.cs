@@ -199,11 +199,12 @@ namespace KMeans
         //euclidian distance
         private double getDistance(int x1, int y1, int x2, int y2)
         {
+            double distance;
             // Manhattan
-            double distance = Math.Abs(x1 - x2) + Math.Abs(y1 - y2);
+            // distance = Math.Abs(x1 - x2) + Math.Abs(y1 - y2);
 
             //Euclidian 
-            // double distance = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
+            distance = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
             return distance;
         }
         #endregion
