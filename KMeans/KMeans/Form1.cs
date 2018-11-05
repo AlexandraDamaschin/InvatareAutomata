@@ -209,6 +209,14 @@ namespace KMeans
         }
         #endregion
 
+        void CreateCenters()
+        {
+            List<Point> centers = new List<Point>();
+            centers.Add(new Point(35, 10));
+            centers.Add(new Point(180, 5));
+            centers.Add(new Point(120, 10));
+        }
+
         private void button_clear_picture_box_Click(object sender, EventArgs e)
         {
             pictureBox.Image = null;
