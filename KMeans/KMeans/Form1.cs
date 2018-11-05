@@ -48,6 +48,7 @@ namespace KMeans
                 //set label text to see random x and y 
                 label.Text = cX[i] + " " + cY[i];
                 Refresh();
+                //CreateCenters();
                 int newX = CalculateNewX(cX[i]);
                 int newY = CalculateNewY(cY[i]);
                 //draw center
