@@ -86,7 +86,7 @@ namespace KMeans
         {
             Graphics graphics = Graphics.FromHwnd(pictureBox.Handle);
             SolidBrush solidBrush = new SolidBrush(color);
-            Point point = new Point(x - 3, y - 3);
+            Point point = new Point(x, y);
             Pen pen = new Pen(color);
             Rectangle rectangle = new Rectangle(point, new Size(6, 6));
             graphics.DrawEllipse(pen, rectangle);
