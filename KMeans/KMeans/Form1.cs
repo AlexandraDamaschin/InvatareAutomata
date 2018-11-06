@@ -142,7 +142,7 @@ namespace KMeans
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
-                drawPoint(newX, newY, colors[parent]);
+                drawCenter(newX, newY, colors[parent]);
             }
 
             for (int i = 0; i < noOfCenters; i++)
