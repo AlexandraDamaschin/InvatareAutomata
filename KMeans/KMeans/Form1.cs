@@ -88,7 +88,7 @@ namespace KMeans
             SolidBrush solidBrush = new SolidBrush(color);
             Point point = new Point(x, y);
             Pen pen = new Pen(color);
-            Rectangle rectangle = new Rectangle(point, new Size(6, 6));
+            Rectangle rectangle = new Rectangle(point, new Size(4, 4));
             graphics.DrawEllipse(pen, rectangle);
             graphics.Dispose();
         }
@@ -142,7 +142,7 @@ namespace KMeans
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
-                drawCenter(newX, newY, colors[parent]);
+                drawCenter(newX, newY, colors[parent]); //draw?
             }
 
             for (int i = 0; i < noOfCenters; i++)
