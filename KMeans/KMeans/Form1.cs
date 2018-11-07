@@ -138,7 +138,7 @@ namespace KMeans
                         parent = i;
                     }
                 }
-
+                
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
