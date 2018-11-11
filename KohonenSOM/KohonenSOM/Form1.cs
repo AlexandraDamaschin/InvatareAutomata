@@ -16,5 +16,15 @@ namespace KohonenSOM
         {
             InitializeComponent();
         }
+
+        private void button_Points_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button_Kohonen_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
