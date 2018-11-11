@@ -92,7 +92,9 @@ namespace KohonenSOM
 
             for (int i = 0; i < points.Count; i++)
             {
-                DrawPoint(points[i].X)
+                int newX = CalculateNewX(points[i].X);
+                int newY = CalculateNewY(points[i].Y);
+                DrawPoint(newX, newY);
             }
 
         }
