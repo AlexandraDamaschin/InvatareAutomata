@@ -134,6 +134,7 @@ namespace KohonenSOM
                             300 - (float)neuronis[i + 1, j].y);
                     }
                 }
+                graphics.Dispose();
             }
         }
 
