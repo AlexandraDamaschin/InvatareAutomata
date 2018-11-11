@@ -20,6 +20,7 @@ namespace KohonenSOM
         };
         public Neuroni[,] neuronis = new Neuroni[10, 10];
         int min = -300, max = 300;
+        int matriceCoord = 10;
 
         #region Points
         private void DrawPoint(int x, int y)
@@ -72,9 +73,9 @@ namespace KohonenSOM
 
         private void InitializeNeurons()
         {
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < matriceCoord; i++)
             {
-                for (int j = 0; j < 10; j++)
+                for (int j = 0; j < matriceCoord; j++)
                 {
                     neuronis[i, j].x = -180 + i * 40; //why???
                     neuronis[i, j].y = 180 - j * 40; //why???
@@ -90,11 +91,33 @@ namespace KohonenSOM
             Graphics graphics = Graphics.FromHwnd(pictureBox1.Handle);
             Pen pen = new Pen(Color.Red, 1);
 
+            //draw points with new coordonates
             for (int i = 0; i < points.Count; i++)
             {
                 int newX = CalculateNewX(points[i].X);
                 int newY = CalculateNewY(points[i].Y);
                 DrawPoint(newX, newY);
+            }
+
+            for (int i = 0; i < matriceCoord; i++)
+            {
+                for (int j = 0; j < matriceCoord; j++)
+                {
+                    if (i < 9 && j < 9)
+                    {
+                        graphics.DrawLine(pen,
+                            (float)neuronis[i, j].x + 300,
+                            300 - (float)neuronis[i, j].y,
+                            (float)neuronis[i, j + 1].x + 300,
+                            300 - (float)neuronis[i, j + 1].y);
+
+                        graphics.DrawLine(pen,
+                            (float)neuronis[i, j].x + 300,
+                            300 - (float)neuronis[i, j].y,
+                            (float)neuronis[i + 1, j].x + 300,
+                            300 - (float)neuronis[i + 1, j].y);
+                    }
+                }
             }
 
         }
