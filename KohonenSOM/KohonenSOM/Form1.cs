@@ -70,17 +70,22 @@ namespace KohonenSOM
             }
         }
 
+        private void InitializeNeuroni()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    neuronis[i, j].x = -180 + i * 40; //why???
+                    neuronis[i, j].y = 180 - j * 40; //why???
+                }
+            }
+        }
+
         private void DrawMap()
         {
             throw new NotImplementedException();
         }
-
-        private void InitializeNeuroni()
-        {
-            throw new NotImplementedException();
-        }
-
-
 
         private void button_Points_Click(object sender, EventArgs e)
         {
