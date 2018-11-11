@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace KohonenSOM
@@ -9,6 +11,14 @@ namespace KohonenSOM
         {
             InitializeComponent();
         }
+
+        List<Point> points = new List<Point>();
+        public struct Neuroni
+        {
+            public double x;
+            public double y;
+        };
+        public Neuroni[,] neuronis = new Neuroni[10, 10];
 
         #region Points
         private void button_Points_Click(object sender, EventArgs e)
