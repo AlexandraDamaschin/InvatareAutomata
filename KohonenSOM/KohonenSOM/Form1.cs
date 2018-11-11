@@ -70,7 +70,7 @@ namespace KohonenSOM
             }
         }
 
-        private void InitializeNeuroni()
+        private void InitializeNeurons()
         {
             for (int i = 0; i < 10; i++)
             {
@@ -84,17 +84,41 @@ namespace KohonenSOM
 
         private void DrawMap()
         {
-            throw new NotImplementedException();
+            pictureBox1.Invalidate();
+            pictureBox1.Refresh();
+
+            Graphics graphics = Graphics.FromHwnd(pictureBox1.Handle);
+            Pen pen = new Pen(Color.Red, 1);
+
+            for (int i = 0; i < points.Count; i++)
+            {
+                DrawPoint(points[i].X)
+            }
+
         }
 
         private void button_Points_Click(object sender, EventArgs e)
         {
             DrawPoints();
-            InitializeNeuroni();
+            InitializeNeurons();
             DrawMap();
         }
-
         #endregion
+
+        #region Calculate new points
+        private int CalculateNewX(int x)
+        {
+            int newX = x + 300;
+            return newX;
+        }
+
+        private int CalculateNewY(int y)
+        {
+            int newY = 300 - y;
+            return newY;
+        }
+        #endregion
+
 
         #region Kohonen
         private void button_Kohonen_Click(object sender, EventArgs e)
