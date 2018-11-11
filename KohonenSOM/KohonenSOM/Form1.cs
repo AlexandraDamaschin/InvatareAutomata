@@ -118,15 +118,23 @@ namespace KohonenSOM
                             300 - (float)neuronis[i + 1, j].y);
                     }
                     else if (i == 9 && j < 9)
-                        graphics.DrawLine(pen, 
+                    {
+                        graphics.DrawLine(pen,
+                              (float)neuronis[i, j].x + 300,
+                              300 - (float)neuronis[i, j].y,
+                              (float)neuronis[i, j + 1].x + 300,
+                              300 - (float)neuronis[i, j + 1].y);
+                    }
+                    else if (i < 9 && j == 9)
+                    {
+                        graphics.DrawLine(pen,
                             (float)neuronis[i, j].x + 300,
-                            300 - (float)neuronis[i, j].y, 
-                            (float)neuronis[i, j + 1].x + 300,
-                            300 - (float)neuronis[i, j + 1].y);
-
+                            300 - (float)neuronis[i, j].y,
+                            (float)neuronis[i + 1, j].x + 300,
+                            300 - (float)neuronis[i + 1, j].y);
+                    }
                 }
             }
-
         }
 
         private void button_Points_Click(object sender, EventArgs e)
