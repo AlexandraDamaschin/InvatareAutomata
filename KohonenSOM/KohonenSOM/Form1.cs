@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace KohonenSOM
@@ -169,7 +170,66 @@ namespace KohonenSOM
 
         private void Kohonen()
         {
-            throw new NotImplementedException();
+            int N = 10;
+            int t = 1;
+            double distance, V;
+            double alfa = 0.7 * Math.Exp((-1.0 * t) / N);
+            int winnerI = 0, winnerJ = 0;
+            int VIup, VIdown, VIright, VIleft;
+
+            InitializeNeurons();
+
+            while (alfa > 0.001)
+            {
+                alfa = 0.7 * Math.Exp((-1.0 * t) / N);
+                V = 7 * Math.Exp((-1.0 * t) / N);
+                t++;
+                DrawMap();
+                Thread.Sleep(500);
+                for (int pct = 0; pct < points.Count; pct++)
+                {
+                    double minimum = 99999;
+                    for (int i = 0; i < matriceCoord; i++)
+                    {
+                        for (int j = 0; j < matriceCoord; j++)
+                        {
+                            distance = Math.Sqrt(((points[pct].X - neuronis[i, j].x) * (points[pct].X - neuronis[i, j].x)) +
+                                ((points[pct].Y - neuronis[i, j].y) * (points[pct].Y - neuronis[i, j].y)));
+                            if (distance < min)
+                            {
+                                minimum = distance;
+                                winnerI = i;
+                                winnerJ = j;
+                            }
+                        }
+                    }
+
+                    VIup = winnerI - (int)V;
+                    VIdown = winnerI + (int)V;
+                    VIleft = winnerJ - (int)V;
+                    VIright = winnerJ + (int)V;
+
+                    if (VIup < 0)
+                    {
+                        VIup = 0;
+                    }
+                    if (VIdown > 9)
+                    {
+                        VIdown = 9;
+                    }
+                    if (VIleft < 0)
+                    {
+                        VIleft = 0;
+                    }
+                    if (VIright > 9)
+                    {
+                        VIright = 9;
+                    }
+
+                }
+
+            }
+
         }
         #endregion
     }
