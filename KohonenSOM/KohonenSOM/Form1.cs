@@ -78,8 +78,8 @@ namespace KohonenSOM
             {
                 for (int j = 0; j < matriceCoord; j++)
                 {
-                    neuronis[i, j].x = -280 + i * 40; //why???
-                    neuronis[i, j].y = 280 - j * 40; //why???
+                    neuronis[i, j].x = -300 + i * 66;
+                    neuronis[i, j].y = 300 - j * 66;
                 }
             }
         }
