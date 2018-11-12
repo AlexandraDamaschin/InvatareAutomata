@@ -109,6 +109,7 @@ namespace KohonenSOM
                         //i,j
                         int newXij = CalculateNewX((int)neuronis[i, j].x);
                         int newYij = CalculateNewY((int)neuronis[i, j].y);
+
                         //i,j+1
                         int newXij1 = CalculateNewX((int)neuronis[i, j + 1].x);
                         int newYij1 = CalculateNewY((int)neuronis[i, j + 1].y);
@@ -117,7 +118,7 @@ namespace KohonenSOM
 
                         //i+1,j
                         int newXi1j = CalculateNewX((int)neuronis[i + 1, j].x);
-                        int newYi1j = CalculateNewY((int)neuronis[i, j + 1].y);
+                        int newYi1j = CalculateNewY((int)neuronis[i + 1, j].y);
 
                         graphics.DrawLine(pen, newXij, newYij, newXi1j, newYi1j);
                     }
@@ -141,7 +142,7 @@ namespace KohonenSOM
 
                         //i+1,j
                         int newXi1j = CalculateNewX((int)neuronis[i + 1, j].x);
-                        int newYi1j = CalculateNewY((int)neuronis[i, j + 1].y);
+                        int newYi1j = CalculateNewY((int)neuronis[i + 1, j].y);
 
                         graphics.DrawLine(pen, newXij, newYij, newXi1j, newYi1j);
                     }
