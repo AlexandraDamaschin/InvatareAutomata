@@ -62,7 +62,7 @@ namespace KohonenSOM
                 } while (gauss < step);
                 do
                 {
-                    y = random.Next(-200, 200);
+                    y = random.Next(min, max);
                     gauss = Math.Exp((-((my[i] - y) * (my[i] - y) * 1.0) / (2.0 * ty[i] * ty[i])));
                     step = random.Next(0, 100000);
                     step = step / 100000;
@@ -78,8 +78,8 @@ namespace KohonenSOM
             {
                 for (int j = 0; j < matriceCoord; j++)
                 {
-                    neuronis[i, j].x = -180 + i * 40; //why???
-                    neuronis[i, j].y = 180 - j * 40; //why???
+                    neuronis[i, j].x = -280 + i * 40; //why???
+                    neuronis[i, j].y = 280 - j * 40; //why???
                 }
             }
         }
@@ -134,9 +134,9 @@ namespace KohonenSOM
                             (float)neuronis[i + 1, j].x + 300,
                             300 - (float)neuronis[i + 1, j].y);
                     }
-                }
-                graphics.Dispose();
+                } 
             }
+            graphics.Dispose();
         }
 
         private void button_Points_Click(object sender, EventArgs e)
@@ -226,10 +226,17 @@ namespace KohonenSOM
                         VIright = 9;
                     }
 
+                    for (int i = VIup; i <= VIdown; i++)
+                    {
+                        for (int j = VIleft; j <= VIright; j++)
+                        {
+                            neuronis[i, j].x = neuronis[i, j].x + (alfa * (points[pct].X - neuronis[i, j].x));
+                            neuronis[i, j].y = neuronis[i, j].y + (alfa * (points[pct].Y - neuronis[i, j].y));
+                        }
+                    }
                 }
-
             }
-
+            label1.Text = "End";
         }
         #endregion
     }
