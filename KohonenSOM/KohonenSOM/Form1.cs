@@ -16,15 +16,16 @@ namespace KohonenSOM
         List<Point> points = new List<Point>();
         public struct Neuroni
         {
-            public double x;
-            public double y;
+            public float x;
+            public float y;
         };
-        public Neuroni[,] neuronis = new Neuroni[10, 10];
+        public static int matrixSize = 10;
+        public Neuroni[,] neuronis = new Neuroni[matrixSize, matrixSize];
         int min = -300, max = 300;
         int matriceCoord = 10;
 
         #region Points
-        private void DrawPoint(int x, int y)
+        private void DrawPoint(float x, float y)
         {
             Graphics graphics = Graphics.FromHwnd(pictureBox1.Handle);
             Pen pen = new Pen(Color.Black, 2);
@@ -32,7 +33,7 @@ namespace KohonenSOM
             graphics.DrawLine(pen, 0, 300, 600, 300);
 
             SolidBrush solidBrush = new SolidBrush(Color.Black);
-            Point point = new Point(x, y);
+            Point point = new Point((int)x, (int)y);
             Size size = new Size(1, 1);
             Rectangle rectangle = new Rectangle(point, size);
             graphics.FillRectangle(solidBrush, rectangle);
@@ -72,6 +73,7 @@ namespace KohonenSOM
             }
         }
 
+        //inialize neurons and draw map
         private void InitializeNeurons()
         {
             for (int i = 0; i < matriceCoord; i++)
@@ -95,8 +97,8 @@ namespace KohonenSOM
             //draw points with new coordonates
             for (int i = 0; i < points.Count; i++)
             {
-                int newX = CalculateNewX(points[i].X);
-                int newY = CalculateNewY(points[i].Y);
+                float newX = CalculateNewX(points[i].X);
+                float newY = CalculateNewY(points[i].Y);
                 DrawPoint(newX, newY);
             }
 
@@ -104,45 +106,46 @@ namespace KohonenSOM
             {
                 for (int j = 0; j < matriceCoord; j++)
                 {
-                    if (i < 9 && j < 9)
+                    int matrixSizeDecremented = matrixSize - 1;
+                    if (i < matrixSizeDecremented && j < matrixSizeDecremented)
                     {
                         //i,j
-                        int newXij = CalculateNewX((int)neuronis[i, j].x);
-                        int newYij = CalculateNewY((int)neuronis[i, j].y);
+                        float newXij = CalculateNewX((float)neuronis[i, j].x);
+                        float newYij = CalculateNewY((float)neuronis[i, j].y);
 
                         //i,j+1
-                        int newXij1 = CalculateNewX((int)neuronis[i, j + 1].x);
-                        int newYij1 = CalculateNewY((int)neuronis[i, j + 1].y);
+                        float newXij1 = CalculateNewX((float)neuronis[i, j + 1].x);
+                        float newYij1 = CalculateNewY((float)neuronis[i, j + 1].y);
 
                         graphics.DrawLine(pen, newXij, newYij, newXij1, newYij1);
 
                         //i+1,j
-                        int newXi1j = CalculateNewX((int)neuronis[i + 1, j].x);
-                        int newYi1j = CalculateNewY((int)neuronis[i + 1, j].y);
+                        float newXi1j = CalculateNewX((float)neuronis[i + 1, j].x);
+                        float newYi1j = CalculateNewY((float)neuronis[i + 1, j].y);
 
                         graphics.DrawLine(pen, newXij, newYij, newXi1j, newYi1j);
                     }
-                    else if (i == 9 && j < 9)
+                    else if (i == matrixSizeDecremented && j < matrixSizeDecremented)
                     {
                         //i,j
-                        int newXij = CalculateNewX((int)neuronis[i, j].x);
-                        int newYij = CalculateNewY((int)neuronis[i, j].y);
+                        float newXij = CalculateNewX((float)neuronis[i, j].x);
+                        float newYij = CalculateNewY((float)neuronis[i, j].y);
 
                         //i,j+1
-                        int newXij1 = CalculateNewX((int)neuronis[i, j + 1].x);
-                        int newYij1 = CalculateNewY((int)neuronis[i, j + 1].y);
+                        float newXij1 = CalculateNewX((float)neuronis[i, j + 1].x);
+                        float newYij1 = CalculateNewY((float)neuronis[i, j + 1].y);
 
                         graphics.DrawLine(pen, newXij, newYij, newXij1, newYij1);
                     }
-                    else if (i < 9 && j == 9)
+                    else if (i < matrixSizeDecremented && j == matrixSizeDecremented)
                     {
                         //i,j
-                        int newXij = CalculateNewX((int)neuronis[i, j].x);
-                        int newYij = CalculateNewY((int)neuronis[i, j].y);
+                        float newXij = CalculateNewX((float)neuronis[i, j].x);
+                        float newYij = CalculateNewY((float)neuronis[i, j].y);
 
                         //i+1,j
-                        int newXi1j = CalculateNewX((int)neuronis[i + 1, j].x);
-                        int newYi1j = CalculateNewY((int)neuronis[i + 1, j].y);
+                        float newXi1j = CalculateNewX((float)neuronis[i + 1, j].x);
+                        float newYi1j = CalculateNewY((float)neuronis[i + 1, j].y);
 
                         graphics.DrawLine(pen, newXij, newYij, newXi1j, newYi1j);
                     }
@@ -160,15 +163,15 @@ namespace KohonenSOM
         #endregion
 
         #region Calculate new points
-        private int CalculateNewX(int x)
+        private float CalculateNewX(float x)
         {
-            int newX = x + 300;
+            float newX = x + 300;
             return newX;
         }
 
-        private int CalculateNewY(int y)
+        private float CalculateNewY(float y)
         {
-            int newY = 300 - y;
+            float newY = 300 - y;
             return newY;
         }
         #endregion
@@ -182,8 +185,8 @@ namespace KohonenSOM
 
         private void Kohonen()
         {
-            int N = 10;
-            int t = 1;
+            int N = 10; //number of steps in which we want the alg to learn
+            int t = 0;
             double distance, V;
             double alfa = 0.7 * Math.Exp((-1.0 * t) / N);
             int winnerI = 0, winnerJ = 0;
@@ -193,10 +196,12 @@ namespace KohonenSOM
 
             while (alfa > 0.001)
             {
-                alfa = 0.7 * Math.Exp((-1.0 * t) / N);
-                V = 7 * Math.Exp((-1.0 * t) / N);
+               
+                alfa = 0.7 * Math.Exp((double)(-1.0 * t) / N);
+                V = 7 * Math.Exp((double)(-1.0 * t) / N);
+                Console.WriteLine("{0}, {1}", alfa, V);
                 t++;
-                DrawMap();
+                //DrawMap();
                 Thread.Sleep(500);
                 for (int pct = 0; pct < points.Count; pct++)
                 {
@@ -225,27 +230,29 @@ namespace KohonenSOM
                     {
                         VIup = 0;
                     }
-                    if (VIdown > 9)
+                    if (VIdown > matrixSize)
                     {
-                        VIdown = 9;
+                        VIdown = matrixSize;
                     }
                     if (VIleft < 0)
                     {
                         VIleft = 0;
                     }
-                    if (VIright > 9)
+                    if (VIright > matrixSize)
                     {
-                        VIright = 9;
+                        VIright = matrixSize;
                     }
 
                     for (int i = VIup; i <= VIdown; i++)
                     {
                         for (int j = VIleft; j <= VIright; j++)
                         {
-                            neuronis[i, j].x = neuronis[i, j].x + (alfa * (points[pct].X - neuronis[i, j].x));
-                            neuronis[i, j].y = neuronis[i, j].y + (alfa * (points[pct].Y - neuronis[i, j].y));
+                            neuronis[i, j].x = neuronis[i, j].x + ((float)alfa * (points[pct].X - neuronis[i, j].x));
+                            neuronis[i, j].y = neuronis[i, j].y + ((float)alfa * (points[pct].Y - neuronis[i, j].y));
                         }
                     }
+                    DrawMap();
+                    Thread.Sleep(200);
                 }
             }
             label1.Text = "End";

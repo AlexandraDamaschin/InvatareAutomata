@@ -1,7 +1,6 @@
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\bin\Debug\KohonenSOM.exe.config
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\bin\Debug\KohonenSOM.exe
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\bin\Debug\KohonenSOM.pdb
-C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.csprojAssemblyReference.cache
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.Properties.Resources.resources
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.csproj.GenerateResource.cache
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.csproj.CoreCompileInputs.cache
