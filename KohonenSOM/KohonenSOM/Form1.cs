@@ -196,7 +196,6 @@ namespace KohonenSOM
 
             while (alfa > 0.001)
             {
-               
                 alfa = 0.7 * Math.Exp((double)(-1.0 * t) / N);
                 V = 7 * Math.Exp((double)(-1.0 * t) / N);
                 Console.WriteLine("{0}, {1}", alfa, V);
