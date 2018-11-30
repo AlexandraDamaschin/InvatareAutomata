@@ -185,7 +185,7 @@ namespace KohonenSOM
         private void Kohonen()
         {
             int N = 10; //number of steps in which we want the alg to learn
-            int t = 0;
+            int t = 1;
             double distance, V;
             double alfa = 0.7 * Math.Exp((-1.0 * t) / N);
             int winnerI = 0, winnerJ = 0;
@@ -199,7 +199,7 @@ namespace KohonenSOM
                 V = 7 * Math.Exp((double)(-1.0 * t) / N);
                 Console.WriteLine("{0}, {1}", alfa, V);
                 t++;
-                //DrawMap();
+                DrawMap();
                 Thread.Sleep(500);
                 for (int pct = 0; pct < points.Count; pct++)
                 {

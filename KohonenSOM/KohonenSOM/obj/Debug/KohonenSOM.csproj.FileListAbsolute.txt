@@ -7,3 +7,4 @@ C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\Kohonen
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.exe
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.pdb
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.Form1.resources
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\KohonenSOM\KohonenSOM\obj\Debug\KohonenSOM.csprojAssemblyReference.cache
