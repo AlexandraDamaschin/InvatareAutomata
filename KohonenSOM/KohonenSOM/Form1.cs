@@ -176,7 +176,6 @@ namespace KohonenSOM
         }
         #endregion
 
-
         #region Kohonen
         private void button_Kohonen_Click(object sender, EventArgs e)
         {
