@@ -16,8 +16,8 @@ namespace KohonenSOM
         List<Point> points = new List<Point>();
         public struct Neuroni
         {
-            public float x;
-            public float y;
+            public double x;
+            public double y;
         };
         public static int matrixSize = 10;
         public Neuroni[,] neuronis = new Neuroni[matrixSize, matrixSize];
@@ -185,7 +185,7 @@ namespace KohonenSOM
         private void Kohonen()
         {
             int N = 10; //number of steps in which we want the alg to learn
-            int t = 1;
+            int t = 0; //current step
             double distance, V;
             double alfa = 0.7 * Math.Exp((-1.0 * t) / N);
             int winnerI = 0, winnerJ = 0;
@@ -195,12 +195,13 @@ namespace KohonenSOM
 
             while (alfa > 0.001)
             {
-                alfa = 0.7 * Math.Exp((double)(-1.0 * t) / N);
-                V = 7 * Math.Exp((double)(-1.0 * t) / N);
-                Console.WriteLine("{0}, {1}", alfa, V);
+                V = 7 * Math.Exp((-1.0 * t) / N);
                 t++;
+                alfa = 0.7 * Math.Exp((-1.0 * t) / N);
+
+                Console.WriteLine("{0}, {1}", alfa, V);
                 DrawMap();
-                Thread.Sleep(500);
+                //Thread.Sleep(500);
                 for (int pct = 0; pct < points.Count; pct++)
                 {
                     double minimum = 99999;
@@ -210,12 +211,13 @@ namespace KohonenSOM
                         {
                             distance = Math.Sqrt(((points[pct].X - neuronis[i, j].x) * (points[pct].X - neuronis[i, j].x)) +
                                 ((points[pct].Y - neuronis[i, j].y) * (points[pct].Y - neuronis[i, j].y)));
-                            if (distance < min)
+                            if (distance < minimum)
                             {
                                 minimum = distance;
                                 winnerI = i;
                                 winnerJ = j;
                             }
+
                         }
                     }
 
@@ -241,16 +243,19 @@ namespace KohonenSOM
                         VIright = matrixSize;
                     }
 
-                    for (int i = VIup; i <= VIdown; i++)
+                    int count = 0;
+                    for (int i = VIup; i < VIdown; i++)
                     {
-                        for (int j = VIleft; j <= VIright; j++)
+                        for (int j = VIleft; j < VIright; j++)
                         {
                             neuronis[i, j].x = neuronis[i, j].x + ((float)alfa * (points[pct].X - neuronis[i, j].x));
                             neuronis[i, j].y = neuronis[i, j].y + ((float)alfa * (points[pct].Y - neuronis[i, j].y));
+                            count++;
                         }
                     }
+                    label1.Text = "Epoch no: " + count;
                     DrawMap();
-                    Thread.Sleep(200);
+                    //  Thread.Sleep(200);
                 }
             }
             label1.Text = "End";
