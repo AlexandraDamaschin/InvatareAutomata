@@ -197,7 +197,7 @@ namespace KohonenSOM
                 V = 7 * Math.Exp((-1.0 * t) / N);
                 t++;
                 alfa = 0.7 * Math.Exp((-1.0 * t) / N);
-
+                Console.WriteLine("Alfa & V:");
                 Console.WriteLine("{0}, {1}", alfa, V);
                 DrawMap();
                 //Thread.Sleep(500);
@@ -210,13 +210,13 @@ namespace KohonenSOM
                         {
                             distance = Math.Sqrt(((points[pct].X - neuronis[i, j].x) * (points[pct].X - neuronis[i, j].x)) +
                                 ((points[pct].Y - neuronis[i, j].y) * (points[pct].Y - neuronis[i, j].y)));
+
                             if (distance < minimum)
                             {
                                 minimum = distance;
                                 winnerI = i;
                                 winnerJ = j;
                             }
-
                         }
                     }
 
@@ -253,9 +253,9 @@ namespace KohonenSOM
                         }
                     }
                     label1.Text = "Epoch no: " + count;
-                    DrawMap();
                     //  Thread.Sleep(200);
                 }
+                //DrawMap();
             }
             label1.Text = "End";
         }
