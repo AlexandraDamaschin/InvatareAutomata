@@ -205,7 +205,6 @@ namespace KohonenSOM
                 Console.WriteLine("Alfa & V:");
                 Console.WriteLine("{0}, {1}", alfa, V);
                 DrawMap();
-                label1.Text = "Epoch no: " + count;
                 count++;
                 //Thread.Sleep(500);
                 for (int pct = 0; pct < points.Count; pct++)
@@ -258,6 +257,8 @@ namespace KohonenSOM
                         }
                     }
                     //  Thread.Sleep(200);
+                    //label1.Text = "Epoch no: " + count;
+                    //Refresh();
                 }
             }
             label1.Text = "End";
