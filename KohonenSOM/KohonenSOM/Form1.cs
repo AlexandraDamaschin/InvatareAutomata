@@ -201,7 +201,7 @@ namespace KohonenSOM
             {
                 V = 7 * Math.Exp((-1.0 * t) / N); //calculate distance
                 t++;
-                alfa = 0.7 * Math.Exp((-1.0 * t) / N);
+                alfa = 0.7 * Math.Exp((-1.0 * t) / N); ///learing step
                 Console.WriteLine("Alfa & V:");
                 Console.WriteLine("{0}, {1}", alfa, V);
                 DrawMap();
@@ -235,22 +235,22 @@ namespace KohonenSOM
                     {
                         VIup = 0;
                     }
-                    if (VIdown > matrixSize)
+                    if (VIdown >= matrixSize)
                     {
-                        VIdown = matrixSize;
+                        VIdown = matrixSize-1;
                     }
                     if (VIleft < 0)
                     {
                         VIleft = 0;
                     }
-                    if (VIright > matrixSize)
+                    if (VIright >= matrixSize)
                     {
-                        VIright = matrixSize;
+                        VIright = matrixSize-1;
                     }
 
-                    for (int i = VIup; i < VIdown; i++)
+                    for (int i = VIup; i <= VIdown; i++)
                     {
-                        for (int j = VIleft; j < VIright; j++)
+                        for (int j = VIleft; j <= VIright; j++)
                         {
                             neuronis[i, j].x = neuronis[i, j].x + ((float)alfa * (points[pct].X - neuronis[i, j].x));
                             neuronis[i, j].y = neuronis[i, j].y + ((float)alfa * (points[pct].Y - neuronis[i, j].y));
