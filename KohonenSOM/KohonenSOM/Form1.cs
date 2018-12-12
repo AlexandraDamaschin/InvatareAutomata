@@ -18,12 +18,14 @@ namespace KohonenSOM
             public double x;
             public double y;
         };
+
         public static int matrixSize = 10;
         public Neuroni[,] neuronis = new Neuroni[matrixSize, matrixSize];
         int min = -300, max = 300;
         int matriceCoord = 10;
+        int numberOfPoints = 3000;
 
-        #region Points
+        #region Draw Point/s & Map
         private void DrawPoint(float x, float y)
         {
             Graphics graphics = Graphics.FromHwnd(pictureBox1.Handle);
@@ -50,7 +52,7 @@ namespace KohonenSOM
             int[] tx = { 20, 10, 10 };
             int[] ty = { 10, 5, 30 };
 
-            while (constant < 3000) //draw only 3 points
+            while (constant < numberOfPoints)
             {
                 i = random.Next(0, 3);
                 do
@@ -101,6 +103,7 @@ namespace KohonenSOM
                 DrawPoint(newX, newY);
             }
 
+            //draw map (lines between points)
             for (int i = 0; i < matriceCoord; i++)
             {
                 for (int j = 0; j < matriceCoord; j++)
@@ -152,6 +155,7 @@ namespace KohonenSOM
             }
             graphics.Dispose();
         }
+        #endregion
 
         private void button_Points_Click(object sender, EventArgs e)
         {
@@ -159,7 +163,7 @@ namespace KohonenSOM
             InitializeNeurons();
             DrawMap();
         }
-        #endregion
+
 
         #region Calculate new points
         private float CalculateNewX(float x)
