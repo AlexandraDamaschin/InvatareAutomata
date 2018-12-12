@@ -27,7 +27,7 @@ namespace KohonenSOM
         private void DrawPoint(float x, float y)
         {
             Graphics graphics = Graphics.FromHwnd(pictureBox1.Handle);
-            Pen pen = new Pen(Color.Black, 2);
+            Pen pen = new Pen(Color.Black, 3);
             graphics.DrawLine(pen, 300, 0, 300, 600);
             graphics.DrawLine(pen, 0, 300, 600, 300);
 
@@ -189,17 +189,20 @@ namespace KohonenSOM
             double alfa = 0.7 * Math.Exp((-1.0 * t) / N);
             int winnerI = 0, winnerJ = 0;
             int VIup, VIdown, VIright, VIleft;
+            int count = 0;
 
             InitializeNeurons();
 
             while (alfa > 0.001)
             {
-                V = 7 * Math.Exp((-1.0 * t) / N);
+                V = 7 * Math.Exp((-1.0 * t) / N); //calculate distance
                 t++;
                 alfa = 0.7 * Math.Exp((-1.0 * t) / N);
                 Console.WriteLine("Alfa & V:");
                 Console.WriteLine("{0}, {1}", alfa, V);
                 DrawMap();
+                label1.Text = "Epoch no: " + count;
+                count++;
                 //Thread.Sleep(500);
                 for (int pct = 0; pct < points.Count; pct++)
                 {
@@ -242,20 +245,16 @@ namespace KohonenSOM
                         VIright = matrixSize;
                     }
 
-                    int count = 0;
                     for (int i = VIup; i < VIdown; i++)
                     {
                         for (int j = VIleft; j < VIright; j++)
                         {
                             neuronis[i, j].x = neuronis[i, j].x + ((float)alfa * (points[pct].X - neuronis[i, j].x));
                             neuronis[i, j].y = neuronis[i, j].y + ((float)alfa * (points[pct].Y - neuronis[i, j].y));
-                            count++;
                         }
                     }
-                    label1.Text = "Epoch no: " + count;
                     //  Thread.Sleep(200);
                 }
-                //DrawMap();
             }
             label1.Text = "End";
         }
