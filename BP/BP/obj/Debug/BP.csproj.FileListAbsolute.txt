@@ -1,0 +1,16 @@
+D:\Facultate\AN IV\Semestrul 2\Invatare automata\L4 Back propagation\BP\BP\bin\Debug\BP.exe.config
+D:\Facultate\AN IV\Semestrul 2\Invatare automata\L4 Back propagation\BP\BP\bin\Debug\BP.exe
+D:\Facultate\AN IV\Semestrul 2\Invatare automata\L4 Back propagation\BP\BP\bin\Debug\BP.pdb
+D:\Facultate\AN IV\Semestrul 2\Invatare automata\L4 Back propagation\BP\BP\obj\Debug\BP.csprojResolveAssemblyReference.cache
+D:\Facultate\AN IV\Semestrul 2\Invatare automata\L4 Back propagation\BP\BP\obj\Debug\BP.exe
+D:\Facultate\AN IV\Semestrul 2\Invatare automata\L4 Back propagation\BP\BP\obj\Debug\BP.pdb
+D:\Doc Facultate\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\bin\Debug\BP.exe.config
+D:\Doc Facultate\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\obj\Debug\BP.exe
+D:\Doc Facultate\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\obj\Debug\BP.pdb
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\bin\Debug\BP.exe.config
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\bin\Debug\BP.exe
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\bin\Debug\BP.pdb
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\obj\Debug\BP.csprojAssemblyReference.cache
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\obj\Debug\BP.csproj.CoreCompileInputs.cache
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\obj\Debug\BP.exe
+C:\AlexandraFiles\Faculty\Anul 4 sem 2\Anul 4 sem 2\Volovici - Invatare Automata\Lab - Morariu\BP\BP\obj\Debug\BP.pdb
