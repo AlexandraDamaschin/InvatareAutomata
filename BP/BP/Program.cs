@@ -42,7 +42,7 @@ namespace BackPropagationXor
                 weights[0] = r.NextDouble();
                 weights[1] = r.NextDouble();
                 biasWeight = r.NextDouble();
-                Console.WriteLine("weight0:{0}, weight 1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
+                Console.WriteLine("weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
             }
 
             public void adjustWeights()
@@ -50,6 +50,7 @@ namespace BackPropagationXor
                 weights[0] += error * inputs[0];
                 weights[1] += error * inputs[1];
                 biasWeight += error;
+                Console.WriteLine("Adjust weights: weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
             }
         }
         
