@@ -82,7 +82,7 @@ namespace BackPropagationXor
 
         Retry:
             epoch++;
-            for (int i = 0; i < 4; i++)  // very important, do NOT train for only one example
+            for (int i = 0; i < 4; i++)  // train all examples
             {
                 // 1) forward propagation (calculates output)
                 hiddenNeuron1.inputs = new double[] { inputs[i, 0], inputs[i, 1] };
