@@ -42,7 +42,7 @@ namespace BackPropagationXor
                 weights[0] = r.NextDouble();
                 weights[1] = r.NextDouble();
                 biasWeight = r.NextDouble();
-                Console.WriteLine("weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
+                //Console.WriteLine("weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
             }
 
             public void adjustWeights()
@@ -50,7 +50,7 @@ namespace BackPropagationXor
                 weights[0] += error * inputs[0];
                 weights[1] += error * inputs[1];
                 biasWeight += error;
-                Console.WriteLine("Adjust weights: weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
+               // Console.WriteLine("Adjust weights: weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
             }
         }
         
@@ -66,14 +66,14 @@ namespace BackPropagationXor
             };
 
             // desired results
-            double[] results = { 0, 1, 1, 0 };
+            double[] expectedResults = { 0, 1, 1, 0 };
 
-            // creating the neurons
+            // creating the hiden neurons
             Neuron hiddenNeuron1 = new Neuron();
             Neuron hiddenNeuron2 = new Neuron();
             Neuron outputNeuron = new Neuron();
 
-            // random weights
+            // random weights for hiden neurons
             hiddenNeuron1.randomizeWeights();
             hiddenNeuron2.randomizeWeights();
             outputNeuron.randomizeWeights();
@@ -95,7 +95,7 @@ namespace BackPropagationXor
                 // 2) back propagation (adjusts weights)
 
                 // adjusts the weight of the output neuron, based on its error
-                outputNeuron.error = sigmoid.derivative(outputNeuron.output) * (results[i] - outputNeuron.output);
+                outputNeuron.error = sigmoid.derivative(outputNeuron.output) * (expectedResults[i] - outputNeuron.output);
                 outputNeuron.adjustWeights();
 
                 // then adjusts the hidden neurons' weights, based on their errors
