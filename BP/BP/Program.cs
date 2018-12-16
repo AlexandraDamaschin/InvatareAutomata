@@ -80,6 +80,7 @@ namespace BackPropagationXor
 
             int epoch = 0;
 
+        //retry while epoch < 2000
         Retry:
             epoch++;
             for (int i = 0; i < 4; i++)  // train all examples
