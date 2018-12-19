@@ -109,7 +109,6 @@ namespace BackPropagationXor
 
             if (epoch < 2000)
                 goto Retry;
-
             Console.ReadLine();
         }
     }
