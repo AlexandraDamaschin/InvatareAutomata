@@ -30,7 +30,7 @@ namespace BackPropagationXor
 
             private double biasWeight;
 
-            private Random r = new Random();
+            private Random random = new Random();
 
             public double output
             {
@@ -39,9 +39,9 @@ namespace BackPropagationXor
 
             public void randomizeWeights()
             {
-                weights[0] = r.NextDouble();
-                weights[1] = r.NextDouble();
-                biasWeight = r.NextDouble();
+                weights[0] = random.NextDouble();
+                weights[1] = random.NextDouble();
+                biasWeight = random.NextDouble();
                 //Console.WriteLine("weight0:{0}, weight1: {1}, bias:{2}", weights[0], weights[1], biasWeight);
             }
 
@@ -79,6 +79,7 @@ namespace BackPropagationXor
             outputNeuron.randomizeWeights();
 
             int epoch = 0;
+            double E;
 
         //retry while epoch < 2000
         Retry:
@@ -105,7 +106,8 @@ namespace BackPropagationXor
 
                 hiddenNeuron1.adjustWeights();
                 hiddenNeuron2.adjustWeights();
-                
+                E = Math.Pow(outputNeuron.output - expectedResults[i], 2);
+                Console.WriteLine("Error: {0}", E);
             }
 
             if (epoch < 10)
