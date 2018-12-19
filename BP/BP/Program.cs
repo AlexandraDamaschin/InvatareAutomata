@@ -91,7 +91,7 @@ namespace BackPropagationXor
 
                 outputNeuron.inputs = new double[] { hiddenNeuron1.output, hiddenNeuron2.output };
 
-                Console.WriteLine("{0} xor {1} = {2}", inputs[i, 0], inputs[i, 1], outputNeuron.output);
+                Console.WriteLine("{0} xor {1} = {2},", inputs[i, 0], inputs[i, 1], outputNeuron.output);
 
                 // 2) back propagation (adjusts weights)
 
@@ -105,9 +105,10 @@ namespace BackPropagationXor
 
                 hiddenNeuron1.adjustWeights();
                 hiddenNeuron2.adjustWeights();
+                
             }
 
-            if (epoch < 2000)
+            if (epoch < 10)
                 goto Retry;
             Console.ReadLine();
         }
