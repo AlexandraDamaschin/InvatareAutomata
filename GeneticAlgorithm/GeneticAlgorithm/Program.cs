@@ -43,6 +43,8 @@ namespace GeneticAlgorithm
                 //generate random population
                 chromosomes[i].x = random.NextDouble() * 5;
                 chromosomes[i].valLong = doubleToLong(chromosomes[i].x);
+
+                //fitness function?
             }
         }
 
@@ -51,6 +53,16 @@ namespace GeneticAlgorithm
         {
             long bits = (long)BitConverter.DoubleToInt64Bits(x);
             return bits;
+        }
+
+        //write chromosomes 
+        void writeChromosomes()
+        {
+            for (int i = 0; i < maxNumberOfChromosomes; i++)
+            {
+                streamWriter.Write(chromosomes[i].valFunction + ";" + chromosomes[i].x + ";" + ";");
+                streamWriter.WriteLine();
+            }
         }
 
         static void Main(string[] args)
