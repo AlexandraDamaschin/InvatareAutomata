@@ -68,7 +68,8 @@ namespace GeneticAlgorithm
         //apply mutation
         void applyMutation(int chromosomeIndex)
         {
-
+            int selectedChromosom = selectRandomChromosome();
+            Chromosome selectedChromosome;
         }
 
         //select random chromosom
@@ -92,6 +93,17 @@ namespace GeneticAlgorithm
             }
 
             return maxNumberOfChromosomes / 2;
+        }
+
+        //copy chromosome
+        Chromosome copyChromosome(Chromosome chromosome)
+        {
+            Chromosome newChromosome = new Chromosome();
+            newChromosome.x = chromosome.x;
+            newChromosome.valLong = chromosome.valLong;
+            newChromosome.valFunction = chromosome.valFunction;
+
+            return newChromosome;
         }
 
         static void Main(string[] args)
