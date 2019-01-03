@@ -44,7 +44,9 @@ namespace GeneticAlgorithm
                 chromosomes[i].x = random.NextDouble() * 5;
                 chromosomes[i].valLong = doubleToLong(chromosomes[i].x);
 
-                //fitness function?
+                //foreach chromosome from the entire population calculate trust 
+                //using fitness function
+                chromosomes[i].valFunction = fitness(chromosomes[i].x);
             }
         }
 
@@ -103,6 +105,12 @@ namespace GeneticAlgorithm
                 }
 
             } while (!ok);
+        }
+
+        //@todo
+        void applyCrossover(int chromosomeIndex, int kidsNumber)
+        {
+
         }
 
         //select random chromosom
