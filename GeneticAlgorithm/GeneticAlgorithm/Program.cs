@@ -55,6 +55,12 @@ namespace GeneticAlgorithm
             return bits;
         }
 
+        //convert x from long to double
+        public double longToDouble(long x)
+        {
+            return BitConverter.Int64BitsToDouble(x);
+        }
+
         //write chromosomes 
         void writeChromosomes()
         {
@@ -69,7 +75,24 @@ namespace GeneticAlgorithm
         void applyMutation(int chromosomeIndex)
         {
             int selectedChromosom = selectRandomChromosome();
-            Chromosome selectedChromosome;
+            Chromosome selectedChromosome = copyChromosome(chromosomes[chromosomeIndex]);
+
+            int numberOfChangedValues = random.Next(1, maxLenght);
+            int indexByte;
+            bool ok;
+
+            do
+            {
+                ok = true;
+                for (int i = 0; i < numberOfChangedValues; i++)
+                {
+                    indexByte = random.Next(maxLenght);
+                    selectedChromosome.valLong = mutationChromosome(selectedChromosome.valLong, indexByte);
+                }
+
+                selectedChromosome.x = longToDouble(selectedChromosome.valLong);
+            } while (!ok);
+
         }
 
         //select random chromosom
@@ -104,6 +127,14 @@ namespace GeneticAlgorithm
             newChromosome.valFunction = chromosome.valFunction;
 
             return newChromosome;
+        }
+
+        //make mutation of a chromosome
+        long mutationChromosome(long binarChromosome, int indexMutation)
+        {
+
+            binarChromosome ^= (long)(1 << indexMutation);
+            return binarChromosome;
         }
 
         static void Main(string[] args)
