@@ -137,6 +137,13 @@ namespace GeneticAlgorithm
             return binarChromosome;
         }
 
+        //fitness function = we want to find out the min
+        public double fitness(double val)
+        {
+            return Math.Sinh(Math.Cos(val) * Math.Cos(val) + 1);
+        }
+
+
         static void Main(string[] args)
         {
         }
