@@ -65,6 +65,35 @@ namespace GeneticAlgorithm
             }
         }
 
+        //apply mutation
+        void applyMutation(int chromosomeIndex)
+        {
+
+        }
+
+        //select random chromosom
+        int selectRandomChromosome()
+        {
+            double total = 0, sum = 0;
+            double rand = random.NextDouble();
+
+            for (int i = 0; i < maxNumberOfChromosomes / 2; i++)
+            {
+                total += chromosomes[i].valFunction;
+            }
+
+            for (int i = 0; i < maxNumberOfChromosomes / 2; i++)
+            {
+                if ((rand > sum) && (rand < (sum + 1 / chromosomes[i].valFunction) / total))
+                {
+                    return i;
+                }
+                sum += (1 / chromosomes[i].valFunction) / total;
+            }
+
+            return maxNumberOfChromosomes / 2;
+        }
+
         static void Main(string[] args)
         {
         }
