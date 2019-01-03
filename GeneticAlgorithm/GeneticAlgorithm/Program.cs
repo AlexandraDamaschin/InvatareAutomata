@@ -91,8 +91,18 @@ namespace GeneticAlgorithm
                 }
 
                 selectedChromosome.x = longToDouble(selectedChromosome.valLong);
-            } while (!ok);
+                selectedChromosome.valFunction = fitness(selectedChromosome.x);
 
+                if (selectedChromosome.x >= 0 && selectedChromosome.x <= 5)
+                {
+                    chromosomes[chromosomeIndex] = selectedChromosome;
+                }
+                else
+                {
+                    ok = false;
+                }
+
+            } while (!ok);
         }
 
         //select random chromosom
