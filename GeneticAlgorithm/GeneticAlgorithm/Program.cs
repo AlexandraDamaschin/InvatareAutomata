@@ -26,7 +26,7 @@ namespace GeneticAlgorithm
                 Console.WriteLine(ex);
             }
         }
-        
+
         void initializeAlgorithm()
         {
             Console.WriteLine("Number of steps:");
@@ -36,6 +36,21 @@ namespace GeneticAlgorithm
             maxNumberOfChromosomes = Convert.ToInt32(Console.ReadLine());
 
             chromosomes = new Chromosome[maxNumberOfChromosomes];
+
+            for (int i = 0; i < maxNumberOfChromosomes; i++)
+            {
+                chromosomes[i] = new Chromosome();
+                //generate random population
+                chromosomes[i].x = random.NextDouble() * 5;
+                chromosomes[i].valLong = doubleToLong(chromosomes[i].x);
+            }
+        }
+
+        //convert x from double to long
+        public long doubleToLong(double x)
+        {
+            long bits = (long)BitConverter.DoubleToInt64Bits(x);
+            return bits;
         }
 
         static void Main(string[] args)
