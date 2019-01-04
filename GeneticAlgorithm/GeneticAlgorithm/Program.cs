@@ -176,6 +176,33 @@ namespace GeneticAlgorithm
             } while (!ok);
         }
 
+        //ordonate chromosomes
+        void ordonateChromosomes()
+        {
+            Chromosome chromosom;
+            int flag;
+
+            do
+            {
+                flag = 0;
+
+                for (int i = 0; i < maxNumberOfChromosomes - 1; i++)
+                {
+                    for (int j = i + 1; j < maxNumberOfChromosomes; j++)
+                    {
+                        if (chromosomes[i].valFunction > chromosomes[j].valFunction)
+                        {
+                            chromosom = chromosomes[i];
+                            chromosomes[i] = chromosomes[j];
+                            chromosomes[j] = chromosom;
+                            flag = 1;
+                        }
+                    }
+                }
+
+            } while (flag == 1);
+        }
+
         //select random chromosom
         int selectRandomChromosome()
         {
