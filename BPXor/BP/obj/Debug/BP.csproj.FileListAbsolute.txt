@@ -21,3 +21,10 @@ C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BP\BP\obj\Debug\BP
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BP\BP\obj\Debug\BP.csproj.CoreCompileInputs.cache
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BP\BP\obj\Debug\BP.exe
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BP\BP\obj\Debug\BP.pdb
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\bin\Debug\BP.exe.config
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\bin\Debug\BP.exe
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\bin\Debug\BP.pdb
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\obj\Debug\BP.csprojAssemblyReference.cache
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\obj\Debug\BP.csproj.CoreCompileInputs.cache
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\obj\Debug\BP.exe
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BPXor\BP\obj\Debug\BP.pdb

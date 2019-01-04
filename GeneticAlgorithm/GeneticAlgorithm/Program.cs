@@ -113,6 +113,16 @@ namespace GeneticAlgorithm
         //@todo
         void applyCrossover(int chromosomeIndex, int kidsNumber)
         {
+            int indexParent1 = selectRandomChromosome();
+            int indexParent2 = selectRandomChromosome();
+            long temp;
+            bool ok = false;
+
+            //in case both parents are the same select again
+            while (indexParent1 == indexParent2)
+            {
+                indexParent2 = selectRandomChromosome();
+            }
 
         }
 
