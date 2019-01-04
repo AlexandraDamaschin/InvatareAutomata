@@ -50,6 +50,46 @@ namespace GeneticAlgorithm
             }
         }
 
+        void Algorithm()
+        {
+            //initialize algorithm
+            initializeAlgorithm();
+
+            ordonateChromosomes();
+            writeChromosomes();
+
+            for (int i = 0; i < generations; i++)
+            {
+                for (int j = maxNumberOfChromosomes / 2; j < maxNumberOfChromosomes; j++)
+                {
+                    int probability = random.Next(100);
+
+                    if (probability < 20)
+                    {
+                        applyMutation(j);
+                    }
+                    else
+                    {
+                        if (j < maxNumberOfChromosomes - 1)
+                        {
+                            applyCrossover(j, 2);
+                            j++;
+                        }
+                        else
+                        {
+                            applyCrossover(j, 1);
+                        }
+                    }
+                }
+                ordonateChromosomes();
+                writeChromosomes();
+                Console.WriteLine(i);
+            }
+            streamWriter.Close();
+            test();
+            Console.Read();
+        }
+
         #region transforms
         //convert x from double to long
         public long doubleToLong(double x)
@@ -251,9 +291,18 @@ namespace GeneticAlgorithm
             return Math.Sinh(Math.Cos(val) * Math.Cos(val) + 1);
         }
 
+        void test()
+        {
+            for (double d = 0; d < 5; d += 0.2)
+            {
+                Console.WriteLine(d + ":" + fitness(d));
+            }
+        }
 
         static void Main(string[] args)
         {
+            initializeAlgorithm();
+            Algorithm();
         }
     }
 }
