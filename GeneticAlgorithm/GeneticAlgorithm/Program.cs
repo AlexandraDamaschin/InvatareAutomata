@@ -5,13 +5,13 @@ namespace GeneticAlgorithm
 {
     class Program
     {
-        StreamWriter streamWriter;
-        int maxNumberOfChromosomes = 30;
-        int maxLenght = 64;
-        int generations = 0;
-        Chromosome[] chromosomes;
-        int ct = 0;
-        Random random = new Random();
+        static StreamWriter streamWriter;
+        static int maxNumberOfChromosomes = 30;
+        static int maxLenght = 64;
+        static int generations = 0;
+        static Chromosome[] chromosomes;
+        static int ct = 0;
+        static Random random = new Random();
 
         void initializeFile()
         {
@@ -27,7 +27,7 @@ namespace GeneticAlgorithm
             }
         }
 
-        void initializeAlgorithm()
+        static void initializeAlgorithm()
         {
             Console.WriteLine("Number of steps:");
             generations = Convert.ToInt32(Console.ReadLine());
@@ -50,7 +50,7 @@ namespace GeneticAlgorithm
             }
         }
 
-        void Algorithm()
+        static void Algorithm()
         {
             //initialize algorithm
             initializeAlgorithm();
@@ -92,14 +92,14 @@ namespace GeneticAlgorithm
 
         #region transforms
         //convert x from double to long
-        public long doubleToLong(double x)
+        static public long doubleToLong(double x)
         {
             long bits = (long)BitConverter.DoubleToInt64Bits(x);
             return bits;
         }
 
         //convert x from long to double
-        public double longToDouble(long x)
+        static public double longToDouble(long x)
         {
             return BitConverter.Int64BitsToDouble(x);
         }
@@ -107,7 +107,7 @@ namespace GeneticAlgorithm
         #endregion
 
         //write chromosomes 
-        void writeChromosomes()
+        static void writeChromosomes()
         {
             for (int i = 0; i < maxNumberOfChromosomes; i++)
             {
@@ -117,7 +117,7 @@ namespace GeneticAlgorithm
         }
 
         //apply mutation
-        void applyMutation(int chromosomeIndex)
+        static void applyMutation(int chromosomeIndex)
         {
             int selectedChromosom = selectRandomChromosome();
             Chromosome selectedChromosome = copyChromosome(chromosomes[chromosomeIndex]);
@@ -151,7 +151,7 @@ namespace GeneticAlgorithm
         }
 
         //apply crossover
-        void applyCrossover(int chromosomeIndex, int kidsNumber)
+        static void applyCrossover(int chromosomeIndex, int kidsNumber)
         {
             int indexParent1 = selectRandomChromosome();
             int indexParent2 = selectRandomChromosome();
@@ -217,7 +217,7 @@ namespace GeneticAlgorithm
         }
 
         //ordonate chromosomes
-        void ordonateChromosomes()
+        static void ordonateChromosomes()
         {
             Chromosome chromosom;
             int flag;
@@ -244,7 +244,7 @@ namespace GeneticAlgorithm
         }
 
         //select random chromosom
-        int selectRandomChromosome()
+        static int selectRandomChromosome()
         {
             double total = 0, sum = 0;
             double rand = random.NextDouble();
@@ -267,7 +267,7 @@ namespace GeneticAlgorithm
         }
 
         //copy chromosome
-        Chromosome copyChromosome(Chromosome chromosome)
+        static Chromosome copyChromosome(Chromosome chromosome)
         {
             Chromosome newChromosome = new Chromosome();
             newChromosome.x = chromosome.x;
@@ -278,7 +278,7 @@ namespace GeneticAlgorithm
         }
 
         //make mutation of a chromosome
-        long mutationChromosome(long binarChromosome, int indexMutation)
+        static long mutationChromosome(long binarChromosome, int indexMutation)
         {
 
             binarChromosome ^= (long)(1 << indexMutation);
@@ -286,12 +286,12 @@ namespace GeneticAlgorithm
         }
 
         //fitness function = we want to find out the min
-        public double fitness(double val)
+        static public double fitness(double val)
         {
             return Math.Sinh(Math.Cos(val) * Math.Cos(val) + 1);
         }
 
-        void test()
+        static void test()
         {
             for (double d = 0; d < 5; d += 0.2)
             {
