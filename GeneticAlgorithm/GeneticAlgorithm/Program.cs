@@ -50,6 +50,7 @@ namespace GeneticAlgorithm
             }
         }
 
+        #region transforms
         //convert x from double to long
         public long doubleToLong(double x)
         {
@@ -62,6 +63,8 @@ namespace GeneticAlgorithm
         {
             return BitConverter.Int64BitsToDouble(x);
         }
+
+        #endregion
 
         //write chromosomes 
         void writeChromosomes()
