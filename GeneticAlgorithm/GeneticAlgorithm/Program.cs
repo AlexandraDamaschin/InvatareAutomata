@@ -13,7 +13,7 @@ namespace GeneticAlgorithm
         static int ct = 0;
         static Random random = new Random();
 
-        void initializeFile()
+        static void initializeFile()
         {
             try
             {
@@ -24,29 +24,6 @@ namespace GeneticAlgorithm
                 ct++;
                 initializeFile();
                 Console.WriteLine(ex);
-            }
-        }
-
-        static void initializeAlgorithm()
-        {
-            Console.WriteLine("Number of steps:");
-            generations = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Number of chromosomes:");
-            maxNumberOfChromosomes = Convert.ToInt32(Console.ReadLine());
-
-            chromosomes = new Chromosome[maxNumberOfChromosomes];
-
-            for (int i = 0; i < maxNumberOfChromosomes; i++)
-            {
-                chromosomes[i] = new Chromosome();
-                //generate random population
-                chromosomes[i].x = random.NextDouble() * 5;
-                chromosomes[i].valLong = doubleToLong(chromosomes[i].x);
-
-                //foreach chromosome from the entire population calculate trust 
-                //using fitness function
-                chromosomes[i].valFunction = fitness(chromosomes[i].x);
             }
         }
 
@@ -88,6 +65,29 @@ namespace GeneticAlgorithm
             streamWriter.Close();
             test();
             Console.Read();
+        }
+
+        static void initializeAlgorithm()
+        {
+            Console.WriteLine("Number of steps:");
+            generations = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Number of chromosomes:");
+            maxNumberOfChromosomes = Convert.ToInt32(Console.ReadLine());
+
+            chromosomes = new Chromosome[maxNumberOfChromosomes];
+
+            for (int i = 0; i < maxNumberOfChromosomes; i++)
+            {
+                chromosomes[i] = new Chromosome();
+                //generate random population
+                chromosomes[i].x = random.NextDouble() * 5;
+                chromosomes[i].valLong = doubleToLong(chromosomes[i].x);
+
+                //foreach chromosome from the entire population calculate trust 
+                //using fitness function
+                chromosomes[i].valFunction = fitness(chromosomes[i].x);
+            }
         }
 
         #region transforms
@@ -175,7 +175,7 @@ namespace GeneticAlgorithm
 
                 for (int i = 0; i < maxLenght - 1; i++)
                 {
-                    long bit = (long)random.Next(2);
+                    long bit = random.Next(2);
                     selectionValue = (selectionValue << 1) + bit;
                 }
 
@@ -270,9 +270,10 @@ namespace GeneticAlgorithm
         static Chromosome copyChromosome(Chromosome chromosome)
         {
             Chromosome newChromosome = new Chromosome();
-            newChromosome.x = chromosome.x;
-            newChromosome.valLong = chromosome.valLong;
+
             newChromosome.valFunction = chromosome.valFunction;
+            newChromosome.valLong = chromosome.valLong;
+            newChromosome.x = chromosome.x;
 
             return newChromosome;
         }
@@ -301,7 +302,7 @@ namespace GeneticAlgorithm
 
         static void Main(string[] args)
         {
-            initializeAlgorithm();
+            initializeFile();
             Algorithm();
         }
     }
