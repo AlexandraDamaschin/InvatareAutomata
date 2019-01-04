@@ -110,7 +110,7 @@ namespace GeneticAlgorithm
             } while (!ok);
         }
 
-        //@todo
+        //apply crossover
         void applyCrossover(int chromosomeIndex, int kidsNumber)
         {
             int indexParent1 = selectRandomChromosome();
@@ -124,6 +124,56 @@ namespace GeneticAlgorithm
                 indexParent2 = selectRandomChromosome();
             }
 
+            Chromosome parent1 = copyChromosome(chromosomes[indexParent1]);
+            Chromosome parent2 = copyChromosome(chromosomes[indexParent2]);
+            Chromosome kid = new Chromosome();
+
+            do
+            {
+                ok = true;
+                long selectionValue = 0;
+
+                for (int i = 0; i < maxLenght - 1; i++)
+                {
+                    long bit = (long)random.Next(2);
+                    selectionValue = (selectionValue << 1) + bit;
+                }
+
+                temp = (parent1.valLong & (~selectionValue));
+                temp = temp & parent2.valLong;
+
+                kid.valLong = temp;
+                kid.x = longToDouble(temp);
+                kid.valFunction = fitness(kid.x);
+
+                if (kid.x >= 0 & kid.x <= 5)
+                {
+                    chromosomes[chromosomeIndex] = kid;
+                }
+                else
+                {
+                    ok = false;
+                }
+
+                if (kidsNumber == 2)
+                {
+                    temp = parent1.valLong & selectionValue;
+                    temp = temp & (~parent2.valLong);
+
+                    kid.valLong = temp;
+                    kid.x = longToDouble(temp);
+                    kid.valFunction = fitness(kid.x);
+
+                    if (kid.x >= 0 & kid.x <= 5)
+                    {
+                        chromosomes[chromosomeIndex + 1] = kid;
+                    }
+                    else
+                    {
+                        ok = false;
+                    }
+                }
+            } while (!ok);
         }
 
         //select random chromosom
