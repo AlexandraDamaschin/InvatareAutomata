@@ -91,6 +91,7 @@ namespace GeneticAlgorithm
         }
 
         #region transforms
+
         //convert x from double to long
         static public long doubleToLong(double x)
         {
