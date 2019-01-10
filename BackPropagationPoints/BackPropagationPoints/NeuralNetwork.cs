@@ -13,7 +13,6 @@ namespace BackPropagationPoints
             this.learningRate = learningRate;
 
             Layers = new List<Layer>();
-
         }
     }
 }
