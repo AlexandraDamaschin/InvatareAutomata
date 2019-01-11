@@ -54,6 +54,26 @@ namespace BackPropagationPoints
             graphics = panel1.CreateGraphics();
         }
 
+        #region Draws
+        private void DrawAxis()
+        {
+            Pen pen = new Pen(Color.Black, 1.5f);
+
+            graphics.DrawLine(pen, panel1.Width / 2, 0, panel1.Width / 2, panel1.Height);
+            graphics.DrawLine(pen, 0, panel1.Height / 2, panel1.Width, panel1.Height / 2);
+        }
+
+        private void DrawPoint(double x, double y, Color c, float radius = 3.6f)
+        {
+            double screenX = x + maxX / 2 - radius / 2;
+            double screenY = maxY / 2 - y - radius / 2;
+
+            graphics.FillEllipse(new SolidBrush(c), (float)screenX, (float)screenY, radius, radius);
+        }
+
+        #endregion
+
+        #region buttons 
         private void button_load_Click(object sender, System.EventArgs e)
         {
 
@@ -68,5 +88,6 @@ namespace BackPropagationPoints
         {
 
         }
+        #endregion
     }
 }
