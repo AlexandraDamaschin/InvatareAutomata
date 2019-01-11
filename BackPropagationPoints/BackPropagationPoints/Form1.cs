@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -49,6 +50,8 @@ namespace BackPropagationPoints
         public Form1()
         {
             InitializeComponent();
+
+            graphics = panel1.CreateGraphics();
         }
 
         private void button_load_Click(object sender, System.EventArgs e)
