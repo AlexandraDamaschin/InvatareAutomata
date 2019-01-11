@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace BackPropagationPoints
 {
@@ -52,6 +53,52 @@ namespace BackPropagationPoints
                 total += Math.Pow((Layers[Layers.Count - 1].Neurons[i].Output - target), 2);
             }
             return total;
+        }
+
+        public void Backward1(double target)
+        {
+            double error;
+            for (int i = 0; i < Layers[Layers.Count - 1].Neurons.Count; i++)
+            {
+                error = Layers[Layers.Count - 1].Neurons[i].Output - target;
+                Layers[Layers.Count - 1].Neurons[i].Error = 2 * error * Layers[Layers.Count - 1].Neurons[i].Derivata();
+            }
+        }
+
+        public void Backward(double target)
+        {
+            for (int i = 0; i < Layers[Layers.Count - 1].Neurons.Count; i++)
+            {
+                Layers[Layers.Count - 1].Neurons[i].Error = 2 * (Layers[Layers.Count - 1].Neurons[i].Output - target) *
+                                                            Layers[Layers.Count - 1].Neurons[i].Derivata();
+
+                Layers[Layers.Count - 1].Neurons[i].W0 += -learningRate * Layers[Layers.Count - 1].Neurons[i].Error;
+
+                for (int j = 0; j < Layers[Layers.Count - 1].Neurons[i].Weight.Length; j++)
+                {
+                    Layers[Layers.Count - 1].Neurons[i].Weight[j] += -learningRate * Layers[Layers.Count - 1].Neurons[i].Error *
+                                                                      Layers[Layers.Count - 2].Neurons[j].Output;
+                }
+            }
+
+            for (int i = 0; i < Layers[Layers.Count - 2].Neurons.Count; i++)
+            {
+                double sum = 0.0d;
+                for (int j = 0; j < Layers[Layers.Count - 1].Neurons.Count; j++)
+                {
+                    sum += (Layers[Layers.Count - 1].Neurons[j].Output - target) * Layers[Layers.Count - 1].Neurons[j].Derivata();
+                }
+                Layers[Layers.Count - 2].Neurons[i].Error = 2 * sum * Layers[Layers.Count - 2].Neurons[i].Derivata();
+
+                Layers[Layers.Count - 2].Neurons[i].W0 += -learningRate * Layers[Layers.Count - 2].Neurons[i].Error;
+
+                sum = 0.0d;
+
+                for (int j = 0; j < Layers[0].Neurons.Count; j++)
+                {
+                    Layers[Layers.Count - 2].Neurons[i].Weight[j] += -learningRate * Layers[Layers.Count - 2].Neurons[i].Error * Layers[0].Neurons[j].Output;
+                }
+            }
         }
     }
 }
