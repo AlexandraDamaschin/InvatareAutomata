@@ -1,0 +1,9 @@
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\bin\Debug\BackPropagationPoints.exe
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\bin\Debug\BackPropagationPoints.pdb
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.csprojAssemblyReference.cache
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.Form1.resources
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.Properties.Resources.resources
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.csproj.GenerateResource.cache
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.csproj.CoreCompileInputs.cache
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.exe
+C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\BackPropagationPoints\BackPropagationPoints\obj\Debug\BackPropagationPoints.pdb
