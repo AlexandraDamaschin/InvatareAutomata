@@ -123,7 +123,23 @@ namespace BackPropagationPoints
 
         private void button_start_Click(object sender, System.EventArgs e)
         {
+            for (int i = -panel1.Width; i <= panel1.Width; i += 2)
+            {
+                for (int j = -panel1.Height; j <= panel1.Height; j += 2)
+                {
+                    double[] point = new double[] { (double)i / (maxX / 2), (double)j / (maxY / 2) };
 
+                    neuralNetwork.Forward(point);
+                    int area = (int)(neuralNetwork.Layers[neuralNetwork.Layers.Count - 1].Neurons[0].Output * numberOfOutputs);
+
+                    DrawPoint(i, j, colorAreas[area]);
+                }
+            }
+
+            foreach (var item in points)
+            {
+                DrawPoint(item.X, item.Y, colorPoints[item.Area - 1]);
+            }
         }
         #endregion
 
