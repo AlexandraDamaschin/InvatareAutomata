@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace BackPropagationPoints
 {
@@ -40,6 +41,17 @@ namespace BackPropagationPoints
                     Layers[i].Neurons[j].ActivationFunction(sum);
                 }
             }
+        }
+
+        public double TotalError(double target)
+        {
+            double total = 0.0d;
+
+            for (int i = 0; i < Layers[Layers.Count - 1].Neurons.Count; i++)
+            {
+                total += Math.Pow((Layers[Layers.Count - 1].Neurons[i].Output - target), 2);
+            }
+            return total;
         }
     }
 }
