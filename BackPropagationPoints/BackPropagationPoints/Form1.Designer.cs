@@ -44,7 +44,7 @@
             // 
             // button_load
             // 
-            this.button_load.Location = new System.Drawing.Point(664, 46);
+            this.button_load.Location = new System.Drawing.Point(998, 18);
             this.button_load.Name = "button_load";
             this.button_load.Size = new System.Drawing.Size(149, 44);
             this.button_load.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             // button_train
             // 
-            this.button_train.Location = new System.Drawing.Point(664, 137);
+            this.button_train.Location = new System.Drawing.Point(998, 109);
             this.button_train.Name = "button_train";
             this.button_train.Size = new System.Drawing.Size(149, 44);
             this.button_train.TabIndex = 2;
@@ -64,7 +64,7 @@
             // 
             // button_start
             // 
-            this.button_start.Location = new System.Drawing.Point(664, 221);
+            this.button_start.Location = new System.Drawing.Point(998, 193);
             this.button_start.Name = "button_start";
             this.button_start.Size = new System.Drawing.Size(149, 44);
             this.button_start.TabIndex = 3;
@@ -76,7 +76,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(872, 629);
+            this.ClientSize = new System.Drawing.Size(1159, 802);
             this.Controls.Add(this.button_start);
             this.Controls.Add(this.button_train);
             this.Controls.Add(this.button_load);

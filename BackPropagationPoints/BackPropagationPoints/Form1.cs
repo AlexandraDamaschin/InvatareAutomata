@@ -53,6 +53,9 @@ namespace BackPropagationPoints
         {
             InitializeComponent();
 
+            panel1.Size = new Size(maxX, maxY);
+            Console.WriteLine("{0},{1}", this.Size.Width, this.Size.Height);
+            
             graphics = panel1.CreateGraphics();
         }
 
