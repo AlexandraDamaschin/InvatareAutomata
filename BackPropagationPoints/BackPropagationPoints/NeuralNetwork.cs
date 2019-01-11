@@ -13,6 +13,10 @@ namespace BackPropagationPoints
             this.learningRate = learningRate;
 
             Layers = new List<Layer>();
+
+            Layers.Add(new Layer(noInputs, 0));
+            Layers.Add(new Layer(noHiddens, noInputs));
+            Layers.Add(new Layer(noOutputs, noHiddens));
         }
     }
 }
