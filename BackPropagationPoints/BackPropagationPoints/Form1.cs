@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Windows.Forms;
 
 namespace BackPropagationPoints
@@ -73,11 +74,46 @@ namespace BackPropagationPoints
 
         #endregion
 
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            DrawAxis();
+        }
+
         #region buttons 
         private void button_load_Click(object sender, System.EventArgs e)
         {
+            OpenFileDialog openFile = new OpenFileDialog();
 
+            if (openFile.ShowDialog() == DialogResult.OK)
+            {
+                string line;
+                StreamReader reader = new StreamReader(openFile.FileName, true);
+
+                while ((line = reader.ReadLine()) != null)
+                {
+                    string[] data = line.Split(new char[] { ',', ' ' });
+
+                    Point point = new Point();
+                    point.X = Convert.ToDouble(data[0]);
+                    point.Y = Convert.ToDouble(data[1]);
+                    point.Area = Convert.ToInt32(data[2]);
+                    point.Color = colorPoints[point.Area - 1];
+
+                    DrawPoint(point.X, point.Y, point.Color);
+                    points.Add(point);
+
+                    if (numberOfOutputs < point.Area)
+                    {
+                        numberOfOutputs = point.Area;
+                    }
+                }
+                reader.Close();
+                neuralNetwork = new NeuralNetwork(2, 5, numberOfOutputs);
+            }
+            Console.WriteLine(numberOfOutputs);
+            done = false;
         }
+
 
         private void button_train_Click(object sender, System.EventArgs e)
         {
