@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace BackPropagationPoints
@@ -114,10 +115,10 @@ namespace BackPropagationPoints
             done = false;
         }
 
-
         private void button_train_Click(object sender, System.EventArgs e)
         {
-
+            Thread thread = new Thread(Run);
+            thread.Start();
         }
 
         private void button_start_Click(object sender, System.EventArgs e)
@@ -125,5 +126,35 @@ namespace BackPropagationPoints
 
         }
         #endregion
+
+        private void Run()
+        {
+            double prag = Math.Pow(10, -2);
+            double E = 100;
+            int epoca = 0;
+
+            while (E > prag && epoca < 1000)
+            {
+                E = 0;
+                for (int i = 0; i < points.Count; i++)
+                {
+                    Point point = points[i];
+                    double[] p = new double[] { point.X / (maxX / 2), point.Y / (maxY / 2) };
+                    neuralNetwork.Forward(p);
+
+                    double target = (double)point.Area / (numberOfOutputs + 1);
+
+                    neuralNetwork.Backward(target);
+
+                    for (int j = 0; j < neuralNetwork.Layers[neuralNetwork.Layers.Count - 1].Neurons.Count; j++)
+                    {
+                        E += Math.Pow(neuralNetwork.Layers[neuralNetwork.Layers.Count - 1].Neurons[j].Output - target, 2);
+                    }
+                }
+                Console.WriteLine(E);
+                epoca++;
+            }
+            MessageBox.Show("DONE!\n Epoci =" + epoca);
+        }
     }
 }
