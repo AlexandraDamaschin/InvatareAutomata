@@ -8,5 +8,20 @@ namespace BackPropagationPoints
         {
             InitializeComponent();
         }
+
+        private void button_load_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void button_train_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void button_start_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
