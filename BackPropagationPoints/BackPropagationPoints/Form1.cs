@@ -18,6 +18,7 @@ namespace BackPropagationPoints
         int numberOfOutputs = 0;
         NeuralNetwork neuralNetwork;
 
+        #region Colors
         Color[] colorAreas = new Color[]
         {
             Color.FromArgb(0, 204, 255),
@@ -48,6 +49,7 @@ namespace BackPropagationPoints
             Color.Yellow,
             Color.Magenta
        };
+        #endregion
 
         public Form1()
         {
@@ -55,7 +57,7 @@ namespace BackPropagationPoints
 
             panel1.Size = new Size(maxX, maxY);
             Console.WriteLine("{0},{1}", this.Size.Width, this.Size.Height);
-            
+
             graphics = panel1.CreateGraphics();
         }
 
