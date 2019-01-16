@@ -1,6 +1,5 @@
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
-C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
 C:\AlexandraFiles\Faculty\Sem1\InvatareAutomata-Volo\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb

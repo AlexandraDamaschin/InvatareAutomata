@@ -81,7 +81,7 @@ namespace GeneticAlgorithm
             {
                 chromosomes[i] = new Chromosome();
                 //generate random population
-                chromosomes[i].x = random.NextDouble() * 5;
+                chromosomes[i].x = random.NextDouble();
                 chromosomes[i].valLong = doubleToLong(chromosomes[i].x);
 
                 //foreach chromosome from the entire population calculate trust 
