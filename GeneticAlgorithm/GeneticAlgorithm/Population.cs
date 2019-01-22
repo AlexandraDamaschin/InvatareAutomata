@@ -164,7 +164,7 @@ namespace GeneticAlgorithm
 
         public void PrintChromosomees()
         {
-            Console.WriteLine("Chromosoms");
+            Console.WriteLine("Chromosoms Start");
             foreach (Chromosome Chromosome in Chromosomes)
             {
                 Console.WriteLine("Gene: " + Chromosome.Genes + " | FitnessScore: " + Chromosome.Score);
