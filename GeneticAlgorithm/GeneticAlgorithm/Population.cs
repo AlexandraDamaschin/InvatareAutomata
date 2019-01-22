@@ -126,7 +126,7 @@ namespace GeneticAlgorithm
             return crs;
         }
 
-        public void CodificareDate()
+        public void CodificationOfData()
         {
             foreach (Chromosome Chromosome in Chromosomes)
             {
@@ -135,7 +135,7 @@ namespace GeneticAlgorithm
             }
         }
 
-        public void CalculFitness()
+        public void CalculateFitness()
         {
             totalFitness = 0;
             foreach (Chromosome Chromosome in Chromosomes)
