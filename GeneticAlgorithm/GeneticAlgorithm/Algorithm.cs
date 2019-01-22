@@ -7,20 +7,16 @@ namespace GeneticAlgorithm
 {
     class Algorithm
     {
-        #region Properties
         private Random random;
         private List<Chromosome> Chromosomes = new List<Chromosome>();
         private Population population;
         private int numberOfChromosoms;
-        #endregion
 
-        #region Constructors
         public Algorithm(int numberOfChromosoms)
         {
             random = new Random();
             this.numberOfChromosoms = numberOfChromosoms;
         }
-        #endregion
 
         #region methods
         public void Run()
