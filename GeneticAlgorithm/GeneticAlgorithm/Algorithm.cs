@@ -33,7 +33,7 @@ namespace GeneticAlgorithm
             while (i < 100)
             {
                 population.CodificationOfData();
-                population.CalculateFitness();
+                population.CalculateTotalFitness();
                 population.PrintChromosomees();
                 population.NextGeneration();
                 population.PrintChromosomees();

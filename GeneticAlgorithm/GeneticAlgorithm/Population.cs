@@ -2,18 +2,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace GeneticAlgorithm
 {
     class Population
     {
-        #region Properties
         private Random random;
         private List<Chromosome> Chromosomes = new List<Chromosome>();
         private double totalFitness;
         private int numberOfChromosomes; // Number of cromozons
-        #endregion
 
         public Population(List<Chromosome> Chromosomes, Random random, int count)
         {
@@ -30,12 +27,13 @@ namespace GeneticAlgorithm
 
             Chromosomes.Clear();
 
+            //take first half of the population with best score = 'elite'
             for (int i = 0; i < numberOfChromosomes / 2; i++)
             {
                 Chromosomes.Add(temp[i]);
             }
 
-            // Crossover for entire generation
+            // Crossover for the other half od the generation
             while (Chromosomes.Count <= numberOfChromosomes)
             {
                 // Select 2 Chromosoms
@@ -56,11 +54,13 @@ namespace GeneticAlgorithm
         {
             int count = numberOfChromosomes / 10;
 
-            while (count > 0)
+             while (count > 0)
             {
                 int i = random.Next(0, 100);
 
                 bool bit;
+
+                //convert gene of chromosome to binary
                 BitArray binaryGene = new BitArray(BitConverter.GetBytes(Chromosomes[i].Genes));
 
                 for (int j = random.Next(0, 50); j > 0; j--)
@@ -72,6 +72,7 @@ namespace GeneticAlgorithm
                 byte[] tempbytes = new byte[binaryGene.Length];
 
                 binaryGene.CopyTo(tempbytes, 0);
+                //convert bynary gene to double
                 Chromosomes[i].Genes = BitConverter.ToDouble(tempbytes, 0);
 
                 count--;
@@ -84,6 +85,7 @@ namespace GeneticAlgorithm
             double totalRandom = random.NextDouble() * totalFitness;
             double currentFitness = 0;
 
+            //chose best chromosome from first half of the population
             for (int i = 0; i < numberOfChromosomes / 2; i++)
             {
                 currentFitness += temp[i].Score;
@@ -97,6 +99,7 @@ namespace GeneticAlgorithm
 
         private List<Chromosome> Crossover(Chromosome parent1, Chromosome parent2)
         {
+            //convert gene from double to bit
             BitArray binaryGene1 = new BitArray(BitConverter.GetBytes(parent1.Genes));
             BitArray binaryGene2 = new BitArray(BitConverter.GetBytes(parent2.Genes));
 
@@ -130,12 +133,14 @@ namespace GeneticAlgorithm
         {
             foreach (Chromosome Chromosome in Chromosomes)
             {
+                //convert gene from double to long 
                 long intValue = BitConverter.DoubleToInt64Bits(Chromosome.Genes);
+                //convert gene from long to binary
                 Chromosome.BinaryGenes = Convert.ToString(intValue, 2);
             }
         }
 
-        public void CalculateFitness()
+        public void CalculateTotalFitness()
         {
             totalFitness = 0;
             foreach (Chromosome Chromosome in Chromosomes)
@@ -159,13 +164,13 @@ namespace GeneticAlgorithm
 
         public void PrintChromosomees()
         {
-            Console.WriteLine("### Chromosomes ###");
+            Console.WriteLine("Chromosoms");
             foreach (Chromosome Chromosome in Chromosomes)
             {
-                Console.WriteLine("Gene: " + Chromosome.Genes + " | Score: " + Chromosome.Score);
+                Console.WriteLine("Gene: " + Chromosome.Genes + " | FitnessScore: " + Chromosome.Score);
                 //Console.WriteLine("Gene: " + Chromosome.BinaryGenes + " | Score: " + Chromosome.Score);
             }
-            Console.WriteLine("### End Chromosomes ###");
+            Console.WriteLine("End Chromosoms");
         }
         #endregion
 
