@@ -40,15 +40,12 @@ namespace GeneticAlgorithm
                 for (int j = maxNumberOfChromosomes / 2; j < maxNumberOfChromosomes; j++)
                 {
                     int probability = random.Next(100);
-
-                    if (probability < 20)
-                    {
-                        applyMutation(j);
-                    }
-                    else
+                    //first cross over
+                    if (probability < 50)
                     {
                         if (j < maxNumberOfChromosomes - 1)
                         {
+                            //probabilitate 50%
                             applyCrossover(j, 2);
                             j++;
                         }
@@ -57,10 +54,21 @@ namespace GeneticAlgorithm
                             applyCrossover(j, 1);
                         }
                     }
+
+                    //second mutation
+                    if (probability < 10)
+                    {
+                        //probabil 5-10%
+                        applyMutation(j);
+                    }
+
+                    //Console.WriteLine(i + ":" + fitness(j));
                 }
                 ordonateChromosomes();
                 writeChromosomes();
-                Console.WriteLine(i);
+
+                //Console.WriteLine(i);
+
             }
             streamWriter.Close();
             test();
@@ -112,7 +120,7 @@ namespace GeneticAlgorithm
         {
             for (int i = 0; i < maxNumberOfChromosomes; i++)
             {
-                streamWriter.Write(chromosomes[i].valFunction + ";" + chromosomes[i].x + ";" + ";");
+                streamWriter.Write(chromosomes[i].valFunction + ";" + chromosomes[i].x + ";");
                 streamWriter.WriteLine();
             }
         }
@@ -295,9 +303,9 @@ namespace GeneticAlgorithm
 
         static void test()
         {
-            for (double d = 0; d < 5; d += 0.2)
+            for (double d = 0; d < maxNumberOfChromosomes; d++)
             {
-                Console.WriteLine(d + ":" + fitness(d));
+                Console.WriteLine("Chromosome no:" + d + ", " + "Fitness value:" + fitness(d));
             }
         }
 
