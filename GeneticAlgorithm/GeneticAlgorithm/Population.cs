@@ -163,6 +163,7 @@ namespace GeneticAlgorithm
             foreach (Chromosome Chromosome in Chromosomes)
             {
                 Console.WriteLine("Gene: " + Chromosome.Genes + " | Score: " + Chromosome.Score);
+                //Console.WriteLine("Gene: " + Chromosome.BinaryGenes + " | Score: " + Chromosome.Score);
             }
             Console.WriteLine("### End Chromosomes ###");
         }
