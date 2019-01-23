@@ -150,7 +150,7 @@ namespace BackPropagationPoints
 
         private void Run()
         {
-            double prag = Math.Pow(10, -2);
+            double prag = 1;// 10;//Math.Pow(10, -2);
             double E = 100;
             int epoca = 0;
 

@@ -105,7 +105,7 @@ namespace GeneticAlgorithm
 
             //BitArray BAB1, BAB2;
             bool temp1, temp2;
-            for (int i = random.Next(0, 32); i > 0; i--)
+            for (int i = random.Next(0, 10); i > 0; i--)
             {
                 temp1 = binaryGene1.Get(i);
                 temp2 = binaryGene2.Get(i);
@@ -137,6 +137,7 @@ namespace GeneticAlgorithm
                 long intValue = BitConverter.DoubleToInt64Bits(Chromosome.Genes);
                 //convert gene from long to binary
                 Chromosome.BinaryGenes = Convert.ToString(intValue, 2);
+                double a = BitConverter.Int64BitsToDouble(intValue);
             }
         }
 
