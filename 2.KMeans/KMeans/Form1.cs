@@ -10,6 +10,7 @@ namespace KMeans
         private System.IO.StreamReader streamReader;
         private List<DataPoint> points;
         Random random;
+
         //random colors
         Color[] colors = {
                 Color.Blue, Color.Red, Color.Yellow, Color.Magenta, Color.Green,
@@ -142,7 +143,7 @@ namespace KMeans
                 points.Add(new DataPoint(point.X, point.Y, parent));
                 int newX = CalculateNewX(point.X);
                 int newY = CalculateNewY(point.Y);
-                drawCenter(newX, newY, colors[parent]); //draw?
+                drawCenter(newX, newY, colors[parent]);
             }
 
             for (int i = 0; i < noOfCenters; i++)
@@ -228,6 +229,5 @@ namespace KMeans
         {
             streamReader.Close();
         }
-
     }
 }
